@@ -1,0 +1,6488 @@
+location,count,crime_type
+ANDHRA PRADESH,1150.0,rape
+ARUNACHAL PRADESH,51.0,rape
+ASSAM,928.0,rape
+BIHAR,1400.0,rape
+CHHATTISGARH,1134.0,rape
+GOA,14.0,rape
+GUJARAT,401.0,rape
+HARYANA,539.0,rape
+HIMACHAL PRADESH,152.0,rape
+JAMMU & KASHMIR,222.0,rape
+JHARKHAND,637.0,rape
+KARNATAKA,361.0,rape
+KERALA,712.0,rape
+MADHYA PRADESH,3212.0,rape
+MAHARASHTRA,1886.0,rape
+MANIPUR,17.0,rape
+MEGHALAYA,29.0,rape
+MIZORAM,64.0,rape
+NAGALAND,28.0,rape
+ODISHA,887.0,rape
+PUNJAB,459.0,rape
+RAJASTHAN,1147.0,rape
+SIKKIM,6.0,rape
+TAMIL NADU,565.0,rape
+TRIPURA,139.0,rape
+UTTAR PRADESH,2685.0,rape
+UTTARAKHAND,82.0,rape
+WEST BENGAL,1027.0,rape
+TOTAL (STATES),19934.0,rape
+A & N ISLANDS,3.0,rape
+CHANDIGARH,32.0,rape
+D & N HAVELI,10.0,rape
+DAMAN & DIU,0.0,rape
+DELHI,454.0,rape
+LAKSHADWEEP,0.0,rape
+PUDUCHERRY,13.0,rape
+TOTAL (UTs),512.0,rape
+TOTAL (ALL-INDIA),20446.0,rape
+ANDHRA PRADESH,965.0,rape
+ARUNACHAL PRADESH,60.0,rape
+ASSAM,1583.0,rape
+BIHAR,988.0,rape
+CHHATTISGARH,223.0,rape
+GOA,8.0,rape
+GUJARAT,1063.0,rape
+HARYANA,298.0,rape
+HIMACHAL PRADESH,74.0,rape
+JAMMU & KASHMIR,633.0,rape
+JHARKHAND,318.0,rape
+KARNATAKA,306.0,rape
+KERALA,114.0,rape
+MADHYA PRADESH,917.0,rape
+MAHARASHTRA,1022.0,rape
+MANIPUR,58.0,rape
+MEGHALAYA,9.0,rape
+MIZORAM,5.0,rape
+NAGALAND,9.0,rape
+ODISHA,555.0,rape
+PUNJAB,369.0,rape
+RAJASTHAN,1261.0,rape
+SIKKIM,0.0,rape
+TAMIL NADU,808.0,rape
+TRIPURA,43.0,rape
+UTTAR PRADESH,4295.0,rape
+UTTARAKHAND,153.0,rape
+WEST BENGAL,1331.0,rape
+TOTAL (STATES),17468.0,rape
+A & N ISLANDS,4.0,rape
+CHANDIGARH,43.0,rape
+D & N HAVELI,3.0,rape
+DAMAN & DIU,2.0,rape
+DELHI,298.0,rape
+LAKSHADWEEP,0.0,rape
+PUDUCHERRY,1.0,rape
+TOTAL (UTs),351.0,rape
+TOTAL (ALL-INDIA),17819.0,rape
+ANDHRA PRADESH,1054.0,rape
+ARUNACHAL PRADESH,0.0,rape
+ASSAM,95.0,rape
+BIHAR,2899.0,rape
+CHHATTISGARH,163.0,rape
+GOA,4.0,rape
+GUJARAT,238.0,rape
+HARYANA,734.0,rape
+HIMACHAL PRADESH,15.0,rape
+JAMMU & KASHMIR,40.0,rape
+JHARKHAND,557.0,rape
+KARNATAKA,422.0,rape
+KERALA,55.0,rape
+MADHYA PRADESH,1503.0,rape
+MAHARASHTRA,1009.0,rape
+MANIPUR,0.0,rape
+MEGHALAYA,0.0,rape
+MIZORAM,0.0,rape
+NAGALAND,0.0,rape
+ODISHA,603.0,rape
+PUNJAB,450.0,rape
+RAJASTHAN,722.0,rape
+SIKKIM,0.0,rape
+TAMIL NADU,2266.0,rape
+TRIPURA,94.0,rape
+UTTAR PRADESH,6305.0,rape
+UTTARAKHAND,161.0,rape
+WEST BENGAL,725.0,rape
+TOTAL (STATES),20114.0,rape
+A & N ISLANDS,0.0,rape
+CHANDIGARH,7.0,rape
+D & N HAVELI,0.0,rape
+DAMAN & DIU,0.0,rape
+DELHI,256.0,rape
+LAKSHADWEEP,0.0,rape
+PUDUCHERRY,4.0,rape
+TOTAL (UTs),267.0,rape
+TOTAL (ALL-INDIA),20381.0,rape
+ANDHRA PRADESH,3639.0,rape
+ARUNACHAL PRADESH,95.0,rape
+ASSAM,1161.0,rape
+BIHAR,982.0,rape
+CHHATTISGARH,2106.0,rape
+GOA,15.0,rape
+GUJARAT,1033.0,rape
+HARYANA,567.0,rape
+HIMACHAL PRADESH,431.0,rape
+JAMMU & KASHMIR,1034.0,rape
+JHARKHAND,384.0,rape
+KARNATAKA,2401.0,rape
+KERALA,2317.0,rape
+MADHYA PRADESH,8196.0,rape
+MAHARASHTRA,3385.0,rape
+MANIPUR,12.0,rape
+MEGHALAYA,13.0,rape
+MIZORAM,58.0,rape
+NAGALAND,0.0,rape
+ODISHA,2278.0,rape
+PUNJAB,462.0,rape
+RAJASTHAN,3282.0,rape
+SIKKIM,0.0,rape
+TAMIL NADU,2283.0,rape
+TRIPURA,62.0,rape
+UTTAR PRADESH,3960.0,rape
+UTTARAKHAND,150.0,rape
+WEST BENGAL,1163.0,rape
+TOTAL (STATES),41469.0,rape
+A & N ISLANDS,19.0,rape
+CHANDIGARH,33.0,rape
+D & N HAVELI,7.0,rape
+DAMAN & DIU,0.0,rape
+DELHI,650.0,rape
+LAKSHADWEEP,0.0,rape
+PUDUCHERRY,66.0,rape
+TOTAL (UTs),775.0,rape
+TOTAL (ALL-INDIA),42244.0,rape
+ANDHRA PRADESH,2268.0,rape
+ARUNACHAL PRADESH,3.0,rape
+ASSAM,11.0,rape
+BIHAR,37.0,rape
+CHHATTISGARH,194.0,rape
+GOA,8.0,rape
+GUJARAT,147.0,rape
+HARYANA,480.0,rape
+HIMACHAL PRADESH,18.0,rape
+JAMMU & KASHMIR,367.0,rape
+JHARKHAND,46.0,rape
+KARNATAKA,71.0,rape
+KERALA,127.0,rape
+MADHYA PRADESH,1123.0,rape
+MAHARASHTRA,1314.0,rape
+MANIPUR,0.0,rape
+MEGHALAYA,0.0,rape
+MIZORAM,0.0,rape
+NAGALAND,0.0,rape
+ODISHA,539.0,rape
+PUNJAB,57.0,rape
+RAJASTHAN,58.0,rape
+SIKKIM,18.0,rape
+TAMIL NADU,1229.0,rape
+TRIPURA,0.0,rape
+UTTAR PRADESH,3961.0,rape
+UTTARAKHAND,137.0,rape
+WEST BENGAL,56.0,rape
+TOTAL (STATES),12269.0,rape
+A & N ISLANDS,1.0,rape
+CHANDIGARH,17.0,rape
+D & N HAVELI,0.0,rape
+DAMAN & DIU,0.0,rape
+DELHI,107.0,rape
+LAKSHADWEEP,0.0,rape
+PUDUCHERRY,45.0,rape
+TOTAL (UTs),170.0,rape
+TOTAL (ALL-INDIA),12439.0,rape
+ANDHRA PRADESH,9725.0,rape
+ARUNACHAL PRADESH,9.0,rape
+ASSAM,1515.0,rape
+BIHAR,3838.0,rape
+CHHATTISGARH,1439.0,rape
+GOA,36.0,rape
+GUJARAT,10192.0,rape
+HARYANA,3134.0,rape
+HIMACHAL PRADESH,648.0,rape
+JAMMU & KASHMIR,110.0,rape
+JHARKHAND,943.0,rape
+KARNATAKA,3413.0,rape
+KERALA,4288.0,rape
+MADHYA PRADESH,7155.0,rape
+MAHARASHTRA,20940.0,rape
+MANIPUR,4.0,rape
+MEGHALAYA,3.0,rape
+MIZORAM,0.0,rape
+NAGALAND,0.0,rape
+ODISHA,1972.0,rape
+PUNJAB,2746.0,rape
+RAJASTHAN,7082.0,rape
+SIKKIM,0.0,rape
+TAMIL NADU,1545.0,rape
+TRIPURA,252.0,rape
+UTTAR PRADESH,19827.0,rape
+UTTARAKHAND,746.0,rape
+WEST BENGAL,6645.0,rape
+TOTAL (STATES),108207.0,rape
+A & N ISLANDS,7.0,rape
+CHANDIGARH,33.0,rape
+D & N HAVELI,4.0,rape
+DAMAN & DIU,13.0,rape
+DELHI,1200.0,rape
+LAKSHADWEEP,0.0,rape
+PUDUCHERRY,3.0,rape
+TOTAL (UTs),1260.0,rape
+TOTAL (ALL-INDIA),109467.0,rape
+ANDHRA PRADESH,6.0,rape
+ARUNACHAL PRADESH,0.0,rape
+ASSAM,0.0,rape
+BIHAR,179.0,rape
+CHHATTISGARH,0.0,rape
+GOA,0.0,rape
+GUJARAT,0.0,rape
+HARYANA,0.0,rape
+HIMACHAL PRADESH,0.0,rape
+JAMMU & KASHMIR,0.0,rape
+JHARKHAND,8.0,rape
+KARNATAKA,0.0,rape
+KERALA,0.0,rape
+MADHYA PRADESH,0.0,rape
+MAHARASHTRA,11.0,rape
+MANIPUR,0.0,rape
+MEGHALAYA,0.0,rape
+MIZORAM,0.0,rape
+NAGALAND,0.0,rape
+ODISHA,0.0,rape
+PUNJAB,0.0,rape
+RAJASTHAN,2.0,rape
+SIKKIM,0.0,rape
+TAMIL NADU,12.0,rape
+TRIPURA,0.0,rape
+UTTAR PRADESH,0.0,rape
+UTTARAKHAND,0.0,rape
+WEST BENGAL,2.0,rape
+TOTAL (STATES),220.0,rape
+A & N ISLANDS,0.0,rape
+CHANDIGARH,0.0,rape
+D & N HAVELI,0.0,rape
+DAMAN & DIU,0.0,rape
+DELHI,0.0,rape
+LAKSHADWEEP,0.0,rape
+PUDUCHERRY,0.0,rape
+TOTAL (UTs),0.0,rape
+TOTAL (ALL-INDIA),220.0,rape
+ANDHRA PRADESH,1860.0,rape
+ARUNACHAL PRADESH,0.0,rape
+ASSAM,6.0,rape
+BIHAR,168.0,rape
+CHHATTISGARH,36.0,rape
+GOA,101.0,rape
+GUJARAT,390.0,rape
+HARYANA,93.0,rape
+HIMACHAL PRADESH,5.0,rape
+JAMMU & KASHMIR,16.0,rape
+JHARKHAND,2.0,rape
+KARNATAKA,2325.0,rape
+KERALA,410.0,rape
+MADHYA PRADESH,105.0,rape
+MAHARASHTRA,976.0,rape
+MANIPUR,11.0,rape
+MEGHALAYA,0.0,rape
+MIZORAM,11.0,rape
+NAGALAND,1.0,rape
+ODISHA,95.0,rape
+PUNJAB,120.0,rape
+RAJASTHAN,218.0,rape
+SIKKIM,0.0,rape
+TAMIL NADU,5331.0,rape
+TRIPURA,0.0,rape
+UTTAR PRADESH,125.0,rape
+UTTARAKHAND,0.0,rape
+WEST BENGAL,157.0,rape
+TOTAL (STATES),12562.0,rape
+A & N ISLANDS,0.0,rape
+CHANDIGARH,9.0,rape
+D & N HAVELI,0.0,rape
+DAMAN & DIU,27.0,rape
+DELHI,136.0,rape
+LAKSHADWEEP,0.0,rape
+PUDUCHERRY,89.0,rape
+TOTAL (UTs),261.0,rape
+TOTAL (ALL-INDIA),12823.0,rape
+ANDHRA PRADESH,1042.0,rape
+ARUNACHAL PRADESH,0.0,rape
+ASSAM,197.0,rape
+BIHAR,2501.0,rape
+CHHATTISGARH,17.0,rape
+GOA,0.0,rape
+GUJARAT,0.0,rape
+HARYANA,0.0,rape
+HIMACHAL PRADESH,29.0,rape
+JAMMU & KASHMIR,2.0,rape
+JHARKHAND,855.0,rape
+KARNATAKA,520.0,rape
+KERALA,3.0,rape
+MADHYA PRADESH,97.0,rape
+MAHARASHTRA,39.0,rape
+MANIPUR,0.0,rape
+MEGHALAYA,0.0,rape
+MIZORAM,0.0,rape
+NAGALAND,0.0,rape
+ODISHA,526.0,rape
+PUNJAB,0.0,rape
+RAJASTHAN,7.0,rape
+SIKKIM,0.0,rape
+TAMIL NADU,66.0,rape
+TRIPURA,0.0,rape
+UTTAR PRADESH,1119.0,rape
+UTTARAKHAND,7.0,rape
+WEST BENGAL,8.0,rape
+TOTAL (STATES),7035.0,rape
+A & N ISLANDS,0.0,rape
+CHANDIGARH,0.0,rape
+D & N HAVELI,0.0,rape
+DAMAN & DIU,0.0,rape
+DELHI,19.0,rape
+LAKSHADWEEP,0.0,rape
+PUDUCHERRY,2.0,rape
+TOTAL (UTs),21.0,rape
+TOTAL (ALL-INDIA),7056.0,rape
+ANDHRA PRADESH,509.0,rape
+ARUNACHAL PRADESH,0.0,rape
+ASSAM,1.0,rape
+BIHAR,42.0,rape
+CHHATTISGARH,0.0,rape
+GOA,0.0,rape
+GUJARAT,0.0,rape
+HARYANA,0.0,rape
+HIMACHAL PRADESH,0.0,rape
+JAMMU & KASHMIR,0.0,rape
+JHARKHAND,0.0,rape
+KARNATAKA,0.0,rape
+KERALA,50.0,rape
+MADHYA PRADESH,0.0,rape
+MAHARASHTRA,18.0,rape
+MANIPUR,0.0,rape
+MEGHALAYA,0.0,rape
+MIZORAM,0.0,rape
+NAGALAND,0.0,rape
+ODISHA,0.0,rape
+PUNJAB,1.0,rape
+RAJASTHAN,52.0,rape
+SIKKIM,0.0,rape
+TAMIL NADU,11.0,rape
+TRIPURA,0.0,rape
+UTTAR PRADESH,6.0,rape
+UTTARAKHAND,0.0,rape
+WEST BENGAL,0.0,rape
+TOTAL (STATES),690.0,rape
+A & N ISLANDS,0.0,rape
+CHANDIGARH,0.0,rape
+D & N HAVELI,0.0,rape
+DAMAN & DIU,0.0,rape
+DELHI,4.0,rape
+LAKSHADWEEP,0.0,rape
+PUDUCHERRY,0.0,rape
+TOTAL (UTs),4.0,rape
+TOTAL (ALL-INDIA),694.0,rape
+ANDHRA PRADESH,0.0,rape
+ARUNACHAL PRADESH,0.0,rape
+ASSAM,0.0,rape
+BIHAR,0.0,rape
+CHHATTISGARH,0.0,rape
+GOA,0.0,rape
+GUJARAT,0.0,rape
+HARYANA,0.0,rape
+HIMACHAL PRADESH,0.0,rape
+JAMMU & KASHMIR,0.0,rape
+JHARKHAND,0.0,rape
+KARNATAKA,0.0,rape
+KERALA,0.0,rape
+MADHYA PRADESH,0.0,rape
+MAHARASHTRA,0.0,rape
+MANIPUR,0.0,rape
+MEGHALAYA,0.0,rape
+MIZORAM,0.0,rape
+NAGALAND,0.0,rape
+ODISHA,0.0,rape
+PUNJAB,0.0,rape
+RAJASTHAN,0.0,rape
+SIKKIM,0.0,rape
+TAMIL NADU,0.0,rape
+TRIPURA,0.0,rape
+UTTAR PRADESH,0.0,rape
+UTTARAKHAND,0.0,rape
+WEST BENGAL,0.0,rape
+TOTAL (STATES),0.0,rape
+A & N ISLANDS,0.0,rape
+CHANDIGARH,0.0,rape
+D & N HAVELI,0.0,rape
+DAMAN & DIU,0.0,rape
+DELHI,0.0,rape
+LAKSHADWEEP,0.0,rape
+PUDUCHERRY,0.0,rape
+TOTAL (UTs),0.0,rape
+TOTAL (ALL-INDIA),0.0,rape
+ANDHRA PRADESH,22218.0,rape
+ARUNACHAL PRADESH,218.0,rape
+ASSAM,5497.0,rape
+BIHAR,13034.0,rape
+CHHATTISGARH,5312.0,rape
+GOA,186.0,rape
+GUJARAT,13464.0,rape
+HARYANA,5845.0,rape
+HIMACHAL PRADESH,1372.0,rape
+JAMMU & KASHMIR,2424.0,rape
+JHARKHAND,3750.0,rape
+KARNATAKA,9819.0,rape
+KERALA,8076.0,rape
+MADHYA PRADESH,22308.0,rape
+MAHARASHTRA,30600.0,rape
+MANIPUR,102.0,rape
+MEGHALAYA,54.0,rape
+MIZORAM,138.0,rape
+NAGALAND,38.0,rape
+ODISHA,7455.0,rape
+PUNJAB,4664.0,rape
+RAJASTHAN,13831.0,rape
+SIKKIM,24.0,rape
+TAMIL NADU,14116.0,rape
+TRIPURA,590.0,rape
+UTTAR PRADESH,42283.0,rape
+UTTARAKHAND,1436.0,rape
+WEST BENGAL,11114.0,rape
+TOTAL (STATES),239968.0,rape
+A & N ISLANDS,34.0,rape
+CHANDIGARH,174.0,rape
+D & N HAVELI,24.0,rape
+DAMAN & DIU,42.0,rape
+DELHI,3124.0,rape
+LAKSHADWEEP,0.0,rape
+PUDUCHERRY,223.0,rape
+TOTAL (UTs),3621.0,rape
+TOTAL (ALL-INDIA),243589.0,rape
+Andhra Pradesh,2013.0,murder
+Andhra Pradesh,2013.0,murder
+Andhra Pradesh,2013.0,murder
+Arunachal Pradesh,2013.0,murder
+Arunachal Pradesh,2013.0,murder
+Arunachal Pradesh,2013.0,murder
+Assam,2013.0,murder
+Assam,2013.0,murder
+Assam,2013.0,murder
+Bihar,2013.0,murder
+Bihar,2013.0,murder
+Bihar,2013.0,murder
+Chhattisgarh,2013.0,murder
+Chhattisgarh,2013.0,murder
+Chhattisgarh,2013.0,murder
+Goa,2013.0,murder
+Goa,2013.0,murder
+Goa,2013.0,murder
+Gujarat,2013.0,murder
+Gujarat,2013.0,murder
+Gujarat,2013.0,murder
+Haryana,2013.0,murder
+Haryana,2013.0,murder
+Haryana,2013.0,murder
+Himachal Pradesh,2013.0,murder
+Himachal Pradesh,2013.0,murder
+Himachal Pradesh,2013.0,murder
+Jammu & Kashmir,2013.0,murder
+Jammu & Kashmir,2013.0,murder
+Jammu & Kashmir,2013.0,murder
+Jharkhand,2013.0,murder
+Jharkhand,2013.0,murder
+Jharkhand,2013.0,murder
+Karnataka,2013.0,murder
+Karnataka,2013.0,murder
+Karnataka,2013.0,murder
+Kerala,2013.0,murder
+Kerala,2013.0,murder
+Kerala,2013.0,murder
+Madhya Pradesh,2013.0,murder
+Madhya Pradesh,2013.0,murder
+Madhya Pradesh,2013.0,murder
+Maharashtra,2013.0,murder
+Maharashtra,2013.0,murder
+Maharashtra,2013.0,murder
+Manipur,2013.0,murder
+Manipur,2013.0,murder
+Manipur,2013.0,murder
+Meghalaya,2013.0,murder
+Meghalaya,2013.0,murder
+Meghalaya,2013.0,murder
+Mizoram,2013.0,murder
+Mizoram,2013.0,murder
+Mizoram,2013.0,murder
+Nagaland,2013.0,murder
+Nagaland,2013.0,murder
+Nagaland,2013.0,murder
+Odisha,2013.0,murder
+Odisha,2013.0,murder
+Odisha,2013.0,murder
+Punjab,2013.0,murder
+Punjab,2013.0,murder
+Punjab,2013.0,murder
+Rajasthan,2013.0,murder
+Rajasthan,2013.0,murder
+Rajasthan,2013.0,murder
+Sikkim,2013.0,murder
+Sikkim,2013.0,murder
+Sikkim,2013.0,murder
+Tamil Nadu,2013.0,murder
+Tamil Nadu,2013.0,murder
+Tamil Nadu,2013.0,murder
+Tripura,2013.0,murder
+Tripura,2013.0,murder
+Tripura,2013.0,murder
+Uttar Pradesh,2013.0,murder
+Uttar Pradesh,2013.0,murder
+Uttar Pradesh,2013.0,murder
+Uttarakhand,2013.0,murder
+Uttarakhand,2013.0,murder
+Uttarakhand,2013.0,murder
+West Bengal,2013.0,murder
+West Bengal,2013.0,murder
+West Bengal,2013.0,murder
+A&N Islands,2013.0,murder
+A&N Islands,2013.0,murder
+A&N Islands,2013.0,murder
+Chandigarh,2013.0,murder
+Chandigarh,2013.0,murder
+Chandigarh,2013.0,murder
+D&N Haveli,2013.0,murder
+D&N Haveli,2013.0,murder
+D&N Haveli,2013.0,murder
+Daman & Diu,2013.0,murder
+Daman & Diu,2013.0,murder
+Daman & Diu,2013.0,murder
+Delhi UT,2013.0,murder
+Delhi UT,2013.0,murder
+Delhi UT,2013.0,murder
+Lakshadweep,2013.0,murder
+Lakshadweep,2013.0,murder
+Lakshadweep,2013.0,murder
+Puducherry,2013.0,murder
+Puducherry,2013.0,murder
+Puducherry,2013.0,murder
+Andhra Pradesh,2013.0,abduction
+Arunachal Pradesh,2013.0,abduction
+Assam,2013.0,abduction
+Bihar,2013.0,abduction
+Chhattisgarh,2013.0,abduction
+Goa,2013.0,abduction
+Gujarat,2013.0,abduction
+Haryana,2013.0,abduction
+Himachal Pradesh,2013.0,abduction
+Jammu & Kashmir,2013.0,abduction
+Jharkhand,2013.0,abduction
+Karnataka,2013.0,abduction
+Kerala,2013.0,abduction
+Madhya Pradesh,2013.0,abduction
+Maharashtra,2013.0,abduction
+Manipur,2013.0,abduction
+Meghalaya,2013.0,abduction
+Mizoram,2013.0,abduction
+Nagaland,2013.0,abduction
+Odisha,2013.0,abduction
+Punjab,2013.0,abduction
+Rajasthan,2013.0,abduction
+Sikkim,2013.0,abduction
+Tamil Nadu,2013.0,abduction
+Tripura,2013.0,abduction
+Uttar Pradesh,2013.0,abduction
+Uttarakhand,2013.0,abduction
+West Bengal,2013.0,abduction
+A&N Islands,2013.0,abduction
+Chandigarh,2013.0,abduction
+D&N Haveli,2013.0,abduction
+Daman & Diu,2013.0,abduction
+Delhi UT,2013.0,abduction
+Lakshadweep,2013.0,abduction
+Puducherry,2013.0,abduction
+Agra,336.0,accident
+Ahmedabad,222.0,accident
+Asansol-Durgapur,229.0,accident
+Aurangabad,161.0,accident
+Bengaluru,689.0,accident
+Bhopal,275.0,accident
+Coimbatore,253.0,accident
+Delhi,2007.0,accident
+Dhanbad,74.0,accident
+Faridabad,229.0,accident
+Ghaziabad,495.0,accident
+Gwalior,233.0,accident
+Hyderabad,428.0,accident
+Indore,407.0,accident
+Jaipur,387.0,accident
+Jabalpur,239.0,accident
+Jamshedpur,189.0,accident
+Jodhpur,236.0,accident
+Kochi,171.0,accident
+Kolkata,396.0,accident
+Kollam,209.0,accident
+Kota,102.0,accident
+Kannur,52.0,accident
+Lucknow,493.0,accident
+Ludhiana,260.0,accident
+Madurai,123.0,accident
+Mallapuram,290.0,accident
+Mumbai,539.0,accident
+Meerut,321.0,accident
+Nagpur,227.0,accident
+Patna,507.0,accident
+Pune,62.0,accident
+Rajkot,163.0,accident
+Surat,240.0,accident
+Thrissur,134.0,accident
+Vadodra,164.0,accident
+Varanasi,73.0,accident
+Visakhapatnam,410.0,accident
+Total,12025.0,accident
+Andhra Pradesh,2001.0,general
+Andhra Pradesh,2001.0,general
+Andhra Pradesh,2001.0,general
+Andhra Pradesh,2001.0,general
+Andhra Pradesh,2001.0,general
+Andhra Pradesh,2001.0,general
+Andhra Pradesh,2001.0,general
+Andhra Pradesh,2001.0,general
+Andhra Pradesh,2001.0,general
+Andhra Pradesh,2001.0,general
+Andhra Pradesh,2001.0,general
+Andhra Pradesh,2001.0,general
+Andhra Pradesh,2002.0,general
+Andhra Pradesh,2002.0,general
+Andhra Pradesh,2002.0,general
+Andhra Pradesh,2002.0,general
+Andhra Pradesh,2002.0,general
+Andhra Pradesh,2002.0,general
+Andhra Pradesh,2002.0,general
+Andhra Pradesh,2002.0,general
+Andhra Pradesh,2002.0,general
+Andhra Pradesh,2002.0,general
+Andhra Pradesh,2002.0,general
+Andhra Pradesh,2002.0,general
+Andhra Pradesh,2003.0,general
+Andhra Pradesh,2003.0,general
+Andhra Pradesh,2003.0,general
+Andhra Pradesh,2003.0,general
+Andhra Pradesh,2003.0,general
+Andhra Pradesh,2003.0,general
+Andhra Pradesh,2003.0,general
+Andhra Pradesh,2003.0,general
+Andhra Pradesh,2003.0,general
+Andhra Pradesh,2003.0,general
+Andhra Pradesh,2003.0,general
+Andhra Pradesh,2003.0,general
+Andhra Pradesh,2004.0,general
+Andhra Pradesh,2004.0,general
+Andhra Pradesh,2004.0,general
+Andhra Pradesh,2004.0,general
+Andhra Pradesh,2004.0,general
+Andhra Pradesh,2004.0,general
+Andhra Pradesh,2004.0,general
+Andhra Pradesh,2004.0,general
+Andhra Pradesh,2004.0,general
+Andhra Pradesh,2004.0,general
+Andhra Pradesh,2004.0,general
+Andhra Pradesh,2004.0,general
+Andhra Pradesh,2005.0,general
+Andhra Pradesh,2005.0,general
+Andhra Pradesh,2005.0,general
+Andhra Pradesh,2005.0,general
+Andhra Pradesh,2005.0,general
+Andhra Pradesh,2005.0,general
+Andhra Pradesh,2005.0,general
+Andhra Pradesh,2005.0,general
+Andhra Pradesh,2005.0,general
+Andhra Pradesh,2005.0,general
+Andhra Pradesh,2005.0,general
+Andhra Pradesh,2005.0,general
+Andhra Pradesh,2006.0,general
+Andhra Pradesh,2006.0,general
+Andhra Pradesh,2006.0,general
+Andhra Pradesh,2006.0,general
+Andhra Pradesh,2006.0,general
+Andhra Pradesh,2006.0,general
+Andhra Pradesh,2006.0,general
+Andhra Pradesh,2006.0,general
+Andhra Pradesh,2006.0,general
+Andhra Pradesh,2006.0,general
+Andhra Pradesh,2006.0,general
+Andhra Pradesh,2006.0,general
+Andhra Pradesh,2007.0,general
+Andhra Pradesh,2007.0,general
+Andhra Pradesh,2007.0,general
+Andhra Pradesh,2007.0,general
+Andhra Pradesh,2007.0,general
+Andhra Pradesh,2007.0,general
+Andhra Pradesh,2007.0,general
+Andhra Pradesh,2007.0,general
+Andhra Pradesh,2007.0,general
+Andhra Pradesh,2007.0,general
+Andhra Pradesh,2007.0,general
+Andhra Pradesh,2007.0,general
+Andhra Pradesh,2008.0,general
+Andhra Pradesh,2008.0,general
+Andhra Pradesh,2008.0,general
+Andhra Pradesh,2008.0,general
+Andhra Pradesh,2008.0,general
+Andhra Pradesh,2008.0,general
+Andhra Pradesh,2008.0,general
+Andhra Pradesh,2008.0,general
+Andhra Pradesh,2008.0,general
+Andhra Pradesh,2008.0,general
+Andhra Pradesh,2008.0,general
+Andhra Pradesh,2008.0,general
+Andhra Pradesh,2008.0,general
+Andhra Pradesh,2008.0,general
+Andhra Pradesh,2009.0,general
+Andhra Pradesh,2009.0,general
+Andhra Pradesh,2009.0,general
+Andhra Pradesh,2009.0,general
+Andhra Pradesh,2009.0,general
+Andhra Pradesh,2009.0,general
+Andhra Pradesh,2009.0,general
+Andhra Pradesh,2009.0,general
+Andhra Pradesh,2009.0,general
+Andhra Pradesh,2009.0,general
+Andhra Pradesh,2009.0,general
+Andhra Pradesh,2009.0,general
+Andhra Pradesh,2009.0,general
+Andhra Pradesh,2009.0,general
+Andhra Pradesh,2010.0,general
+Andhra Pradesh,2010.0,general
+Andhra Pradesh,2010.0,general
+Andhra Pradesh,2010.0,general
+Andhra Pradesh,2010.0,general
+Andhra Pradesh,2010.0,general
+Andhra Pradesh,2010.0,general
+Andhra Pradesh,2010.0,general
+Andhra Pradesh,2010.0,general
+Andhra Pradesh,2010.0,general
+Andhra Pradesh,2010.0,general
+Andhra Pradesh,2010.0,general
+Andhra Pradesh,2010.0,general
+Andhra Pradesh,2010.0,general
+Andhra Pradesh,2011.0,general
+Andhra Pradesh,2011.0,general
+Andhra Pradesh,2011.0,general
+Andhra Pradesh,2011.0,general
+Andhra Pradesh,2011.0,general
+Andhra Pradesh,2011.0,general
+Andhra Pradesh,2011.0,general
+Andhra Pradesh,2011.0,general
+Andhra Pradesh,2011.0,general
+Andhra Pradesh,2011.0,general
+Andhra Pradesh,2011.0,general
+Andhra Pradesh,2011.0,general
+Andhra Pradesh,2011.0,general
+Andhra Pradesh,2011.0,general
+Andhra Pradesh,2012.0,general
+Andhra Pradesh,2012.0,general
+Andhra Pradesh,2012.0,general
+Andhra Pradesh,2012.0,general
+Andhra Pradesh,2012.0,general
+Andhra Pradesh,2012.0,general
+Andhra Pradesh,2012.0,general
+Andhra Pradesh,2012.0,general
+Andhra Pradesh,2012.0,general
+Andhra Pradesh,2012.0,general
+Andhra Pradesh,2012.0,general
+Andhra Pradesh,2012.0,general
+Andhra Pradesh,2012.0,general
+Andhra Pradesh,2012.0,general
+Arunachal Pradesh,2001.0,general
+Arunachal Pradesh,2001.0,general
+Arunachal Pradesh,2001.0,general
+Arunachal Pradesh,2001.0,general
+Arunachal Pradesh,2001.0,general
+Arunachal Pradesh,2001.0,general
+Arunachal Pradesh,2001.0,general
+Arunachal Pradesh,2001.0,general
+Arunachal Pradesh,2001.0,general
+Arunachal Pradesh,2001.0,general
+Arunachal Pradesh,2001.0,general
+Arunachal Pradesh,2001.0,general
+Arunachal Pradesh,2001.0,general
+Arunachal Pradesh,2001.0,general
+Arunachal Pradesh,2002.0,general
+Arunachal Pradesh,2002.0,general
+Arunachal Pradesh,2002.0,general
+Arunachal Pradesh,2002.0,general
+Arunachal Pradesh,2002.0,general
+Arunachal Pradesh,2002.0,general
+Arunachal Pradesh,2002.0,general
+Arunachal Pradesh,2002.0,general
+Arunachal Pradesh,2002.0,general
+Arunachal Pradesh,2002.0,general
+Arunachal Pradesh,2002.0,general
+Arunachal Pradesh,2002.0,general
+Arunachal Pradesh,2002.0,general
+Arunachal Pradesh,2002.0,general
+Arunachal Pradesh,2003.0,general
+Arunachal Pradesh,2003.0,general
+Arunachal Pradesh,2003.0,general
+Arunachal Pradesh,2003.0,general
+Arunachal Pradesh,2003.0,general
+Arunachal Pradesh,2003.0,general
+Arunachal Pradesh,2003.0,general
+Arunachal Pradesh,2003.0,general
+Arunachal Pradesh,2003.0,general
+Arunachal Pradesh,2003.0,general
+Arunachal Pradesh,2003.0,general
+Arunachal Pradesh,2003.0,general
+Arunachal Pradesh,2003.0,general
+Arunachal Pradesh,2003.0,general
+Arunachal Pradesh,2004.0,general
+Arunachal Pradesh,2004.0,general
+Arunachal Pradesh,2004.0,general
+Arunachal Pradesh,2004.0,general
+Arunachal Pradesh,2004.0,general
+Arunachal Pradesh,2004.0,general
+Arunachal Pradesh,2004.0,general
+Arunachal Pradesh,2004.0,general
+Arunachal Pradesh,2004.0,general
+Arunachal Pradesh,2004.0,general
+Arunachal Pradesh,2004.0,general
+Arunachal Pradesh,2004.0,general
+Arunachal Pradesh,2004.0,general
+Arunachal Pradesh,2004.0,general
+Arunachal Pradesh,2005.0,general
+Arunachal Pradesh,2005.0,general
+Arunachal Pradesh,2005.0,general
+Arunachal Pradesh,2005.0,general
+Arunachal Pradesh,2005.0,general
+Arunachal Pradesh,2005.0,general
+Arunachal Pradesh,2005.0,general
+Arunachal Pradesh,2005.0,general
+Arunachal Pradesh,2005.0,general
+Arunachal Pradesh,2005.0,general
+Arunachal Pradesh,2005.0,general
+Arunachal Pradesh,2005.0,general
+Arunachal Pradesh,2005.0,general
+Arunachal Pradesh,2005.0,general
+Arunachal Pradesh,2006.0,general
+Arunachal Pradesh,2006.0,general
+Arunachal Pradesh,2006.0,general
+Arunachal Pradesh,2006.0,general
+Arunachal Pradesh,2006.0,general
+Arunachal Pradesh,2006.0,general
+Arunachal Pradesh,2006.0,general
+Arunachal Pradesh,2006.0,general
+Arunachal Pradesh,2006.0,general
+Arunachal Pradesh,2006.0,general
+Arunachal Pradesh,2006.0,general
+Arunachal Pradesh,2006.0,general
+Arunachal Pradesh,2006.0,general
+Arunachal Pradesh,2006.0,general
+Arunachal Pradesh,2007.0,general
+Arunachal Pradesh,2007.0,general
+Arunachal Pradesh,2007.0,general
+Arunachal Pradesh,2007.0,general
+Arunachal Pradesh,2007.0,general
+Arunachal Pradesh,2007.0,general
+Arunachal Pradesh,2007.0,general
+Arunachal Pradesh,2007.0,general
+Arunachal Pradesh,2007.0,general
+Arunachal Pradesh,2007.0,general
+Arunachal Pradesh,2007.0,general
+Arunachal Pradesh,2007.0,general
+Arunachal Pradesh,2007.0,general
+Arunachal Pradesh,2007.0,general
+Arunachal Pradesh,2008.0,general
+Arunachal Pradesh,2008.0,general
+Arunachal Pradesh,2008.0,general
+Arunachal Pradesh,2008.0,general
+Arunachal Pradesh,2008.0,general
+Arunachal Pradesh,2008.0,general
+Arunachal Pradesh,2008.0,general
+Arunachal Pradesh,2008.0,general
+Arunachal Pradesh,2008.0,general
+Arunachal Pradesh,2008.0,general
+Arunachal Pradesh,2008.0,general
+Arunachal Pradesh,2008.0,general
+Arunachal Pradesh,2008.0,general
+Arunachal Pradesh,2008.0,general
+Arunachal Pradesh,2009.0,general
+Arunachal Pradesh,2009.0,general
+Arunachal Pradesh,2009.0,general
+Arunachal Pradesh,2009.0,general
+Arunachal Pradesh,2009.0,general
+Arunachal Pradesh,2009.0,general
+Arunachal Pradesh,2009.0,general
+Arunachal Pradesh,2009.0,general
+Arunachal Pradesh,2009.0,general
+Arunachal Pradesh,2009.0,general
+Arunachal Pradesh,2009.0,general
+Arunachal Pradesh,2009.0,general
+Arunachal Pradesh,2009.0,general
+Arunachal Pradesh,2009.0,general
+Arunachal Pradesh,2010.0,general
+Arunachal Pradesh,2010.0,general
+Arunachal Pradesh,2010.0,general
+Arunachal Pradesh,2010.0,general
+Arunachal Pradesh,2010.0,general
+Arunachal Pradesh,2010.0,general
+Arunachal Pradesh,2010.0,general
+Arunachal Pradesh,2010.0,general
+Arunachal Pradesh,2010.0,general
+Arunachal Pradesh,2010.0,general
+Arunachal Pradesh,2010.0,general
+Arunachal Pradesh,2010.0,general
+Arunachal Pradesh,2010.0,general
+Arunachal Pradesh,2010.0,general
+Arunachal Pradesh,2011.0,general
+Arunachal Pradesh,2011.0,general
+Arunachal Pradesh,2011.0,general
+Arunachal Pradesh,2011.0,general
+Arunachal Pradesh,2011.0,general
+Arunachal Pradesh,2011.0,general
+Arunachal Pradesh,2011.0,general
+Arunachal Pradesh,2011.0,general
+Arunachal Pradesh,2011.0,general
+Arunachal Pradesh,2011.0,general
+Arunachal Pradesh,2011.0,general
+Arunachal Pradesh,2011.0,general
+Arunachal Pradesh,2011.0,general
+Arunachal Pradesh,2011.0,general
+Arunachal Pradesh,2012.0,general
+Arunachal Pradesh,2012.0,general
+Arunachal Pradesh,2012.0,general
+Arunachal Pradesh,2012.0,general
+Arunachal Pradesh,2012.0,general
+Arunachal Pradesh,2012.0,general
+Arunachal Pradesh,2012.0,general
+Arunachal Pradesh,2012.0,general
+Arunachal Pradesh,2012.0,general
+Arunachal Pradesh,2012.0,general
+Arunachal Pradesh,2012.0,general
+Arunachal Pradesh,2012.0,general
+Arunachal Pradesh,2012.0,general
+Arunachal Pradesh,2012.0,general
+Assam,2001.0,general
+Assam,2001.0,general
+Assam,2001.0,general
+Assam,2001.0,general
+Assam,2001.0,general
+Assam,2001.0,general
+Assam,2001.0,general
+Assam,2001.0,general
+Assam,2001.0,general
+Assam,2001.0,general
+Assam,2001.0,general
+Assam,2001.0,general
+Assam,2001.0,general
+Assam,2001.0,general
+Assam,2002.0,general
+Assam,2002.0,general
+Assam,2002.0,general
+Assam,2002.0,general
+Assam,2002.0,general
+Assam,2002.0,general
+Assam,2002.0,general
+Assam,2002.0,general
+Assam,2002.0,general
+Assam,2002.0,general
+Assam,2002.0,general
+Assam,2002.0,general
+Assam,2002.0,general
+Assam,2002.0,general
+Assam,2003.0,general
+Assam,2003.0,general
+Assam,2003.0,general
+Assam,2003.0,general
+Assam,2003.0,general
+Assam,2003.0,general
+Assam,2003.0,general
+Assam,2003.0,general
+Assam,2003.0,general
+Assam,2003.0,general
+Assam,2003.0,general
+Assam,2003.0,general
+Assam,2003.0,general
+Assam,2003.0,general
+Assam,2004.0,general
+Assam,2004.0,general
+Assam,2004.0,general
+Assam,2004.0,general
+Assam,2004.0,general
+Assam,2004.0,general
+Assam,2004.0,general
+Assam,2004.0,general
+Assam,2004.0,general
+Assam,2004.0,general
+Assam,2004.0,general
+Assam,2004.0,general
+Assam,2004.0,general
+Assam,2004.0,general
+Assam,2005.0,general
+Assam,2005.0,general
+Assam,2005.0,general
+Assam,2005.0,general
+Assam,2005.0,general
+Assam,2005.0,general
+Assam,2005.0,general
+Assam,2005.0,general
+Assam,2005.0,general
+Assam,2005.0,general
+Assam,2005.0,general
+Assam,2005.0,general
+Assam,2005.0,general
+Assam,2005.0,general
+Assam,2006.0,general
+Assam,2006.0,general
+Assam,2006.0,general
+Assam,2006.0,general
+Assam,2006.0,general
+Assam,2006.0,general
+Assam,2006.0,general
+Assam,2006.0,general
+Assam,2006.0,general
+Assam,2006.0,general
+Assam,2006.0,general
+Assam,2006.0,general
+Assam,2006.0,general
+Assam,2006.0,general
+Assam,2007.0,general
+Assam,2007.0,general
+Assam,2007.0,general
+Assam,2007.0,general
+Assam,2007.0,general
+Assam,2007.0,general
+Assam,2007.0,general
+Assam,2007.0,general
+Assam,2007.0,general
+Assam,2007.0,general
+Assam,2007.0,general
+Assam,2007.0,general
+Assam,2007.0,general
+Assam,2007.0,general
+Assam,2008.0,general
+Assam,2008.0,general
+Assam,2008.0,general
+Assam,2008.0,general
+Assam,2008.0,general
+Assam,2008.0,general
+Assam,2008.0,general
+Assam,2008.0,general
+Assam,2008.0,general
+Assam,2008.0,general
+Assam,2008.0,general
+Assam,2008.0,general
+Assam,2008.0,general
+Assam,2008.0,general
+Assam,2009.0,general
+Assam,2009.0,general
+Assam,2009.0,general
+Assam,2009.0,general
+Assam,2009.0,general
+Assam,2009.0,general
+Assam,2009.0,general
+Assam,2009.0,general
+Assam,2009.0,general
+Assam,2009.0,general
+Assam,2009.0,general
+Assam,2009.0,general
+Assam,2009.0,general
+Assam,2009.0,general
+Assam,2010.0,general
+Assam,2010.0,general
+Assam,2010.0,general
+Assam,2010.0,general
+Assam,2010.0,general
+Assam,2010.0,general
+Assam,2010.0,general
+Assam,2010.0,general
+Assam,2010.0,general
+Assam,2010.0,general
+Assam,2010.0,general
+Assam,2010.0,general
+Assam,2010.0,general
+Assam,2010.0,general
+Assam,2011.0,general
+Assam,2011.0,general
+Assam,2011.0,general
+Assam,2011.0,general
+Assam,2011.0,general
+Assam,2011.0,general
+Assam,2011.0,general
+Assam,2011.0,general
+Assam,2011.0,general
+Assam,2011.0,general
+Assam,2011.0,general
+Assam,2011.0,general
+Assam,2011.0,general
+Assam,2011.0,general
+Assam,2012.0,general
+Assam,2012.0,general
+Assam,2012.0,general
+Assam,2012.0,general
+Assam,2012.0,general
+Assam,2012.0,general
+Assam,2012.0,general
+Assam,2012.0,general
+Assam,2012.0,general
+Assam,2012.0,general
+Assam,2012.0,general
+Assam,2012.0,general
+Assam,2012.0,general
+Assam,2012.0,general
+Bihar,2001.0,general
+Bihar,2001.0,general
+Bihar,2001.0,general
+Bihar,2001.0,general
+Bihar,2001.0,general
+Bihar,2001.0,general
+Bihar,2001.0,general
+Bihar,2001.0,general
+Bihar,2001.0,general
+Bihar,2001.0,general
+Bihar,2001.0,general
+Bihar,2001.0,general
+Bihar,2001.0,general
+Bihar,2001.0,general
+Bihar,2002.0,general
+Bihar,2002.0,general
+Bihar,2002.0,general
+Bihar,2002.0,general
+Bihar,2002.0,general
+Bihar,2002.0,general
+Bihar,2002.0,general
+Bihar,2002.0,general
+Bihar,2002.0,general
+Bihar,2002.0,general
+Bihar,2002.0,general
+Bihar,2002.0,general
+Bihar,2002.0,general
+Bihar,2002.0,general
+Bihar,2003.0,general
+Bihar,2003.0,general
+Bihar,2003.0,general
+Bihar,2003.0,general
+Bihar,2003.0,general
+Bihar,2003.0,general
+Bihar,2003.0,general
+Bihar,2003.0,general
+Bihar,2003.0,general
+Bihar,2003.0,general
+Bihar,2003.0,general
+Bihar,2003.0,general
+Bihar,2003.0,general
+Bihar,2003.0,general
+Bihar,2004.0,general
+Bihar,2004.0,general
+Bihar,2004.0,general
+Bihar,2004.0,general
+Bihar,2004.0,general
+Bihar,2004.0,general
+Bihar,2004.0,general
+Bihar,2004.0,general
+Bihar,2004.0,general
+Bihar,2004.0,general
+Bihar,2004.0,general
+Bihar,2004.0,general
+Bihar,2004.0,general
+Bihar,2004.0,general
+Bihar,2005.0,general
+Bihar,2005.0,general
+Bihar,2005.0,general
+Bihar,2005.0,general
+Bihar,2005.0,general
+Bihar,2005.0,general
+Bihar,2005.0,general
+Bihar,2005.0,general
+Bihar,2005.0,general
+Bihar,2005.0,general
+Bihar,2005.0,general
+Bihar,2005.0,general
+Bihar,2005.0,general
+Bihar,2005.0,general
+Bihar,2006.0,general
+Bihar,2006.0,general
+Bihar,2006.0,general
+Bihar,2006.0,general
+Bihar,2006.0,general
+Bihar,2006.0,general
+Bihar,2006.0,general
+Bihar,2006.0,general
+Bihar,2006.0,general
+Bihar,2006.0,general
+Bihar,2006.0,general
+Bihar,2006.0,general
+Bihar,2006.0,general
+Bihar,2006.0,general
+Bihar,2007.0,general
+Bihar,2007.0,general
+Bihar,2007.0,general
+Bihar,2007.0,general
+Bihar,2007.0,general
+Bihar,2007.0,general
+Bihar,2007.0,general
+Bihar,2007.0,general
+Bihar,2007.0,general
+Bihar,2007.0,general
+Bihar,2007.0,general
+Bihar,2007.0,general
+Bihar,2007.0,general
+Bihar,2007.0,general
+Bihar,2008.0,general
+Bihar,2008.0,general
+Bihar,2008.0,general
+Bihar,2008.0,general
+Bihar,2008.0,general
+Bihar,2008.0,general
+Bihar,2008.0,general
+Bihar,2008.0,general
+Bihar,2008.0,general
+Bihar,2008.0,general
+Bihar,2008.0,general
+Bihar,2008.0,general
+Bihar,2008.0,general
+Bihar,2008.0,general
+Bihar,2009.0,general
+Bihar,2009.0,general
+Bihar,2009.0,general
+Bihar,2009.0,general
+Bihar,2009.0,general
+Bihar,2009.0,general
+Bihar,2009.0,general
+Bihar,2009.0,general
+Bihar,2009.0,general
+Bihar,2009.0,general
+Bihar,2009.0,general
+Bihar,2009.0,general
+Bihar,2009.0,general
+Bihar,2009.0,general
+Bihar,2010.0,general
+Bihar,2010.0,general
+Bihar,2010.0,general
+Bihar,2010.0,general
+Bihar,2010.0,general
+Bihar,2010.0,general
+Bihar,2010.0,general
+Bihar,2010.0,general
+Bihar,2010.0,general
+Bihar,2010.0,general
+Bihar,2010.0,general
+Bihar,2010.0,general
+Bihar,2010.0,general
+Bihar,2010.0,general
+Bihar,2011.0,general
+Bihar,2011.0,general
+Bihar,2011.0,general
+Bihar,2011.0,general
+Bihar,2011.0,general
+Bihar,2011.0,general
+Bihar,2011.0,general
+Bihar,2011.0,general
+Bihar,2011.0,general
+Bihar,2011.0,general
+Bihar,2011.0,general
+Bihar,2011.0,general
+Bihar,2011.0,general
+Bihar,2011.0,general
+Bihar,2012.0,general
+Bihar,2012.0,general
+Bihar,2012.0,general
+Bihar,2012.0,general
+Bihar,2012.0,general
+Bihar,2012.0,general
+Bihar,2012.0,general
+Bihar,2012.0,general
+Bihar,2012.0,general
+Bihar,2012.0,general
+Bihar,2012.0,general
+Bihar,2012.0,general
+Bihar,2012.0,general
+Bihar,2012.0,general
+Chhattisgarh,2001.0,general
+Chhattisgarh,2001.0,general
+Chhattisgarh,2001.0,general
+Chhattisgarh,2001.0,general
+Chhattisgarh,2001.0,general
+Chhattisgarh,2001.0,general
+Chhattisgarh,2001.0,general
+Chhattisgarh,2001.0,general
+Chhattisgarh,2001.0,general
+Chhattisgarh,2001.0,general
+Chhattisgarh,2001.0,general
+Chhattisgarh,2001.0,general
+Chhattisgarh,2001.0,general
+Chhattisgarh,2001.0,general
+Chhattisgarh,2002.0,general
+Chhattisgarh,2002.0,general
+Chhattisgarh,2002.0,general
+Chhattisgarh,2002.0,general
+Chhattisgarh,2002.0,general
+Chhattisgarh,2002.0,general
+Chhattisgarh,2002.0,general
+Chhattisgarh,2002.0,general
+Chhattisgarh,2002.0,general
+Chhattisgarh,2002.0,general
+Chhattisgarh,2002.0,general
+Chhattisgarh,2002.0,general
+Chhattisgarh,2002.0,general
+Chhattisgarh,2002.0,general
+Chhattisgarh,2003.0,general
+Chhattisgarh,2003.0,general
+Chhattisgarh,2003.0,general
+Chhattisgarh,2003.0,general
+Chhattisgarh,2003.0,general
+Chhattisgarh,2003.0,general
+Chhattisgarh,2003.0,general
+Chhattisgarh,2003.0,general
+Chhattisgarh,2003.0,general
+Chhattisgarh,2003.0,general
+Chhattisgarh,2003.0,general
+Chhattisgarh,2003.0,general
+Chhattisgarh,2003.0,general
+Chhattisgarh,2003.0,general
+Chhattisgarh,2004.0,general
+Chhattisgarh,2004.0,general
+Chhattisgarh,2004.0,general
+Chhattisgarh,2004.0,general
+Chhattisgarh,2004.0,general
+Chhattisgarh,2004.0,general
+Chhattisgarh,2004.0,general
+Chhattisgarh,2004.0,general
+Chhattisgarh,2004.0,general
+Chhattisgarh,2004.0,general
+Chhattisgarh,2004.0,general
+Chhattisgarh,2004.0,general
+Chhattisgarh,2004.0,general
+Chhattisgarh,2004.0,general
+Chhattisgarh,2005.0,general
+Chhattisgarh,2005.0,general
+Chhattisgarh,2005.0,general
+Chhattisgarh,2005.0,general
+Chhattisgarh,2005.0,general
+Chhattisgarh,2005.0,general
+Chhattisgarh,2005.0,general
+Chhattisgarh,2005.0,general
+Chhattisgarh,2005.0,general
+Chhattisgarh,2005.0,general
+Chhattisgarh,2005.0,general
+Chhattisgarh,2005.0,general
+Chhattisgarh,2005.0,general
+Chhattisgarh,2005.0,general
+Chhattisgarh,2006.0,general
+Chhattisgarh,2006.0,general
+Chhattisgarh,2006.0,general
+Chhattisgarh,2006.0,general
+Chhattisgarh,2006.0,general
+Chhattisgarh,2006.0,general
+Chhattisgarh,2006.0,general
+Chhattisgarh,2006.0,general
+Chhattisgarh,2006.0,general
+Chhattisgarh,2006.0,general
+Chhattisgarh,2006.0,general
+Chhattisgarh,2006.0,general
+Chhattisgarh,2006.0,general
+Chhattisgarh,2006.0,general
+Chhattisgarh,2007.0,general
+Chhattisgarh,2007.0,general
+Chhattisgarh,2007.0,general
+Chhattisgarh,2007.0,general
+Chhattisgarh,2007.0,general
+Chhattisgarh,2007.0,general
+Chhattisgarh,2007.0,general
+Chhattisgarh,2007.0,general
+Chhattisgarh,2007.0,general
+Chhattisgarh,2007.0,general
+Chhattisgarh,2007.0,general
+Chhattisgarh,2007.0,general
+Chhattisgarh,2007.0,general
+Chhattisgarh,2007.0,general
+Chhattisgarh,2008.0,general
+Chhattisgarh,2008.0,general
+Chhattisgarh,2008.0,general
+Chhattisgarh,2008.0,general
+Chhattisgarh,2008.0,general
+Chhattisgarh,2008.0,general
+Chhattisgarh,2008.0,general
+Chhattisgarh,2008.0,general
+Chhattisgarh,2008.0,general
+Chhattisgarh,2008.0,general
+Chhattisgarh,2008.0,general
+Chhattisgarh,2008.0,general
+Chhattisgarh,2008.0,general
+Chhattisgarh,2008.0,general
+Chhattisgarh,2009.0,general
+Chhattisgarh,2009.0,general
+Chhattisgarh,2009.0,general
+Chhattisgarh,2009.0,general
+Chhattisgarh,2009.0,general
+Chhattisgarh,2009.0,general
+Chhattisgarh,2009.0,general
+Chhattisgarh,2009.0,general
+Chhattisgarh,2009.0,general
+Chhattisgarh,2009.0,general
+Chhattisgarh,2009.0,general
+Chhattisgarh,2009.0,general
+Chhattisgarh,2009.0,general
+Chhattisgarh,2009.0,general
+Chhattisgarh,2010.0,general
+Chhattisgarh,2010.0,general
+Chhattisgarh,2010.0,general
+Chhattisgarh,2010.0,general
+Chhattisgarh,2010.0,general
+Chhattisgarh,2010.0,general
+Chhattisgarh,2010.0,general
+Chhattisgarh,2010.0,general
+Chhattisgarh,2010.0,general
+Chhattisgarh,2010.0,general
+Chhattisgarh,2010.0,general
+Chhattisgarh,2010.0,general
+Chhattisgarh,2010.0,general
+Chhattisgarh,2010.0,general
+Chhattisgarh,2011.0,general
+Chhattisgarh,2011.0,general
+Chhattisgarh,2011.0,general
+Chhattisgarh,2011.0,general
+Chhattisgarh,2011.0,general
+Chhattisgarh,2011.0,general
+Chhattisgarh,2011.0,general
+Chhattisgarh,2011.0,general
+Chhattisgarh,2011.0,general
+Chhattisgarh,2011.0,general
+Chhattisgarh,2011.0,general
+Chhattisgarh,2011.0,general
+Chhattisgarh,2011.0,general
+Chhattisgarh,2011.0,general
+Chhattisgarh,2012.0,general
+Chhattisgarh,2012.0,general
+Chhattisgarh,2012.0,general
+Chhattisgarh,2012.0,general
+Chhattisgarh,2012.0,general
+Chhattisgarh,2012.0,general
+Chhattisgarh,2012.0,general
+Chhattisgarh,2012.0,general
+Chhattisgarh,2012.0,general
+Chhattisgarh,2012.0,general
+Chhattisgarh,2012.0,general
+Chhattisgarh,2012.0,general
+Chhattisgarh,2012.0,general
+Chhattisgarh,2012.0,general
+Goa,2001.0,general
+Goa,2001.0,general
+Goa,2001.0,general
+Goa,2001.0,general
+Goa,2001.0,general
+Goa,2001.0,general
+Goa,2001.0,general
+Goa,2001.0,general
+Goa,2001.0,general
+Goa,2001.0,general
+Goa,2001.0,general
+Goa,2001.0,general
+Goa,2001.0,general
+Goa,2001.0,general
+Goa,2002.0,general
+Goa,2002.0,general
+Goa,2002.0,general
+Goa,2002.0,general
+Goa,2002.0,general
+Goa,2002.0,general
+Goa,2002.0,general
+Goa,2002.0,general
+Goa,2002.0,general
+Goa,2002.0,general
+Goa,2002.0,general
+Goa,2002.0,general
+Goa,2002.0,general
+Goa,2002.0,general
+Goa,2003.0,general
+Goa,2003.0,general
+Goa,2003.0,general
+Goa,2003.0,general
+Goa,2003.0,general
+Goa,2003.0,general
+Goa,2003.0,general
+Goa,2003.0,general
+Goa,2003.0,general
+Goa,2003.0,general
+Goa,2003.0,general
+Goa,2003.0,general
+Goa,2003.0,general
+Goa,2003.0,general
+Goa,2004.0,general
+Goa,2004.0,general
+Goa,2004.0,general
+Goa,2004.0,general
+Goa,2004.0,general
+Goa,2004.0,general
+Goa,2004.0,general
+Goa,2004.0,general
+Goa,2004.0,general
+Goa,2004.0,general
+Goa,2004.0,general
+Goa,2004.0,general
+Goa,2004.0,general
+Goa,2004.0,general
+Goa,2005.0,general
+Goa,2005.0,general
+Goa,2005.0,general
+Goa,2005.0,general
+Goa,2005.0,general
+Goa,2005.0,general
+Goa,2005.0,general
+Goa,2005.0,general
+Goa,2005.0,general
+Goa,2005.0,general
+Goa,2005.0,general
+Goa,2005.0,general
+Goa,2005.0,general
+Goa,2005.0,general
+Goa,2006.0,general
+Goa,2006.0,general
+Goa,2006.0,general
+Goa,2006.0,general
+Goa,2006.0,general
+Goa,2006.0,general
+Goa,2006.0,general
+Goa,2006.0,general
+Goa,2006.0,general
+Goa,2006.0,general
+Goa,2006.0,general
+Goa,2006.0,general
+Goa,2006.0,general
+Goa,2006.0,general
+Goa,2007.0,general
+Goa,2007.0,general
+Goa,2007.0,general
+Goa,2007.0,general
+Goa,2007.0,general
+Goa,2007.0,general
+Goa,2007.0,general
+Goa,2007.0,general
+Goa,2007.0,general
+Goa,2007.0,general
+Goa,2007.0,general
+Goa,2007.0,general
+Goa,2007.0,general
+Goa,2007.0,general
+Goa,2008.0,general
+Goa,2008.0,general
+Goa,2008.0,general
+Goa,2008.0,general
+Goa,2008.0,general
+Goa,2008.0,general
+Goa,2008.0,general
+Goa,2008.0,general
+Goa,2008.0,general
+Goa,2008.0,general
+Goa,2008.0,general
+Goa,2008.0,general
+Goa,2008.0,general
+Goa,2008.0,general
+Goa,2009.0,general
+Goa,2009.0,general
+Goa,2009.0,general
+Goa,2009.0,general
+Goa,2009.0,general
+Goa,2009.0,general
+Goa,2009.0,general
+Goa,2009.0,general
+Goa,2009.0,general
+Goa,2009.0,general
+Goa,2009.0,general
+Goa,2009.0,general
+Goa,2009.0,general
+Goa,2009.0,general
+Goa,2010.0,general
+Goa,2010.0,general
+Goa,2010.0,general
+Goa,2010.0,general
+Goa,2010.0,general
+Goa,2010.0,general
+Goa,2010.0,general
+Goa,2010.0,general
+Goa,2010.0,general
+Goa,2010.0,general
+Goa,2010.0,general
+Goa,2010.0,general
+Goa,2010.0,general
+Goa,2010.0,general
+Goa,2011.0,general
+Goa,2011.0,general
+Goa,2011.0,general
+Goa,2011.0,general
+Goa,2011.0,general
+Goa,2011.0,general
+Goa,2011.0,general
+Goa,2011.0,general
+Goa,2011.0,general
+Goa,2011.0,general
+Goa,2011.0,general
+Goa,2011.0,general
+Goa,2011.0,general
+Goa,2011.0,general
+Goa,2012.0,general
+Goa,2012.0,general
+Goa,2012.0,general
+Goa,2012.0,general
+Goa,2012.0,general
+Goa,2012.0,general
+Goa,2012.0,general
+Goa,2012.0,general
+Goa,2012.0,general
+Goa,2012.0,general
+Goa,2012.0,general
+Goa,2012.0,general
+Goa,2012.0,general
+Goa,2012.0,general
+Gujarat,2001.0,general
+Gujarat,2001.0,general
+Gujarat,2001.0,general
+Gujarat,2001.0,general
+Gujarat,2001.0,general
+Gujarat,2001.0,general
+Gujarat,2001.0,general
+Gujarat,2001.0,general
+Gujarat,2001.0,general
+Gujarat,2001.0,general
+Gujarat,2001.0,general
+Gujarat,2001.0,general
+Gujarat,2001.0,general
+Gujarat,2001.0,general
+Gujarat,2002.0,general
+Gujarat,2002.0,general
+Gujarat,2002.0,general
+Gujarat,2002.0,general
+Gujarat,2002.0,general
+Gujarat,2002.0,general
+Gujarat,2002.0,general
+Gujarat,2002.0,general
+Gujarat,2002.0,general
+Gujarat,2002.0,general
+Gujarat,2002.0,general
+Gujarat,2002.0,general
+Gujarat,2002.0,general
+Gujarat,2002.0,general
+Gujarat,2003.0,general
+Gujarat,2003.0,general
+Gujarat,2003.0,general
+Gujarat,2003.0,general
+Gujarat,2003.0,general
+Gujarat,2003.0,general
+Gujarat,2003.0,general
+Gujarat,2003.0,general
+Gujarat,2003.0,general
+Gujarat,2003.0,general
+Gujarat,2003.0,general
+Gujarat,2003.0,general
+Gujarat,2003.0,general
+Gujarat,2003.0,general
+Gujarat,2004.0,general
+Gujarat,2004.0,general
+Gujarat,2004.0,general
+Gujarat,2004.0,general
+Gujarat,2004.0,general
+Gujarat,2004.0,general
+Gujarat,2004.0,general
+Gujarat,2004.0,general
+Gujarat,2004.0,general
+Gujarat,2004.0,general
+Gujarat,2004.0,general
+Gujarat,2004.0,general
+Gujarat,2004.0,general
+Gujarat,2004.0,general
+Gujarat,2005.0,general
+Gujarat,2005.0,general
+Gujarat,2005.0,general
+Gujarat,2005.0,general
+Gujarat,2005.0,general
+Gujarat,2005.0,general
+Gujarat,2005.0,general
+Gujarat,2005.0,general
+Gujarat,2005.0,general
+Gujarat,2005.0,general
+Gujarat,2005.0,general
+Gujarat,2005.0,general
+Gujarat,2005.0,general
+Gujarat,2005.0,general
+Gujarat,2006.0,general
+Gujarat,2006.0,general
+Gujarat,2006.0,general
+Gujarat,2006.0,general
+Gujarat,2006.0,general
+Gujarat,2006.0,general
+Gujarat,2006.0,general
+Gujarat,2006.0,general
+Gujarat,2006.0,general
+Gujarat,2006.0,general
+Gujarat,2006.0,general
+Gujarat,2006.0,general
+Gujarat,2006.0,general
+Gujarat,2006.0,general
+Gujarat,2007.0,general
+Gujarat,2007.0,general
+Gujarat,2007.0,general
+Gujarat,2007.0,general
+Gujarat,2007.0,general
+Gujarat,2007.0,general
+Gujarat,2007.0,general
+Gujarat,2007.0,general
+Gujarat,2007.0,general
+Gujarat,2007.0,general
+Gujarat,2007.0,general
+Gujarat,2007.0,general
+Gujarat,2007.0,general
+Gujarat,2007.0,general
+Gujarat,2008.0,general
+Gujarat,2008.0,general
+Gujarat,2008.0,general
+Gujarat,2008.0,general
+Gujarat,2008.0,general
+Gujarat,2008.0,general
+Gujarat,2008.0,general
+Gujarat,2008.0,general
+Gujarat,2008.0,general
+Gujarat,2008.0,general
+Gujarat,2008.0,general
+Gujarat,2008.0,general
+Gujarat,2008.0,general
+Gujarat,2008.0,general
+Gujarat,2009.0,general
+Gujarat,2009.0,general
+Gujarat,2009.0,general
+Gujarat,2009.0,general
+Gujarat,2009.0,general
+Gujarat,2009.0,general
+Gujarat,2009.0,general
+Gujarat,2009.0,general
+Gujarat,2009.0,general
+Gujarat,2009.0,general
+Gujarat,2009.0,general
+Gujarat,2009.0,general
+Gujarat,2009.0,general
+Gujarat,2009.0,general
+Gujarat,2010.0,general
+Gujarat,2010.0,general
+Gujarat,2010.0,general
+Gujarat,2010.0,general
+Gujarat,2010.0,general
+Gujarat,2010.0,general
+Gujarat,2010.0,general
+Gujarat,2010.0,general
+Gujarat,2010.0,general
+Gujarat,2010.0,general
+Gujarat,2010.0,general
+Gujarat,2010.0,general
+Gujarat,2010.0,general
+Gujarat,2010.0,general
+Gujarat,2011.0,general
+Gujarat,2011.0,general
+Gujarat,2011.0,general
+Gujarat,2011.0,general
+Gujarat,2011.0,general
+Gujarat,2011.0,general
+Gujarat,2011.0,general
+Gujarat,2011.0,general
+Gujarat,2011.0,general
+Gujarat,2011.0,general
+Gujarat,2011.0,general
+Gujarat,2011.0,general
+Gujarat,2011.0,general
+Gujarat,2011.0,general
+Gujarat,2012.0,general
+Gujarat,2012.0,general
+Gujarat,2012.0,general
+Gujarat,2012.0,general
+Gujarat,2012.0,general
+Gujarat,2012.0,general
+Gujarat,2012.0,general
+Gujarat,2012.0,general
+Gujarat,2012.0,general
+Gujarat,2012.0,general
+Gujarat,2012.0,general
+Gujarat,2012.0,general
+Gujarat,2012.0,general
+Gujarat,2012.0,general
+Haryana,2001.0,general
+Haryana,2001.0,general
+Haryana,2001.0,general
+Haryana,2001.0,general
+Haryana,2001.0,general
+Haryana,2001.0,general
+Haryana,2001.0,general
+Haryana,2001.0,general
+Haryana,2001.0,general
+Haryana,2001.0,general
+Haryana,2001.0,general
+Haryana,2001.0,general
+Haryana,2001.0,general
+Haryana,2001.0,general
+Haryana,2002.0,general
+Haryana,2002.0,general
+Haryana,2002.0,general
+Haryana,2002.0,general
+Haryana,2002.0,general
+Haryana,2002.0,general
+Haryana,2002.0,general
+Haryana,2002.0,general
+Haryana,2002.0,general
+Haryana,2002.0,general
+Haryana,2002.0,general
+Haryana,2002.0,general
+Haryana,2002.0,general
+Haryana,2002.0,general
+Haryana,2003.0,general
+Haryana,2003.0,general
+Haryana,2003.0,general
+Haryana,2003.0,general
+Haryana,2003.0,general
+Haryana,2003.0,general
+Haryana,2003.0,general
+Haryana,2003.0,general
+Haryana,2003.0,general
+Haryana,2003.0,general
+Haryana,2003.0,general
+Haryana,2003.0,general
+Haryana,2003.0,general
+Haryana,2003.0,general
+Haryana,2004.0,general
+Haryana,2004.0,general
+Haryana,2004.0,general
+Haryana,2004.0,general
+Haryana,2004.0,general
+Haryana,2004.0,general
+Haryana,2004.0,general
+Haryana,2004.0,general
+Haryana,2004.0,general
+Haryana,2004.0,general
+Haryana,2004.0,general
+Haryana,2004.0,general
+Haryana,2004.0,general
+Haryana,2004.0,general
+Haryana,2005.0,general
+Haryana,2005.0,general
+Haryana,2005.0,general
+Haryana,2005.0,general
+Haryana,2005.0,general
+Haryana,2005.0,general
+Haryana,2005.0,general
+Haryana,2005.0,general
+Haryana,2005.0,general
+Haryana,2005.0,general
+Haryana,2005.0,general
+Haryana,2005.0,general
+Haryana,2005.0,general
+Haryana,2005.0,general
+Haryana,2006.0,general
+Haryana,2006.0,general
+Haryana,2006.0,general
+Haryana,2006.0,general
+Haryana,2006.0,general
+Haryana,2006.0,general
+Haryana,2006.0,general
+Haryana,2006.0,general
+Haryana,2006.0,general
+Haryana,2006.0,general
+Haryana,2006.0,general
+Haryana,2006.0,general
+Haryana,2006.0,general
+Haryana,2006.0,general
+Haryana,2007.0,general
+Haryana,2007.0,general
+Haryana,2007.0,general
+Haryana,2007.0,general
+Haryana,2007.0,general
+Haryana,2007.0,general
+Haryana,2007.0,general
+Haryana,2007.0,general
+Haryana,2007.0,general
+Haryana,2007.0,general
+Haryana,2007.0,general
+Haryana,2007.0,general
+Haryana,2007.0,general
+Haryana,2007.0,general
+Haryana,2008.0,general
+Haryana,2008.0,general
+Haryana,2008.0,general
+Haryana,2008.0,general
+Haryana,2008.0,general
+Haryana,2008.0,general
+Haryana,2008.0,general
+Haryana,2008.0,general
+Haryana,2008.0,general
+Haryana,2008.0,general
+Haryana,2008.0,general
+Haryana,2008.0,general
+Haryana,2008.0,general
+Haryana,2008.0,general
+Haryana,2009.0,general
+Haryana,2009.0,general
+Haryana,2009.0,general
+Haryana,2009.0,general
+Haryana,2009.0,general
+Haryana,2009.0,general
+Haryana,2009.0,general
+Haryana,2009.0,general
+Haryana,2009.0,general
+Haryana,2009.0,general
+Haryana,2009.0,general
+Haryana,2009.0,general
+Haryana,2009.0,general
+Haryana,2009.0,general
+Haryana,2010.0,general
+Haryana,2010.0,general
+Haryana,2010.0,general
+Haryana,2010.0,general
+Haryana,2010.0,general
+Haryana,2010.0,general
+Haryana,2010.0,general
+Haryana,2010.0,general
+Haryana,2010.0,general
+Haryana,2010.0,general
+Haryana,2010.0,general
+Haryana,2010.0,general
+Haryana,2010.0,general
+Haryana,2010.0,general
+Haryana,2011.0,general
+Haryana,2011.0,general
+Haryana,2011.0,general
+Haryana,2011.0,general
+Haryana,2011.0,general
+Haryana,2011.0,general
+Haryana,2011.0,general
+Haryana,2011.0,general
+Haryana,2011.0,general
+Haryana,2011.0,general
+Haryana,2011.0,general
+Haryana,2011.0,general
+Haryana,2011.0,general
+Haryana,2011.0,general
+Haryana,2012.0,general
+Haryana,2012.0,general
+Haryana,2012.0,general
+Haryana,2012.0,general
+Haryana,2012.0,general
+Haryana,2012.0,general
+Haryana,2012.0,general
+Haryana,2012.0,general
+Haryana,2012.0,general
+Haryana,2012.0,general
+Haryana,2012.0,general
+Haryana,2012.0,general
+Haryana,2012.0,general
+Haryana,2012.0,general
+Himachal Pradesh,2001.0,general
+Himachal Pradesh,2001.0,general
+Himachal Pradesh,2001.0,general
+Himachal Pradesh,2001.0,general
+Himachal Pradesh,2001.0,general
+Himachal Pradesh,2001.0,general
+Himachal Pradesh,2001.0,general
+Himachal Pradesh,2001.0,general
+Himachal Pradesh,2001.0,general
+Himachal Pradesh,2001.0,general
+Himachal Pradesh,2001.0,general
+Himachal Pradesh,2001.0,general
+Himachal Pradesh,2001.0,general
+Himachal Pradesh,2001.0,general
+Himachal Pradesh,2002.0,general
+Himachal Pradesh,2002.0,general
+Himachal Pradesh,2002.0,general
+Himachal Pradesh,2002.0,general
+Himachal Pradesh,2002.0,general
+Himachal Pradesh,2002.0,general
+Himachal Pradesh,2002.0,general
+Himachal Pradesh,2002.0,general
+Himachal Pradesh,2002.0,general
+Himachal Pradesh,2002.0,general
+Himachal Pradesh,2002.0,general
+Himachal Pradesh,2002.0,general
+Himachal Pradesh,2002.0,general
+Himachal Pradesh,2002.0,general
+Himachal Pradesh,2003.0,general
+Himachal Pradesh,2003.0,general
+Himachal Pradesh,2003.0,general
+Himachal Pradesh,2003.0,general
+Himachal Pradesh,2003.0,general
+Himachal Pradesh,2003.0,general
+Himachal Pradesh,2003.0,general
+Himachal Pradesh,2003.0,general
+Himachal Pradesh,2003.0,general
+Himachal Pradesh,2003.0,general
+Himachal Pradesh,2003.0,general
+Himachal Pradesh,2003.0,general
+Himachal Pradesh,2003.0,general
+Himachal Pradesh,2003.0,general
+Himachal Pradesh,2004.0,general
+Himachal Pradesh,2004.0,general
+Himachal Pradesh,2004.0,general
+Himachal Pradesh,2004.0,general
+Himachal Pradesh,2004.0,general
+Himachal Pradesh,2004.0,general
+Himachal Pradesh,2004.0,general
+Himachal Pradesh,2004.0,general
+Himachal Pradesh,2004.0,general
+Himachal Pradesh,2004.0,general
+Himachal Pradesh,2004.0,general
+Himachal Pradesh,2004.0,general
+Himachal Pradesh,2004.0,general
+Himachal Pradesh,2004.0,general
+Himachal Pradesh,2005.0,general
+Himachal Pradesh,2005.0,general
+Himachal Pradesh,2005.0,general
+Himachal Pradesh,2005.0,general
+Himachal Pradesh,2005.0,general
+Himachal Pradesh,2005.0,general
+Himachal Pradesh,2005.0,general
+Himachal Pradesh,2005.0,general
+Himachal Pradesh,2005.0,general
+Himachal Pradesh,2005.0,general
+Himachal Pradesh,2005.0,general
+Himachal Pradesh,2005.0,general
+Himachal Pradesh,2005.0,general
+Himachal Pradesh,2005.0,general
+Himachal Pradesh,2006.0,general
+Himachal Pradesh,2006.0,general
+Himachal Pradesh,2006.0,general
+Himachal Pradesh,2006.0,general
+Himachal Pradesh,2006.0,general
+Himachal Pradesh,2006.0,general
+Himachal Pradesh,2006.0,general
+Himachal Pradesh,2006.0,general
+Himachal Pradesh,2006.0,general
+Himachal Pradesh,2006.0,general
+Himachal Pradesh,2006.0,general
+Himachal Pradesh,2006.0,general
+Himachal Pradesh,2006.0,general
+Himachal Pradesh,2006.0,general
+Himachal Pradesh,2007.0,general
+Himachal Pradesh,2007.0,general
+Himachal Pradesh,2007.0,general
+Himachal Pradesh,2007.0,general
+Himachal Pradesh,2007.0,general
+Himachal Pradesh,2007.0,general
+Himachal Pradesh,2007.0,general
+Himachal Pradesh,2007.0,general
+Himachal Pradesh,2007.0,general
+Himachal Pradesh,2007.0,general
+Himachal Pradesh,2007.0,general
+Himachal Pradesh,2007.0,general
+Himachal Pradesh,2007.0,general
+Himachal Pradesh,2007.0,general
+Himachal Pradesh,2008.0,general
+Himachal Pradesh,2008.0,general
+Himachal Pradesh,2008.0,general
+Himachal Pradesh,2008.0,general
+Himachal Pradesh,2008.0,general
+Himachal Pradesh,2008.0,general
+Himachal Pradesh,2008.0,general
+Himachal Pradesh,2008.0,general
+Himachal Pradesh,2008.0,general
+Himachal Pradesh,2008.0,general
+Himachal Pradesh,2008.0,general
+Himachal Pradesh,2008.0,general
+Himachal Pradesh,2008.0,general
+Himachal Pradesh,2008.0,general
+Himachal Pradesh,2009.0,general
+Himachal Pradesh,2009.0,general
+Himachal Pradesh,2009.0,general
+Himachal Pradesh,2009.0,general
+Himachal Pradesh,2009.0,general
+Himachal Pradesh,2009.0,general
+Himachal Pradesh,2009.0,general
+Himachal Pradesh,2009.0,general
+Himachal Pradesh,2009.0,general
+Himachal Pradesh,2009.0,general
+Himachal Pradesh,2009.0,general
+Himachal Pradesh,2009.0,general
+Himachal Pradesh,2009.0,general
+Himachal Pradesh,2009.0,general
+Himachal Pradesh,2010.0,general
+Himachal Pradesh,2010.0,general
+Himachal Pradesh,2010.0,general
+Himachal Pradesh,2010.0,general
+Himachal Pradesh,2010.0,general
+Himachal Pradesh,2010.0,general
+Himachal Pradesh,2010.0,general
+Himachal Pradesh,2010.0,general
+Himachal Pradesh,2010.0,general
+Himachal Pradesh,2010.0,general
+Himachal Pradesh,2010.0,general
+Himachal Pradesh,2010.0,general
+Himachal Pradesh,2010.0,general
+Himachal Pradesh,2010.0,general
+Himachal Pradesh,2011.0,general
+Himachal Pradesh,2011.0,general
+Himachal Pradesh,2011.0,general
+Himachal Pradesh,2011.0,general
+Himachal Pradesh,2011.0,general
+Himachal Pradesh,2011.0,general
+Himachal Pradesh,2011.0,general
+Himachal Pradesh,2011.0,general
+Himachal Pradesh,2011.0,general
+Himachal Pradesh,2011.0,general
+Himachal Pradesh,2011.0,general
+Himachal Pradesh,2011.0,general
+Himachal Pradesh,2011.0,general
+Himachal Pradesh,2011.0,general
+Himachal Pradesh,2012.0,general
+Himachal Pradesh,2012.0,general
+Himachal Pradesh,2012.0,general
+Himachal Pradesh,2012.0,general
+Himachal Pradesh,2012.0,general
+Himachal Pradesh,2012.0,general
+Himachal Pradesh,2012.0,general
+Himachal Pradesh,2012.0,general
+Himachal Pradesh,2012.0,general
+Himachal Pradesh,2012.0,general
+Himachal Pradesh,2012.0,general
+Himachal Pradesh,2012.0,general
+Himachal Pradesh,2012.0,general
+Himachal Pradesh,2012.0,general
+Jammu & Kashmir,2001.0,general
+Jammu & Kashmir,2001.0,general
+Jammu & Kashmir,2001.0,general
+Jammu & Kashmir,2001.0,general
+Jammu & Kashmir,2001.0,general
+Jammu & Kashmir,2001.0,general
+Jammu & Kashmir,2001.0,general
+Jammu & Kashmir,2001.0,general
+Jammu & Kashmir,2001.0,general
+Jammu & Kashmir,2001.0,general
+Jammu & Kashmir,2001.0,general
+Jammu & Kashmir,2001.0,general
+Jammu & Kashmir,2001.0,general
+Jammu & Kashmir,2001.0,general
+Jammu & Kashmir,2002.0,general
+Jammu & Kashmir,2002.0,general
+Jammu & Kashmir,2002.0,general
+Jammu & Kashmir,2002.0,general
+Jammu & Kashmir,2002.0,general
+Jammu & Kashmir,2002.0,general
+Jammu & Kashmir,2002.0,general
+Jammu & Kashmir,2002.0,general
+Jammu & Kashmir,2002.0,general
+Jammu & Kashmir,2002.0,general
+Jammu & Kashmir,2002.0,general
+Jammu & Kashmir,2002.0,general
+Jammu & Kashmir,2002.0,general
+Jammu & Kashmir,2002.0,general
+Jammu & Kashmir,2003.0,general
+Jammu & Kashmir,2003.0,general
+Jammu & Kashmir,2003.0,general
+Jammu & Kashmir,2003.0,general
+Jammu & Kashmir,2003.0,general
+Jammu & Kashmir,2003.0,general
+Jammu & Kashmir,2003.0,general
+Jammu & Kashmir,2003.0,general
+Jammu & Kashmir,2003.0,general
+Jammu & Kashmir,2003.0,general
+Jammu & Kashmir,2003.0,general
+Jammu & Kashmir,2003.0,general
+Jammu & Kashmir,2003.0,general
+Jammu & Kashmir,2003.0,general
+Jammu & Kashmir,2004.0,general
+Jammu & Kashmir,2004.0,general
+Jammu & Kashmir,2004.0,general
+Jammu & Kashmir,2004.0,general
+Jammu & Kashmir,2004.0,general
+Jammu & Kashmir,2004.0,general
+Jammu & Kashmir,2004.0,general
+Jammu & Kashmir,2004.0,general
+Jammu & Kashmir,2004.0,general
+Jammu & Kashmir,2004.0,general
+Jammu & Kashmir,2004.0,general
+Jammu & Kashmir,2004.0,general
+Jammu & Kashmir,2004.0,general
+Jammu & Kashmir,2004.0,general
+Jammu & Kashmir,2005.0,general
+Jammu & Kashmir,2005.0,general
+Jammu & Kashmir,2005.0,general
+Jammu & Kashmir,2005.0,general
+Jammu & Kashmir,2005.0,general
+Jammu & Kashmir,2005.0,general
+Jammu & Kashmir,2005.0,general
+Jammu & Kashmir,2005.0,general
+Jammu & Kashmir,2005.0,general
+Jammu & Kashmir,2005.0,general
+Jammu & Kashmir,2005.0,general
+Jammu & Kashmir,2005.0,general
+Jammu & Kashmir,2005.0,general
+Jammu & Kashmir,2005.0,general
+Jammu & Kashmir,2006.0,general
+Jammu & Kashmir,2006.0,general
+Jammu & Kashmir,2006.0,general
+Jammu & Kashmir,2006.0,general
+Jammu & Kashmir,2006.0,general
+Jammu & Kashmir,2006.0,general
+Jammu & Kashmir,2006.0,general
+Jammu & Kashmir,2006.0,general
+Jammu & Kashmir,2006.0,general
+Jammu & Kashmir,2006.0,general
+Jammu & Kashmir,2006.0,general
+Jammu & Kashmir,2006.0,general
+Jammu & Kashmir,2006.0,general
+Jammu & Kashmir,2006.0,general
+Jammu & Kashmir,2007.0,general
+Jammu & Kashmir,2007.0,general
+Jammu & Kashmir,2007.0,general
+Jammu & Kashmir,2007.0,general
+Jammu & Kashmir,2007.0,general
+Jammu & Kashmir,2007.0,general
+Jammu & Kashmir,2007.0,general
+Jammu & Kashmir,2007.0,general
+Jammu & Kashmir,2007.0,general
+Jammu & Kashmir,2007.0,general
+Jammu & Kashmir,2007.0,general
+Jammu & Kashmir,2007.0,general
+Jammu & Kashmir,2007.0,general
+Jammu & Kashmir,2007.0,general
+Jammu & Kashmir,2008.0,general
+Jammu & Kashmir,2008.0,general
+Jammu & Kashmir,2008.0,general
+Jammu & Kashmir,2008.0,general
+Jammu & Kashmir,2008.0,general
+Jammu & Kashmir,2008.0,general
+Jammu & Kashmir,2008.0,general
+Jammu & Kashmir,2008.0,general
+Jammu & Kashmir,2008.0,general
+Jammu & Kashmir,2008.0,general
+Jammu & Kashmir,2008.0,general
+Jammu & Kashmir,2008.0,general
+Jammu & Kashmir,2008.0,general
+Jammu & Kashmir,2008.0,general
+Jammu & Kashmir,2009.0,general
+Jammu & Kashmir,2009.0,general
+Jammu & Kashmir,2009.0,general
+Jammu & Kashmir,2009.0,general
+Jammu & Kashmir,2009.0,general
+Jammu & Kashmir,2009.0,general
+Jammu & Kashmir,2009.0,general
+Jammu & Kashmir,2009.0,general
+Jammu & Kashmir,2009.0,general
+Jammu & Kashmir,2009.0,general
+Jammu & Kashmir,2009.0,general
+Jammu & Kashmir,2009.0,general
+Jammu & Kashmir,2009.0,general
+Jammu & Kashmir,2009.0,general
+Jammu & Kashmir,2010.0,general
+Jammu & Kashmir,2010.0,general
+Jammu & Kashmir,2010.0,general
+Jammu & Kashmir,2010.0,general
+Jammu & Kashmir,2010.0,general
+Jammu & Kashmir,2010.0,general
+Jammu & Kashmir,2010.0,general
+Jammu & Kashmir,2010.0,general
+Jammu & Kashmir,2010.0,general
+Jammu & Kashmir,2010.0,general
+Jammu & Kashmir,2010.0,general
+Jammu & Kashmir,2010.0,general
+Jammu & Kashmir,2010.0,general
+Jammu & Kashmir,2010.0,general
+Jammu & Kashmir,2011.0,general
+Jammu & Kashmir,2011.0,general
+Jammu & Kashmir,2011.0,general
+Jammu & Kashmir,2011.0,general
+Jammu & Kashmir,2011.0,general
+Jammu & Kashmir,2011.0,general
+Jammu & Kashmir,2011.0,general
+Jammu & Kashmir,2011.0,general
+Jammu & Kashmir,2011.0,general
+Jammu & Kashmir,2011.0,general
+Jammu & Kashmir,2011.0,general
+Jammu & Kashmir,2011.0,general
+Jammu & Kashmir,2011.0,general
+Jammu & Kashmir,2011.0,general
+Jammu & Kashmir,2012.0,general
+Jammu & Kashmir,2012.0,general
+Jammu & Kashmir,2012.0,general
+Jammu & Kashmir,2012.0,general
+Jammu & Kashmir,2012.0,general
+Jammu & Kashmir,2012.0,general
+Jammu & Kashmir,2012.0,general
+Jammu & Kashmir,2012.0,general
+Jammu & Kashmir,2012.0,general
+Jammu & Kashmir,2012.0,general
+Jammu & Kashmir,2012.0,general
+Jammu & Kashmir,2012.0,general
+Jammu & Kashmir,2012.0,general
+Jammu & Kashmir,2012.0,general
+Jharkhand,2001.0,general
+Jharkhand,2001.0,general
+Jharkhand,2001.0,general
+Jharkhand,2001.0,general
+Jharkhand,2001.0,general
+Jharkhand,2001.0,general
+Jharkhand,2001.0,general
+Jharkhand,2001.0,general
+Jharkhand,2001.0,general
+Jharkhand,2001.0,general
+Jharkhand,2001.0,general
+Jharkhand,2001.0,general
+Jharkhand,2001.0,general
+Jharkhand,2001.0,general
+Jharkhand,2002.0,general
+Jharkhand,2002.0,general
+Jharkhand,2002.0,general
+Jharkhand,2002.0,general
+Jharkhand,2002.0,general
+Jharkhand,2002.0,general
+Jharkhand,2002.0,general
+Jharkhand,2002.0,general
+Jharkhand,2002.0,general
+Jharkhand,2002.0,general
+Jharkhand,2002.0,general
+Jharkhand,2002.0,general
+Jharkhand,2002.0,general
+Jharkhand,2002.0,general
+Jharkhand,2003.0,general
+Jharkhand,2003.0,general
+Jharkhand,2003.0,general
+Jharkhand,2003.0,general
+Jharkhand,2003.0,general
+Jharkhand,2003.0,general
+Jharkhand,2003.0,general
+Jharkhand,2003.0,general
+Jharkhand,2003.0,general
+Jharkhand,2003.0,general
+Jharkhand,2003.0,general
+Jharkhand,2003.0,general
+Jharkhand,2003.0,general
+Jharkhand,2003.0,general
+Jharkhand,2004.0,general
+Jharkhand,2004.0,general
+Jharkhand,2004.0,general
+Jharkhand,2004.0,general
+Jharkhand,2004.0,general
+Jharkhand,2004.0,general
+Jharkhand,2004.0,general
+Jharkhand,2004.0,general
+Jharkhand,2004.0,general
+Jharkhand,2004.0,general
+Jharkhand,2004.0,general
+Jharkhand,2004.0,general
+Jharkhand,2004.0,general
+Jharkhand,2004.0,general
+Jharkhand,2005.0,general
+Jharkhand,2005.0,general
+Jharkhand,2005.0,general
+Jharkhand,2005.0,general
+Jharkhand,2005.0,general
+Jharkhand,2005.0,general
+Jharkhand,2005.0,general
+Jharkhand,2005.0,general
+Jharkhand,2005.0,general
+Jharkhand,2005.0,general
+Jharkhand,2005.0,general
+Jharkhand,2005.0,general
+Jharkhand,2005.0,general
+Jharkhand,2005.0,general
+Jharkhand,2006.0,general
+Jharkhand,2006.0,general
+Jharkhand,2006.0,general
+Jharkhand,2006.0,general
+Jharkhand,2006.0,general
+Jharkhand,2006.0,general
+Jharkhand,2006.0,general
+Jharkhand,2006.0,general
+Jharkhand,2006.0,general
+Jharkhand,2006.0,general
+Jharkhand,2006.0,general
+Jharkhand,2006.0,general
+Jharkhand,2006.0,general
+Jharkhand,2006.0,general
+Jharkhand,2007.0,general
+Jharkhand,2007.0,general
+Jharkhand,2007.0,general
+Jharkhand,2007.0,general
+Jharkhand,2007.0,general
+Jharkhand,2007.0,general
+Jharkhand,2007.0,general
+Jharkhand,2007.0,general
+Jharkhand,2007.0,general
+Jharkhand,2007.0,general
+Jharkhand,2007.0,general
+Jharkhand,2007.0,general
+Jharkhand,2007.0,general
+Jharkhand,2007.0,general
+Jharkhand,2008.0,general
+Jharkhand,2008.0,general
+Jharkhand,2008.0,general
+Jharkhand,2008.0,general
+Jharkhand,2008.0,general
+Jharkhand,2008.0,general
+Jharkhand,2008.0,general
+Jharkhand,2008.0,general
+Jharkhand,2008.0,general
+Jharkhand,2008.0,general
+Jharkhand,2008.0,general
+Jharkhand,2008.0,general
+Jharkhand,2008.0,general
+Jharkhand,2008.0,general
+Jharkhand,2009.0,general
+Jharkhand,2009.0,general
+Jharkhand,2009.0,general
+Jharkhand,2009.0,general
+Jharkhand,2009.0,general
+Jharkhand,2009.0,general
+Jharkhand,2009.0,general
+Jharkhand,2009.0,general
+Jharkhand,2009.0,general
+Jharkhand,2009.0,general
+Jharkhand,2009.0,general
+Jharkhand,2009.0,general
+Jharkhand,2009.0,general
+Jharkhand,2009.0,general
+Jharkhand,2010.0,general
+Jharkhand,2010.0,general
+Jharkhand,2010.0,general
+Jharkhand,2010.0,general
+Jharkhand,2010.0,general
+Jharkhand,2010.0,general
+Jharkhand,2010.0,general
+Jharkhand,2010.0,general
+Jharkhand,2010.0,general
+Jharkhand,2010.0,general
+Jharkhand,2010.0,general
+Jharkhand,2010.0,general
+Jharkhand,2010.0,general
+Jharkhand,2010.0,general
+Jharkhand,2011.0,general
+Jharkhand,2011.0,general
+Jharkhand,2011.0,general
+Jharkhand,2011.0,general
+Jharkhand,2011.0,general
+Jharkhand,2011.0,general
+Jharkhand,2011.0,general
+Jharkhand,2011.0,general
+Jharkhand,2011.0,general
+Jharkhand,2011.0,general
+Jharkhand,2011.0,general
+Jharkhand,2011.0,general
+Jharkhand,2011.0,general
+Jharkhand,2011.0,general
+Jharkhand,2012.0,general
+Jharkhand,2012.0,general
+Jharkhand,2012.0,general
+Jharkhand,2012.0,general
+Jharkhand,2012.0,general
+Jharkhand,2012.0,general
+Jharkhand,2012.0,general
+Jharkhand,2012.0,general
+Jharkhand,2012.0,general
+Jharkhand,2012.0,general
+Jharkhand,2012.0,general
+Jharkhand,2012.0,general
+Jharkhand,2012.0,general
+Jharkhand,2012.0,general
+Karnataka,2001.0,general
+Karnataka,2001.0,general
+Karnataka,2001.0,general
+Karnataka,2001.0,general
+Karnataka,2001.0,general
+Karnataka,2001.0,general
+Karnataka,2001.0,general
+Karnataka,2001.0,general
+Karnataka,2001.0,general
+Karnataka,2001.0,general
+Karnataka,2001.0,general
+Karnataka,2001.0,general
+Karnataka,2001.0,general
+Karnataka,2001.0,general
+Karnataka,2002.0,general
+Karnataka,2002.0,general
+Karnataka,2002.0,general
+Karnataka,2002.0,general
+Karnataka,2002.0,general
+Karnataka,2002.0,general
+Karnataka,2002.0,general
+Karnataka,2002.0,general
+Karnataka,2002.0,general
+Karnataka,2002.0,general
+Karnataka,2002.0,general
+Karnataka,2002.0,general
+Karnataka,2002.0,general
+Karnataka,2002.0,general
+Karnataka,2003.0,general
+Karnataka,2003.0,general
+Karnataka,2003.0,general
+Karnataka,2003.0,general
+Karnataka,2003.0,general
+Karnataka,2003.0,general
+Karnataka,2003.0,general
+Karnataka,2003.0,general
+Karnataka,2003.0,general
+Karnataka,2003.0,general
+Karnataka,2003.0,general
+Karnataka,2003.0,general
+Karnataka,2003.0,general
+Karnataka,2003.0,general
+Karnataka,2004.0,general
+Karnataka,2004.0,general
+Karnataka,2004.0,general
+Karnataka,2004.0,general
+Karnataka,2004.0,general
+Karnataka,2004.0,general
+Karnataka,2004.0,general
+Karnataka,2004.0,general
+Karnataka,2004.0,general
+Karnataka,2004.0,general
+Karnataka,2004.0,general
+Karnataka,2004.0,general
+Karnataka,2004.0,general
+Karnataka,2004.0,general
+Karnataka,2005.0,general
+Karnataka,2005.0,general
+Karnataka,2005.0,general
+Karnataka,2005.0,general
+Karnataka,2005.0,general
+Karnataka,2005.0,general
+Karnataka,2005.0,general
+Karnataka,2005.0,general
+Karnataka,2005.0,general
+Karnataka,2005.0,general
+Karnataka,2005.0,general
+Karnataka,2005.0,general
+Karnataka,2005.0,general
+Karnataka,2005.0,general
+Karnataka,2006.0,general
+Karnataka,2006.0,general
+Karnataka,2006.0,general
+Karnataka,2006.0,general
+Karnataka,2006.0,general
+Karnataka,2006.0,general
+Karnataka,2006.0,general
+Karnataka,2006.0,general
+Karnataka,2006.0,general
+Karnataka,2006.0,general
+Karnataka,2006.0,general
+Karnataka,2006.0,general
+Karnataka,2006.0,general
+Karnataka,2006.0,general
+Karnataka,2007.0,general
+Karnataka,2007.0,general
+Karnataka,2007.0,general
+Karnataka,2007.0,general
+Karnataka,2007.0,general
+Karnataka,2007.0,general
+Karnataka,2007.0,general
+Karnataka,2007.0,general
+Karnataka,2007.0,general
+Karnataka,2007.0,general
+Karnataka,2007.0,general
+Karnataka,2007.0,general
+Karnataka,2007.0,general
+Karnataka,2007.0,general
+Karnataka,2008.0,general
+Karnataka,2008.0,general
+Karnataka,2008.0,general
+Karnataka,2008.0,general
+Karnataka,2008.0,general
+Karnataka,2008.0,general
+Karnataka,2008.0,general
+Karnataka,2008.0,general
+Karnataka,2008.0,general
+Karnataka,2008.0,general
+Karnataka,2008.0,general
+Karnataka,2008.0,general
+Karnataka,2008.0,general
+Karnataka,2008.0,general
+Karnataka,2009.0,general
+Karnataka,2009.0,general
+Karnataka,2009.0,general
+Karnataka,2009.0,general
+Karnataka,2009.0,general
+Karnataka,2009.0,general
+Karnataka,2009.0,general
+Karnataka,2009.0,general
+Karnataka,2009.0,general
+Karnataka,2009.0,general
+Karnataka,2009.0,general
+Karnataka,2009.0,general
+Karnataka,2009.0,general
+Karnataka,2009.0,general
+Karnataka,2010.0,general
+Karnataka,2010.0,general
+Karnataka,2010.0,general
+Karnataka,2010.0,general
+Karnataka,2010.0,general
+Karnataka,2010.0,general
+Karnataka,2010.0,general
+Karnataka,2010.0,general
+Karnataka,2010.0,general
+Karnataka,2010.0,general
+Karnataka,2010.0,general
+Karnataka,2010.0,general
+Karnataka,2010.0,general
+Karnataka,2010.0,general
+Karnataka,2011.0,general
+Karnataka,2011.0,general
+Karnataka,2011.0,general
+Karnataka,2011.0,general
+Karnataka,2011.0,general
+Karnataka,2011.0,general
+Karnataka,2011.0,general
+Karnataka,2011.0,general
+Karnataka,2011.0,general
+Karnataka,2011.0,general
+Karnataka,2011.0,general
+Karnataka,2011.0,general
+Karnataka,2011.0,general
+Karnataka,2011.0,general
+Karnataka,2012.0,general
+Karnataka,2012.0,general
+Karnataka,2012.0,general
+Karnataka,2012.0,general
+Karnataka,2012.0,general
+Karnataka,2012.0,general
+Karnataka,2012.0,general
+Karnataka,2012.0,general
+Karnataka,2012.0,general
+Karnataka,2012.0,general
+Karnataka,2012.0,general
+Karnataka,2012.0,general
+Karnataka,2012.0,general
+Karnataka,2012.0,general
+Kerala,2001.0,general
+Kerala,2001.0,general
+Kerala,2001.0,general
+Kerala,2001.0,general
+Kerala,2001.0,general
+Kerala,2001.0,general
+Kerala,2001.0,general
+Kerala,2001.0,general
+Kerala,2001.0,general
+Kerala,2001.0,general
+Kerala,2001.0,general
+Kerala,2001.0,general
+Kerala,2001.0,general
+Kerala,2001.0,general
+Kerala,2002.0,general
+Kerala,2002.0,general
+Kerala,2002.0,general
+Kerala,2002.0,general
+Kerala,2002.0,general
+Kerala,2002.0,general
+Kerala,2002.0,general
+Kerala,2002.0,general
+Kerala,2002.0,general
+Kerala,2002.0,general
+Kerala,2002.0,general
+Kerala,2002.0,general
+Kerala,2002.0,general
+Kerala,2002.0,general
+Kerala,2003.0,general
+Kerala,2003.0,general
+Kerala,2003.0,general
+Kerala,2003.0,general
+Kerala,2003.0,general
+Kerala,2003.0,general
+Kerala,2003.0,general
+Kerala,2003.0,general
+Kerala,2003.0,general
+Kerala,2003.0,general
+Kerala,2003.0,general
+Kerala,2003.0,general
+Kerala,2003.0,general
+Kerala,2003.0,general
+Kerala,2004.0,general
+Kerala,2004.0,general
+Kerala,2004.0,general
+Kerala,2004.0,general
+Kerala,2004.0,general
+Kerala,2004.0,general
+Kerala,2004.0,general
+Kerala,2004.0,general
+Kerala,2004.0,general
+Kerala,2004.0,general
+Kerala,2004.0,general
+Kerala,2004.0,general
+Kerala,2004.0,general
+Kerala,2004.0,general
+Kerala,2005.0,general
+Kerala,2005.0,general
+Kerala,2005.0,general
+Kerala,2005.0,general
+Kerala,2005.0,general
+Kerala,2005.0,general
+Kerala,2005.0,general
+Kerala,2005.0,general
+Kerala,2005.0,general
+Kerala,2005.0,general
+Kerala,2005.0,general
+Kerala,2005.0,general
+Kerala,2005.0,general
+Kerala,2005.0,general
+Kerala,2006.0,general
+Kerala,2006.0,general
+Kerala,2006.0,general
+Kerala,2006.0,general
+Kerala,2006.0,general
+Kerala,2006.0,general
+Kerala,2006.0,general
+Kerala,2006.0,general
+Kerala,2006.0,general
+Kerala,2006.0,general
+Kerala,2006.0,general
+Kerala,2006.0,general
+Kerala,2006.0,general
+Kerala,2006.0,general
+Kerala,2007.0,general
+Kerala,2007.0,general
+Kerala,2007.0,general
+Kerala,2007.0,general
+Kerala,2007.0,general
+Kerala,2007.0,general
+Kerala,2007.0,general
+Kerala,2007.0,general
+Kerala,2007.0,general
+Kerala,2007.0,general
+Kerala,2007.0,general
+Kerala,2007.0,general
+Kerala,2007.0,general
+Kerala,2007.0,general
+Kerala,2008.0,general
+Kerala,2008.0,general
+Kerala,2008.0,general
+Kerala,2008.0,general
+Kerala,2008.0,general
+Kerala,2008.0,general
+Kerala,2008.0,general
+Kerala,2008.0,general
+Kerala,2008.0,general
+Kerala,2008.0,general
+Kerala,2008.0,general
+Kerala,2008.0,general
+Kerala,2008.0,general
+Kerala,2008.0,general
+Kerala,2009.0,general
+Kerala,2009.0,general
+Kerala,2009.0,general
+Kerala,2009.0,general
+Kerala,2009.0,general
+Kerala,2009.0,general
+Kerala,2009.0,general
+Kerala,2009.0,general
+Kerala,2009.0,general
+Kerala,2009.0,general
+Kerala,2009.0,general
+Kerala,2009.0,general
+Kerala,2009.0,general
+Kerala,2009.0,general
+Kerala,2010.0,general
+Kerala,2010.0,general
+Kerala,2010.0,general
+Kerala,2010.0,general
+Kerala,2010.0,general
+Kerala,2010.0,general
+Kerala,2010.0,general
+Kerala,2010.0,general
+Kerala,2010.0,general
+Kerala,2010.0,general
+Kerala,2010.0,general
+Kerala,2010.0,general
+Kerala,2010.0,general
+Kerala,2010.0,general
+Kerala,2011.0,general
+Kerala,2011.0,general
+Kerala,2011.0,general
+Kerala,2011.0,general
+Kerala,2011.0,general
+Kerala,2011.0,general
+Kerala,2011.0,general
+Kerala,2011.0,general
+Kerala,2011.0,general
+Kerala,2011.0,general
+Kerala,2011.0,general
+Kerala,2011.0,general
+Kerala,2011.0,general
+Kerala,2011.0,general
+Kerala,2012.0,general
+Kerala,2012.0,general
+Kerala,2012.0,general
+Kerala,2012.0,general
+Kerala,2012.0,general
+Kerala,2012.0,general
+Kerala,2012.0,general
+Kerala,2012.0,general
+Kerala,2012.0,general
+Kerala,2012.0,general
+Kerala,2012.0,general
+Kerala,2012.0,general
+Kerala,2012.0,general
+Kerala,2012.0,general
+Madhya Pradesh,2001.0,general
+Madhya Pradesh,2001.0,general
+Madhya Pradesh,2001.0,general
+Madhya Pradesh,2001.0,general
+Madhya Pradesh,2001.0,general
+Madhya Pradesh,2001.0,general
+Madhya Pradesh,2001.0,general
+Madhya Pradesh,2001.0,general
+Madhya Pradesh,2001.0,general
+Madhya Pradesh,2001.0,general
+Madhya Pradesh,2001.0,general
+Madhya Pradesh,2001.0,general
+Madhya Pradesh,2001.0,general
+Madhya Pradesh,2001.0,general
+Madhya Pradesh,2002.0,general
+Madhya Pradesh,2002.0,general
+Madhya Pradesh,2002.0,general
+Madhya Pradesh,2002.0,general
+Madhya Pradesh,2002.0,general
+Madhya Pradesh,2002.0,general
+Madhya Pradesh,2002.0,general
+Madhya Pradesh,2002.0,general
+Madhya Pradesh,2002.0,general
+Madhya Pradesh,2002.0,general
+Madhya Pradesh,2002.0,general
+Madhya Pradesh,2002.0,general
+Madhya Pradesh,2002.0,general
+Madhya Pradesh,2002.0,general
+Madhya Pradesh,2003.0,general
+Madhya Pradesh,2003.0,general
+Madhya Pradesh,2003.0,general
+Madhya Pradesh,2003.0,general
+Madhya Pradesh,2003.0,general
+Madhya Pradesh,2003.0,general
+Madhya Pradesh,2003.0,general
+Madhya Pradesh,2003.0,general
+Madhya Pradesh,2003.0,general
+Madhya Pradesh,2003.0,general
+Madhya Pradesh,2003.0,general
+Madhya Pradesh,2003.0,general
+Madhya Pradesh,2003.0,general
+Madhya Pradesh,2003.0,general
+Madhya Pradesh,2004.0,general
+Madhya Pradesh,2004.0,general
+Madhya Pradesh,2004.0,general
+Madhya Pradesh,2004.0,general
+Madhya Pradesh,2004.0,general
+Madhya Pradesh,2004.0,general
+Madhya Pradesh,2004.0,general
+Madhya Pradesh,2004.0,general
+Madhya Pradesh,2004.0,general
+Madhya Pradesh,2004.0,general
+Madhya Pradesh,2004.0,general
+Madhya Pradesh,2004.0,general
+Madhya Pradesh,2004.0,general
+Madhya Pradesh,2004.0,general
+Madhya Pradesh,2005.0,general
+Madhya Pradesh,2005.0,general
+Madhya Pradesh,2005.0,general
+Madhya Pradesh,2005.0,general
+Madhya Pradesh,2005.0,general
+Madhya Pradesh,2005.0,general
+Madhya Pradesh,2005.0,general
+Madhya Pradesh,2005.0,general
+Madhya Pradesh,2005.0,general
+Madhya Pradesh,2005.0,general
+Madhya Pradesh,2005.0,general
+Madhya Pradesh,2005.0,general
+Madhya Pradesh,2005.0,general
+Madhya Pradesh,2005.0,general
+Madhya Pradesh,2006.0,general
+Madhya Pradesh,2006.0,general
+Madhya Pradesh,2006.0,general
+Madhya Pradesh,2006.0,general
+Madhya Pradesh,2006.0,general
+Madhya Pradesh,2006.0,general
+Madhya Pradesh,2006.0,general
+Madhya Pradesh,2006.0,general
+Madhya Pradesh,2006.0,general
+Madhya Pradesh,2006.0,general
+Madhya Pradesh,2006.0,general
+Madhya Pradesh,2006.0,general
+Madhya Pradesh,2006.0,general
+Madhya Pradesh,2006.0,general
+Madhya Pradesh,2007.0,general
+Madhya Pradesh,2007.0,general
+Madhya Pradesh,2007.0,general
+Madhya Pradesh,2007.0,general
+Madhya Pradesh,2007.0,general
+Madhya Pradesh,2007.0,general
+Madhya Pradesh,2007.0,general
+Madhya Pradesh,2007.0,general
+Madhya Pradesh,2007.0,general
+Madhya Pradesh,2007.0,general
+Madhya Pradesh,2007.0,general
+Madhya Pradesh,2007.0,general
+Madhya Pradesh,2007.0,general
+Madhya Pradesh,2007.0,general
+Madhya Pradesh,2008.0,general
+Madhya Pradesh,2008.0,general
+Madhya Pradesh,2008.0,general
+Madhya Pradesh,2008.0,general
+Madhya Pradesh,2008.0,general
+Madhya Pradesh,2008.0,general
+Madhya Pradesh,2008.0,general
+Madhya Pradesh,2008.0,general
+Madhya Pradesh,2008.0,general
+Madhya Pradesh,2008.0,general
+Madhya Pradesh,2008.0,general
+Madhya Pradesh,2008.0,general
+Madhya Pradesh,2008.0,general
+Madhya Pradesh,2008.0,general
+Madhya Pradesh,2009.0,general
+Madhya Pradesh,2009.0,general
+Madhya Pradesh,2009.0,general
+Madhya Pradesh,2009.0,general
+Madhya Pradesh,2009.0,general
+Madhya Pradesh,2009.0,general
+Madhya Pradesh,2009.0,general
+Madhya Pradesh,2009.0,general
+Madhya Pradesh,2009.0,general
+Madhya Pradesh,2009.0,general
+Madhya Pradesh,2009.0,general
+Madhya Pradesh,2009.0,general
+Madhya Pradesh,2009.0,general
+Madhya Pradesh,2009.0,general
+Madhya Pradesh,2010.0,general
+Madhya Pradesh,2010.0,general
+Madhya Pradesh,2010.0,general
+Madhya Pradesh,2010.0,general
+Madhya Pradesh,2010.0,general
+Madhya Pradesh,2010.0,general
+Madhya Pradesh,2010.0,general
+Madhya Pradesh,2010.0,general
+Madhya Pradesh,2010.0,general
+Madhya Pradesh,2010.0,general
+Madhya Pradesh,2010.0,general
+Madhya Pradesh,2010.0,general
+Madhya Pradesh,2010.0,general
+Madhya Pradesh,2010.0,general
+Madhya Pradesh,2011.0,general
+Madhya Pradesh,2011.0,general
+Madhya Pradesh,2011.0,general
+Madhya Pradesh,2011.0,general
+Madhya Pradesh,2011.0,general
+Madhya Pradesh,2011.0,general
+Madhya Pradesh,2011.0,general
+Madhya Pradesh,2011.0,general
+Madhya Pradesh,2011.0,general
+Madhya Pradesh,2011.0,general
+Madhya Pradesh,2011.0,general
+Madhya Pradesh,2011.0,general
+Madhya Pradesh,2011.0,general
+Madhya Pradesh,2011.0,general
+Madhya Pradesh,2012.0,general
+Madhya Pradesh,2012.0,general
+Madhya Pradesh,2012.0,general
+Madhya Pradesh,2012.0,general
+Madhya Pradesh,2012.0,general
+Madhya Pradesh,2012.0,general
+Madhya Pradesh,2012.0,general
+Madhya Pradesh,2012.0,general
+Madhya Pradesh,2012.0,general
+Madhya Pradesh,2012.0,general
+Madhya Pradesh,2012.0,general
+Madhya Pradesh,2012.0,general
+Madhya Pradesh,2012.0,general
+Madhya Pradesh,2012.0,general
+Maharashtra,2001.0,general
+Maharashtra,2001.0,general
+Maharashtra,2001.0,general
+Maharashtra,2001.0,general
+Maharashtra,2001.0,general
+Maharashtra,2001.0,general
+Maharashtra,2001.0,general
+Maharashtra,2001.0,general
+Maharashtra,2001.0,general
+Maharashtra,2001.0,general
+Maharashtra,2001.0,general
+Maharashtra,2001.0,general
+Maharashtra,2001.0,general
+Maharashtra,2001.0,general
+Maharashtra,2002.0,general
+Maharashtra,2002.0,general
+Maharashtra,2002.0,general
+Maharashtra,2002.0,general
+Maharashtra,2002.0,general
+Maharashtra,2002.0,general
+Maharashtra,2002.0,general
+Maharashtra,2002.0,general
+Maharashtra,2002.0,general
+Maharashtra,2002.0,general
+Maharashtra,2002.0,general
+Maharashtra,2002.0,general
+Maharashtra,2002.0,general
+Maharashtra,2002.0,general
+Maharashtra,2003.0,general
+Maharashtra,2003.0,general
+Maharashtra,2003.0,general
+Maharashtra,2003.0,general
+Maharashtra,2003.0,general
+Maharashtra,2003.0,general
+Maharashtra,2003.0,general
+Maharashtra,2003.0,general
+Maharashtra,2003.0,general
+Maharashtra,2003.0,general
+Maharashtra,2003.0,general
+Maharashtra,2003.0,general
+Maharashtra,2003.0,general
+Maharashtra,2003.0,general
+Maharashtra,2004.0,general
+Maharashtra,2004.0,general
+Maharashtra,2004.0,general
+Maharashtra,2004.0,general
+Maharashtra,2004.0,general
+Maharashtra,2004.0,general
+Maharashtra,2004.0,general
+Maharashtra,2004.0,general
+Maharashtra,2004.0,general
+Maharashtra,2004.0,general
+Maharashtra,2004.0,general
+Maharashtra,2004.0,general
+Maharashtra,2004.0,general
+Maharashtra,2004.0,general
+Maharashtra,2005.0,general
+Maharashtra,2005.0,general
+Maharashtra,2005.0,general
+Maharashtra,2005.0,general
+Maharashtra,2005.0,general
+Maharashtra,2005.0,general
+Maharashtra,2005.0,general
+Maharashtra,2005.0,general
+Maharashtra,2005.0,general
+Maharashtra,2005.0,general
+Maharashtra,2005.0,general
+Maharashtra,2005.0,general
+Maharashtra,2005.0,general
+Maharashtra,2005.0,general
+Maharashtra,2006.0,general
+Maharashtra,2006.0,general
+Maharashtra,2006.0,general
+Maharashtra,2006.0,general
+Maharashtra,2006.0,general
+Maharashtra,2006.0,general
+Maharashtra,2006.0,general
+Maharashtra,2006.0,general
+Maharashtra,2006.0,general
+Maharashtra,2006.0,general
+Maharashtra,2006.0,general
+Maharashtra,2006.0,general
+Maharashtra,2006.0,general
+Maharashtra,2006.0,general
+Maharashtra,2007.0,general
+Maharashtra,2007.0,general
+Maharashtra,2007.0,general
+Maharashtra,2007.0,general
+Maharashtra,2007.0,general
+Maharashtra,2007.0,general
+Maharashtra,2007.0,general
+Maharashtra,2007.0,general
+Maharashtra,2007.0,general
+Maharashtra,2007.0,general
+Maharashtra,2007.0,general
+Maharashtra,2007.0,general
+Maharashtra,2007.0,general
+Maharashtra,2007.0,general
+Maharashtra,2008.0,general
+Maharashtra,2008.0,general
+Maharashtra,2008.0,general
+Maharashtra,2008.0,general
+Maharashtra,2008.0,general
+Maharashtra,2008.0,general
+Maharashtra,2008.0,general
+Maharashtra,2008.0,general
+Maharashtra,2008.0,general
+Maharashtra,2008.0,general
+Maharashtra,2008.0,general
+Maharashtra,2008.0,general
+Maharashtra,2008.0,general
+Maharashtra,2008.0,general
+Maharashtra,2009.0,general
+Maharashtra,2009.0,general
+Maharashtra,2009.0,general
+Maharashtra,2009.0,general
+Maharashtra,2009.0,general
+Maharashtra,2009.0,general
+Maharashtra,2009.0,general
+Maharashtra,2009.0,general
+Maharashtra,2009.0,general
+Maharashtra,2009.0,general
+Maharashtra,2009.0,general
+Maharashtra,2009.0,general
+Maharashtra,2009.0,general
+Maharashtra,2009.0,general
+Maharashtra,2010.0,general
+Maharashtra,2010.0,general
+Maharashtra,2010.0,general
+Maharashtra,2010.0,general
+Maharashtra,2010.0,general
+Maharashtra,2010.0,general
+Maharashtra,2010.0,general
+Maharashtra,2010.0,general
+Maharashtra,2010.0,general
+Maharashtra,2010.0,general
+Maharashtra,2010.0,general
+Maharashtra,2010.0,general
+Maharashtra,2010.0,general
+Maharashtra,2010.0,general
+Maharashtra,2011.0,general
+Maharashtra,2011.0,general
+Maharashtra,2011.0,general
+Maharashtra,2011.0,general
+Maharashtra,2011.0,general
+Maharashtra,2011.0,general
+Maharashtra,2011.0,general
+Maharashtra,2011.0,general
+Maharashtra,2011.0,general
+Maharashtra,2011.0,general
+Maharashtra,2011.0,general
+Maharashtra,2011.0,general
+Maharashtra,2011.0,general
+Maharashtra,2011.0,general
+Maharashtra,2012.0,general
+Maharashtra,2012.0,general
+Maharashtra,2012.0,general
+Maharashtra,2012.0,general
+Maharashtra,2012.0,general
+Maharashtra,2012.0,general
+Maharashtra,2012.0,general
+Maharashtra,2012.0,general
+Maharashtra,2012.0,general
+Maharashtra,2012.0,general
+Maharashtra,2012.0,general
+Maharashtra,2012.0,general
+Maharashtra,2012.0,general
+Maharashtra,2012.0,general
+Manipur,2001.0,general
+Manipur,2001.0,general
+Manipur,2001.0,general
+Manipur,2001.0,general
+Manipur,2001.0,general
+Manipur,2001.0,general
+Manipur,2001.0,general
+Manipur,2001.0,general
+Manipur,2001.0,general
+Manipur,2001.0,general
+Manipur,2001.0,general
+Manipur,2001.0,general
+Manipur,2001.0,general
+Manipur,2001.0,general
+Manipur,2002.0,general
+Manipur,2002.0,general
+Manipur,2002.0,general
+Manipur,2002.0,general
+Manipur,2002.0,general
+Manipur,2002.0,general
+Manipur,2002.0,general
+Manipur,2002.0,general
+Manipur,2002.0,general
+Manipur,2002.0,general
+Manipur,2002.0,general
+Manipur,2002.0,general
+Manipur,2002.0,general
+Manipur,2002.0,general
+Manipur,2003.0,general
+Manipur,2003.0,general
+Manipur,2003.0,general
+Manipur,2003.0,general
+Manipur,2003.0,general
+Manipur,2003.0,general
+Manipur,2003.0,general
+Manipur,2003.0,general
+Manipur,2003.0,general
+Manipur,2003.0,general
+Manipur,2003.0,general
+Manipur,2003.0,general
+Manipur,2003.0,general
+Manipur,2003.0,general
+Manipur,2004.0,general
+Manipur,2004.0,general
+Manipur,2004.0,general
+Manipur,2004.0,general
+Manipur,2004.0,general
+Manipur,2004.0,general
+Manipur,2004.0,general
+Manipur,2004.0,general
+Manipur,2004.0,general
+Manipur,2004.0,general
+Manipur,2004.0,general
+Manipur,2004.0,general
+Manipur,2004.0,general
+Manipur,2004.0,general
+Manipur,2005.0,general
+Manipur,2005.0,general
+Manipur,2005.0,general
+Manipur,2005.0,general
+Manipur,2005.0,general
+Manipur,2005.0,general
+Manipur,2005.0,general
+Manipur,2005.0,general
+Manipur,2005.0,general
+Manipur,2005.0,general
+Manipur,2005.0,general
+Manipur,2005.0,general
+Manipur,2005.0,general
+Manipur,2005.0,general
+Manipur,2006.0,general
+Manipur,2006.0,general
+Manipur,2006.0,general
+Manipur,2006.0,general
+Manipur,2006.0,general
+Manipur,2006.0,general
+Manipur,2006.0,general
+Manipur,2006.0,general
+Manipur,2006.0,general
+Manipur,2006.0,general
+Manipur,2006.0,general
+Manipur,2006.0,general
+Manipur,2006.0,general
+Manipur,2006.0,general
+Manipur,2007.0,general
+Manipur,2007.0,general
+Manipur,2007.0,general
+Manipur,2007.0,general
+Manipur,2007.0,general
+Manipur,2007.0,general
+Manipur,2007.0,general
+Manipur,2007.0,general
+Manipur,2007.0,general
+Manipur,2007.0,general
+Manipur,2007.0,general
+Manipur,2007.0,general
+Manipur,2007.0,general
+Manipur,2007.0,general
+Manipur,2008.0,general
+Manipur,2008.0,general
+Manipur,2008.0,general
+Manipur,2008.0,general
+Manipur,2008.0,general
+Manipur,2008.0,general
+Manipur,2008.0,general
+Manipur,2008.0,general
+Manipur,2008.0,general
+Manipur,2008.0,general
+Manipur,2008.0,general
+Manipur,2008.0,general
+Manipur,2008.0,general
+Manipur,2008.0,general
+Manipur,2009.0,general
+Manipur,2009.0,general
+Manipur,2009.0,general
+Manipur,2009.0,general
+Manipur,2009.0,general
+Manipur,2009.0,general
+Manipur,2009.0,general
+Manipur,2009.0,general
+Manipur,2009.0,general
+Manipur,2009.0,general
+Manipur,2009.0,general
+Manipur,2009.0,general
+Manipur,2009.0,general
+Manipur,2009.0,general
+Manipur,2010.0,general
+Manipur,2010.0,general
+Manipur,2010.0,general
+Manipur,2010.0,general
+Manipur,2010.0,general
+Manipur,2010.0,general
+Manipur,2010.0,general
+Manipur,2010.0,general
+Manipur,2010.0,general
+Manipur,2010.0,general
+Manipur,2010.0,general
+Manipur,2010.0,general
+Manipur,2010.0,general
+Manipur,2010.0,general
+Manipur,2011.0,general
+Manipur,2011.0,general
+Manipur,2011.0,general
+Manipur,2011.0,general
+Manipur,2011.0,general
+Manipur,2011.0,general
+Manipur,2011.0,general
+Manipur,2011.0,general
+Manipur,2011.0,general
+Manipur,2011.0,general
+Manipur,2011.0,general
+Manipur,2011.0,general
+Manipur,2011.0,general
+Manipur,2011.0,general
+Manipur,2012.0,general
+Manipur,2012.0,general
+Manipur,2012.0,general
+Manipur,2012.0,general
+Manipur,2012.0,general
+Manipur,2012.0,general
+Manipur,2012.0,general
+Manipur,2012.0,general
+Manipur,2012.0,general
+Manipur,2012.0,general
+Manipur,2012.0,general
+Manipur,2012.0,general
+Manipur,2012.0,general
+Manipur,2012.0,general
+Meghalaya,2001.0,general
+Meghalaya,2001.0,general
+Meghalaya,2001.0,general
+Meghalaya,2001.0,general
+Meghalaya,2001.0,general
+Meghalaya,2001.0,general
+Meghalaya,2001.0,general
+Meghalaya,2001.0,general
+Meghalaya,2001.0,general
+Meghalaya,2001.0,general
+Meghalaya,2001.0,general
+Meghalaya,2001.0,general
+Meghalaya,2001.0,general
+Meghalaya,2001.0,general
+Meghalaya,2002.0,general
+Meghalaya,2002.0,general
+Meghalaya,2002.0,general
+Meghalaya,2002.0,general
+Meghalaya,2002.0,general
+Meghalaya,2002.0,general
+Meghalaya,2002.0,general
+Meghalaya,2002.0,general
+Meghalaya,2002.0,general
+Meghalaya,2002.0,general
+Meghalaya,2002.0,general
+Meghalaya,2002.0,general
+Meghalaya,2002.0,general
+Meghalaya,2002.0,general
+Meghalaya,2003.0,general
+Meghalaya,2003.0,general
+Meghalaya,2003.0,general
+Meghalaya,2003.0,general
+Meghalaya,2003.0,general
+Meghalaya,2003.0,general
+Meghalaya,2003.0,general
+Meghalaya,2003.0,general
+Meghalaya,2003.0,general
+Meghalaya,2003.0,general
+Meghalaya,2003.0,general
+Meghalaya,2003.0,general
+Meghalaya,2003.0,general
+Meghalaya,2003.0,general
+Meghalaya,2004.0,general
+Meghalaya,2004.0,general
+Meghalaya,2004.0,general
+Meghalaya,2004.0,general
+Meghalaya,2004.0,general
+Meghalaya,2004.0,general
+Meghalaya,2004.0,general
+Meghalaya,2004.0,general
+Meghalaya,2004.0,general
+Meghalaya,2004.0,general
+Meghalaya,2004.0,general
+Meghalaya,2004.0,general
+Meghalaya,2004.0,general
+Meghalaya,2004.0,general
+Meghalaya,2005.0,general
+Meghalaya,2005.0,general
+Meghalaya,2005.0,general
+Meghalaya,2005.0,general
+Meghalaya,2005.0,general
+Meghalaya,2005.0,general
+Meghalaya,2005.0,general
+Meghalaya,2005.0,general
+Meghalaya,2005.0,general
+Meghalaya,2005.0,general
+Meghalaya,2005.0,general
+Meghalaya,2005.0,general
+Meghalaya,2005.0,general
+Meghalaya,2005.0,general
+Meghalaya,2006.0,general
+Meghalaya,2006.0,general
+Meghalaya,2006.0,general
+Meghalaya,2006.0,general
+Meghalaya,2006.0,general
+Meghalaya,2006.0,general
+Meghalaya,2006.0,general
+Meghalaya,2006.0,general
+Meghalaya,2006.0,general
+Meghalaya,2006.0,general
+Meghalaya,2006.0,general
+Meghalaya,2006.0,general
+Meghalaya,2006.0,general
+Meghalaya,2006.0,general
+Meghalaya,2007.0,general
+Meghalaya,2007.0,general
+Meghalaya,2007.0,general
+Meghalaya,2007.0,general
+Meghalaya,2007.0,general
+Meghalaya,2007.0,general
+Meghalaya,2007.0,general
+Meghalaya,2007.0,general
+Meghalaya,2007.0,general
+Meghalaya,2007.0,general
+Meghalaya,2007.0,general
+Meghalaya,2007.0,general
+Meghalaya,2007.0,general
+Meghalaya,2007.0,general
+Meghalaya,2008.0,general
+Meghalaya,2008.0,general
+Meghalaya,2008.0,general
+Meghalaya,2008.0,general
+Meghalaya,2008.0,general
+Meghalaya,2008.0,general
+Meghalaya,2008.0,general
+Meghalaya,2008.0,general
+Meghalaya,2008.0,general
+Meghalaya,2008.0,general
+Meghalaya,2008.0,general
+Meghalaya,2008.0,general
+Meghalaya,2008.0,general
+Meghalaya,2008.0,general
+Meghalaya,2009.0,general
+Meghalaya,2009.0,general
+Meghalaya,2009.0,general
+Meghalaya,2009.0,general
+Meghalaya,2009.0,general
+Meghalaya,2009.0,general
+Meghalaya,2009.0,general
+Meghalaya,2009.0,general
+Meghalaya,2009.0,general
+Meghalaya,2009.0,general
+Meghalaya,2009.0,general
+Meghalaya,2009.0,general
+Meghalaya,2009.0,general
+Meghalaya,2009.0,general
+Meghalaya,2010.0,general
+Meghalaya,2010.0,general
+Meghalaya,2010.0,general
+Meghalaya,2010.0,general
+Meghalaya,2010.0,general
+Meghalaya,2010.0,general
+Meghalaya,2010.0,general
+Meghalaya,2010.0,general
+Meghalaya,2010.0,general
+Meghalaya,2010.0,general
+Meghalaya,2010.0,general
+Meghalaya,2010.0,general
+Meghalaya,2010.0,general
+Meghalaya,2010.0,general
+Meghalaya,2011.0,general
+Meghalaya,2011.0,general
+Meghalaya,2011.0,general
+Meghalaya,2011.0,general
+Meghalaya,2011.0,general
+Meghalaya,2011.0,general
+Meghalaya,2011.0,general
+Meghalaya,2011.0,general
+Meghalaya,2011.0,general
+Meghalaya,2011.0,general
+Meghalaya,2011.0,general
+Meghalaya,2011.0,general
+Meghalaya,2011.0,general
+Meghalaya,2011.0,general
+Meghalaya,2012.0,general
+Meghalaya,2012.0,general
+Meghalaya,2012.0,general
+Meghalaya,2012.0,general
+Meghalaya,2012.0,general
+Meghalaya,2012.0,general
+Meghalaya,2012.0,general
+Meghalaya,2012.0,general
+Meghalaya,2012.0,general
+Meghalaya,2012.0,general
+Meghalaya,2012.0,general
+Meghalaya,2012.0,general
+Meghalaya,2012.0,general
+Meghalaya,2012.0,general
+Mizoram,2001.0,general
+Mizoram,2001.0,general
+Mizoram,2001.0,general
+Mizoram,2001.0,general
+Mizoram,2001.0,general
+Mizoram,2001.0,general
+Mizoram,2001.0,general
+Mizoram,2001.0,general
+Mizoram,2001.0,general
+Mizoram,2001.0,general
+Mizoram,2001.0,general
+Mizoram,2001.0,general
+Mizoram,2001.0,general
+Mizoram,2001.0,general
+Mizoram,2002.0,general
+Mizoram,2002.0,general
+Mizoram,2002.0,general
+Mizoram,2002.0,general
+Mizoram,2002.0,general
+Mizoram,2002.0,general
+Mizoram,2002.0,general
+Mizoram,2002.0,general
+Mizoram,2002.0,general
+Mizoram,2002.0,general
+Mizoram,2002.0,general
+Mizoram,2002.0,general
+Mizoram,2002.0,general
+Mizoram,2002.0,general
+Mizoram,2003.0,general
+Mizoram,2003.0,general
+Mizoram,2003.0,general
+Mizoram,2003.0,general
+Mizoram,2003.0,general
+Mizoram,2003.0,general
+Mizoram,2003.0,general
+Mizoram,2003.0,general
+Mizoram,2003.0,general
+Mizoram,2003.0,general
+Mizoram,2003.0,general
+Mizoram,2003.0,general
+Mizoram,2003.0,general
+Mizoram,2003.0,general
+Mizoram,2004.0,general
+Mizoram,2004.0,general
+Mizoram,2004.0,general
+Mizoram,2004.0,general
+Mizoram,2004.0,general
+Mizoram,2004.0,general
+Mizoram,2004.0,general
+Mizoram,2004.0,general
+Mizoram,2004.0,general
+Mizoram,2004.0,general
+Mizoram,2004.0,general
+Mizoram,2004.0,general
+Mizoram,2004.0,general
+Mizoram,2004.0,general
+Mizoram,2005.0,general
+Mizoram,2005.0,general
+Mizoram,2005.0,general
+Mizoram,2005.0,general
+Mizoram,2005.0,general
+Mizoram,2005.0,general
+Mizoram,2005.0,general
+Mizoram,2005.0,general
+Mizoram,2005.0,general
+Mizoram,2005.0,general
+Mizoram,2005.0,general
+Mizoram,2005.0,general
+Mizoram,2005.0,general
+Mizoram,2005.0,general
+Mizoram,2006.0,general
+Mizoram,2006.0,general
+Mizoram,2006.0,general
+Mizoram,2006.0,general
+Mizoram,2006.0,general
+Mizoram,2006.0,general
+Mizoram,2006.0,general
+Mizoram,2006.0,general
+Mizoram,2006.0,general
+Mizoram,2006.0,general
+Mizoram,2006.0,general
+Mizoram,2006.0,general
+Mizoram,2006.0,general
+Mizoram,2006.0,general
+Mizoram,2007.0,general
+Mizoram,2007.0,general
+Mizoram,2007.0,general
+Mizoram,2007.0,general
+Mizoram,2007.0,general
+Mizoram,2007.0,general
+Mizoram,2007.0,general
+Mizoram,2007.0,general
+Mizoram,2007.0,general
+Mizoram,2007.0,general
+Mizoram,2007.0,general
+Mizoram,2007.0,general
+Mizoram,2007.0,general
+Mizoram,2007.0,general
+Mizoram,2008.0,general
+Mizoram,2008.0,general
+Mizoram,2008.0,general
+Mizoram,2008.0,general
+Mizoram,2008.0,general
+Mizoram,2008.0,general
+Mizoram,2008.0,general
+Mizoram,2008.0,general
+Mizoram,2008.0,general
+Mizoram,2008.0,general
+Mizoram,2008.0,general
+Mizoram,2008.0,general
+Mizoram,2008.0,general
+Mizoram,2008.0,general
+Mizoram,2009.0,general
+Mizoram,2009.0,general
+Mizoram,2009.0,general
+Mizoram,2009.0,general
+Mizoram,2009.0,general
+Mizoram,2009.0,general
+Mizoram,2009.0,general
+Mizoram,2009.0,general
+Mizoram,2009.0,general
+Mizoram,2009.0,general
+Mizoram,2009.0,general
+Mizoram,2009.0,general
+Mizoram,2009.0,general
+Mizoram,2009.0,general
+Mizoram,2010.0,general
+Mizoram,2010.0,general
+Mizoram,2010.0,general
+Mizoram,2010.0,general
+Mizoram,2010.0,general
+Mizoram,2010.0,general
+Mizoram,2010.0,general
+Mizoram,2010.0,general
+Mizoram,2010.0,general
+Mizoram,2010.0,general
+Mizoram,2010.0,general
+Mizoram,2010.0,general
+Mizoram,2010.0,general
+Mizoram,2010.0,general
+Mizoram,2011.0,general
+Mizoram,2011.0,general
+Mizoram,2011.0,general
+Mizoram,2011.0,general
+Mizoram,2011.0,general
+Mizoram,2011.0,general
+Mizoram,2011.0,general
+Mizoram,2011.0,general
+Mizoram,2011.0,general
+Mizoram,2011.0,general
+Mizoram,2011.0,general
+Mizoram,2011.0,general
+Mizoram,2011.0,general
+Mizoram,2011.0,general
+Mizoram,2012.0,general
+Mizoram,2012.0,general
+Mizoram,2012.0,general
+Mizoram,2012.0,general
+Mizoram,2012.0,general
+Mizoram,2012.0,general
+Mizoram,2012.0,general
+Mizoram,2012.0,general
+Mizoram,2012.0,general
+Mizoram,2012.0,general
+Mizoram,2012.0,general
+Mizoram,2012.0,general
+Mizoram,2012.0,general
+Mizoram,2012.0,general
+Nagaland,2001.0,general
+Nagaland,2001.0,general
+Nagaland,2001.0,general
+Nagaland,2001.0,general
+Nagaland,2001.0,general
+Nagaland,2001.0,general
+Nagaland,2001.0,general
+Nagaland,2001.0,general
+Nagaland,2001.0,general
+Nagaland,2001.0,general
+Nagaland,2001.0,general
+Nagaland,2001.0,general
+Nagaland,2001.0,general
+Nagaland,2001.0,general
+Nagaland,2002.0,general
+Nagaland,2002.0,general
+Nagaland,2002.0,general
+Nagaland,2002.0,general
+Nagaland,2002.0,general
+Nagaland,2002.0,general
+Nagaland,2002.0,general
+Nagaland,2002.0,general
+Nagaland,2002.0,general
+Nagaland,2002.0,general
+Nagaland,2002.0,general
+Nagaland,2002.0,general
+Nagaland,2002.0,general
+Nagaland,2002.0,general
+Nagaland,2003.0,general
+Nagaland,2003.0,general
+Nagaland,2003.0,general
+Nagaland,2003.0,general
+Nagaland,2003.0,general
+Nagaland,2003.0,general
+Nagaland,2003.0,general
+Nagaland,2003.0,general
+Nagaland,2003.0,general
+Nagaland,2003.0,general
+Nagaland,2003.0,general
+Nagaland,2003.0,general
+Nagaland,2003.0,general
+Nagaland,2003.0,general
+Nagaland,2004.0,general
+Nagaland,2004.0,general
+Nagaland,2004.0,general
+Nagaland,2004.0,general
+Nagaland,2004.0,general
+Nagaland,2004.0,general
+Nagaland,2004.0,general
+Nagaland,2004.0,general
+Nagaland,2004.0,general
+Nagaland,2004.0,general
+Nagaland,2004.0,general
+Nagaland,2004.0,general
+Nagaland,2004.0,general
+Nagaland,2004.0,general
+Nagaland,2005.0,general
+Nagaland,2005.0,general
+Nagaland,2005.0,general
+Nagaland,2005.0,general
+Nagaland,2005.0,general
+Nagaland,2005.0,general
+Nagaland,2005.0,general
+Nagaland,2005.0,general
+Nagaland,2005.0,general
+Nagaland,2005.0,general
+Nagaland,2005.0,general
+Nagaland,2005.0,general
+Nagaland,2005.0,general
+Nagaland,2005.0,general
+Nagaland,2006.0,general
+Nagaland,2006.0,general
+Nagaland,2006.0,general
+Nagaland,2006.0,general
+Nagaland,2006.0,general
+Nagaland,2006.0,general
+Nagaland,2006.0,general
+Nagaland,2006.0,general
+Nagaland,2006.0,general
+Nagaland,2006.0,general
+Nagaland,2006.0,general
+Nagaland,2006.0,general
+Nagaland,2006.0,general
+Nagaland,2006.0,general
+Nagaland,2007.0,general
+Nagaland,2007.0,general
+Nagaland,2007.0,general
+Nagaland,2007.0,general
+Nagaland,2007.0,general
+Nagaland,2007.0,general
+Nagaland,2007.0,general
+Nagaland,2007.0,general
+Nagaland,2007.0,general
+Nagaland,2007.0,general
+Nagaland,2007.0,general
+Nagaland,2007.0,general
+Nagaland,2007.0,general
+Nagaland,2007.0,general
+Nagaland,2008.0,general
+Nagaland,2008.0,general
+Nagaland,2008.0,general
+Nagaland,2008.0,general
+Nagaland,2008.0,general
+Nagaland,2008.0,general
+Nagaland,2008.0,general
+Nagaland,2008.0,general
+Nagaland,2008.0,general
+Nagaland,2008.0,general
+Nagaland,2008.0,general
+Nagaland,2008.0,general
+Nagaland,2008.0,general
+Nagaland,2008.0,general
+Nagaland,2009.0,general
+Nagaland,2009.0,general
+Nagaland,2009.0,general
+Nagaland,2009.0,general
+Nagaland,2009.0,general
+Nagaland,2009.0,general
+Nagaland,2009.0,general
+Nagaland,2009.0,general
+Nagaland,2009.0,general
+Nagaland,2009.0,general
+Nagaland,2009.0,general
+Nagaland,2009.0,general
+Nagaland,2009.0,general
+Nagaland,2009.0,general
+Nagaland,2010.0,general
+Nagaland,2010.0,general
+Nagaland,2010.0,general
+Nagaland,2010.0,general
+Nagaland,2010.0,general
+Nagaland,2010.0,general
+Nagaland,2010.0,general
+Nagaland,2010.0,general
+Nagaland,2010.0,general
+Nagaland,2010.0,general
+Nagaland,2010.0,general
+Nagaland,2010.0,general
+Nagaland,2010.0,general
+Nagaland,2010.0,general
+Nagaland,2011.0,general
+Nagaland,2011.0,general
+Nagaland,2011.0,general
+Nagaland,2011.0,general
+Nagaland,2011.0,general
+Nagaland,2011.0,general
+Nagaland,2011.0,general
+Nagaland,2011.0,general
+Nagaland,2011.0,general
+Nagaland,2011.0,general
+Nagaland,2011.0,general
+Nagaland,2011.0,general
+Nagaland,2011.0,general
+Nagaland,2011.0,general
+Nagaland,2012.0,general
+Nagaland,2012.0,general
+Nagaland,2012.0,general
+Nagaland,2012.0,general
+Nagaland,2012.0,general
+Nagaland,2012.0,general
+Nagaland,2012.0,general
+Nagaland,2012.0,general
+Nagaland,2012.0,general
+Nagaland,2012.0,general
+Nagaland,2012.0,general
+Nagaland,2012.0,general
+Nagaland,2012.0,general
+Nagaland,2012.0,general
+Odisha,2001.0,general
+Odisha,2001.0,general
+Odisha,2001.0,general
+Odisha,2001.0,general
+Odisha,2001.0,general
+Odisha,2001.0,general
+Odisha,2001.0,general
+Odisha,2001.0,general
+Odisha,2001.0,general
+Odisha,2001.0,general
+Odisha,2001.0,general
+Odisha,2001.0,general
+Odisha,2001.0,general
+Odisha,2001.0,general
+Odisha,2002.0,general
+Odisha,2002.0,general
+Odisha,2002.0,general
+Odisha,2002.0,general
+Odisha,2002.0,general
+Odisha,2002.0,general
+Odisha,2002.0,general
+Odisha,2002.0,general
+Odisha,2002.0,general
+Odisha,2002.0,general
+Odisha,2002.0,general
+Odisha,2002.0,general
+Odisha,2002.0,general
+Odisha,2002.0,general
+Odisha,2003.0,general
+Odisha,2003.0,general
+Odisha,2003.0,general
+Odisha,2003.0,general
+Odisha,2003.0,general
+Odisha,2003.0,general
+Odisha,2003.0,general
+Odisha,2003.0,general
+Odisha,2003.0,general
+Odisha,2003.0,general
+Odisha,2003.0,general
+Odisha,2003.0,general
+Odisha,2003.0,general
+Odisha,2003.0,general
+Odisha,2004.0,general
+Odisha,2004.0,general
+Odisha,2004.0,general
+Odisha,2004.0,general
+Odisha,2004.0,general
+Odisha,2004.0,general
+Odisha,2004.0,general
+Odisha,2004.0,general
+Odisha,2004.0,general
+Odisha,2004.0,general
+Odisha,2004.0,general
+Odisha,2004.0,general
+Odisha,2004.0,general
+Odisha,2004.0,general
+Odisha,2005.0,general
+Odisha,2005.0,general
+Odisha,2005.0,general
+Odisha,2005.0,general
+Odisha,2005.0,general
+Odisha,2005.0,general
+Odisha,2005.0,general
+Odisha,2005.0,general
+Odisha,2005.0,general
+Odisha,2005.0,general
+Odisha,2005.0,general
+Odisha,2005.0,general
+Odisha,2005.0,general
+Odisha,2005.0,general
+Odisha,2006.0,general
+Odisha,2006.0,general
+Odisha,2006.0,general
+Odisha,2006.0,general
+Odisha,2006.0,general
+Odisha,2006.0,general
+Odisha,2006.0,general
+Odisha,2006.0,general
+Odisha,2006.0,general
+Odisha,2006.0,general
+Odisha,2006.0,general
+Odisha,2006.0,general
+Odisha,2006.0,general
+Odisha,2006.0,general
+Odisha,2007.0,general
+Odisha,2007.0,general
+Odisha,2007.0,general
+Odisha,2007.0,general
+Odisha,2007.0,general
+Odisha,2007.0,general
+Odisha,2007.0,general
+Odisha,2007.0,general
+Odisha,2007.0,general
+Odisha,2007.0,general
+Odisha,2007.0,general
+Odisha,2007.0,general
+Odisha,2007.0,general
+Odisha,2007.0,general
+Odisha,2008.0,general
+Odisha,2008.0,general
+Odisha,2008.0,general
+Odisha,2008.0,general
+Odisha,2008.0,general
+Odisha,2008.0,general
+Odisha,2008.0,general
+Odisha,2008.0,general
+Odisha,2008.0,general
+Odisha,2008.0,general
+Odisha,2008.0,general
+Odisha,2008.0,general
+Odisha,2008.0,general
+Odisha,2008.0,general
+Odisha,2009.0,general
+Odisha,2009.0,general
+Odisha,2009.0,general
+Odisha,2009.0,general
+Odisha,2009.0,general
+Odisha,2009.0,general
+Odisha,2009.0,general
+Odisha,2009.0,general
+Odisha,2009.0,general
+Odisha,2009.0,general
+Odisha,2009.0,general
+Odisha,2009.0,general
+Odisha,2009.0,general
+Odisha,2009.0,general
+Odisha,2010.0,general
+Odisha,2010.0,general
+Odisha,2010.0,general
+Odisha,2010.0,general
+Odisha,2010.0,general
+Odisha,2010.0,general
+Odisha,2010.0,general
+Odisha,2010.0,general
+Odisha,2010.0,general
+Odisha,2010.0,general
+Odisha,2010.0,general
+Odisha,2010.0,general
+Odisha,2010.0,general
+Odisha,2010.0,general
+Odisha,2011.0,general
+Odisha,2011.0,general
+Odisha,2011.0,general
+Odisha,2011.0,general
+Odisha,2011.0,general
+Odisha,2011.0,general
+Odisha,2011.0,general
+Odisha,2011.0,general
+Odisha,2011.0,general
+Odisha,2011.0,general
+Odisha,2011.0,general
+Odisha,2011.0,general
+Odisha,2011.0,general
+Odisha,2011.0,general
+Odisha,2012.0,general
+Odisha,2012.0,general
+Odisha,2012.0,general
+Odisha,2012.0,general
+Odisha,2012.0,general
+Odisha,2012.0,general
+Odisha,2012.0,general
+Odisha,2012.0,general
+Odisha,2012.0,general
+Odisha,2012.0,general
+Odisha,2012.0,general
+Odisha,2012.0,general
+Odisha,2012.0,general
+Odisha,2012.0,general
+Punjab,2001.0,general
+Punjab,2001.0,general
+Punjab,2001.0,general
+Punjab,2001.0,general
+Punjab,2001.0,general
+Punjab,2001.0,general
+Punjab,2001.0,general
+Punjab,2001.0,general
+Punjab,2001.0,general
+Punjab,2001.0,general
+Punjab,2001.0,general
+Punjab,2001.0,general
+Punjab,2001.0,general
+Punjab,2001.0,general
+Punjab,2002.0,general
+Punjab,2002.0,general
+Punjab,2002.0,general
+Punjab,2002.0,general
+Punjab,2002.0,general
+Punjab,2002.0,general
+Punjab,2002.0,general
+Punjab,2002.0,general
+Punjab,2002.0,general
+Punjab,2002.0,general
+Punjab,2002.0,general
+Punjab,2002.0,general
+Punjab,2002.0,general
+Punjab,2002.0,general
+Punjab,2003.0,general
+Punjab,2003.0,general
+Punjab,2003.0,general
+Punjab,2003.0,general
+Punjab,2003.0,general
+Punjab,2003.0,general
+Punjab,2003.0,general
+Punjab,2003.0,general
+Punjab,2003.0,general
+Punjab,2003.0,general
+Punjab,2003.0,general
+Punjab,2003.0,general
+Punjab,2003.0,general
+Punjab,2003.0,general
+Punjab,2004.0,general
+Punjab,2004.0,general
+Punjab,2004.0,general
+Punjab,2004.0,general
+Punjab,2004.0,general
+Punjab,2004.0,general
+Punjab,2004.0,general
+Punjab,2004.0,general
+Punjab,2004.0,general
+Punjab,2004.0,general
+Punjab,2004.0,general
+Punjab,2004.0,general
+Punjab,2004.0,general
+Punjab,2004.0,general
+Punjab,2005.0,general
+Punjab,2005.0,general
+Punjab,2005.0,general
+Punjab,2005.0,general
+Punjab,2005.0,general
+Punjab,2005.0,general
+Punjab,2005.0,general
+Punjab,2005.0,general
+Punjab,2005.0,general
+Punjab,2005.0,general
+Punjab,2005.0,general
+Punjab,2005.0,general
+Punjab,2005.0,general
+Punjab,2005.0,general
+Punjab,2006.0,general
+Punjab,2006.0,general
+Punjab,2006.0,general
+Punjab,2006.0,general
+Punjab,2006.0,general
+Punjab,2006.0,general
+Punjab,2006.0,general
+Punjab,2006.0,general
+Punjab,2006.0,general
+Punjab,2006.0,general
+Punjab,2006.0,general
+Punjab,2006.0,general
+Punjab,2006.0,general
+Punjab,2006.0,general
+Punjab,2007.0,general
+Punjab,2007.0,general
+Punjab,2007.0,general
+Punjab,2007.0,general
+Punjab,2007.0,general
+Punjab,2007.0,general
+Punjab,2007.0,general
+Punjab,2007.0,general
+Punjab,2007.0,general
+Punjab,2007.0,general
+Punjab,2007.0,general
+Punjab,2007.0,general
+Punjab,2007.0,general
+Punjab,2007.0,general
+Punjab,2008.0,general
+Punjab,2008.0,general
+Punjab,2008.0,general
+Punjab,2008.0,general
+Punjab,2008.0,general
+Punjab,2008.0,general
+Punjab,2008.0,general
+Punjab,2008.0,general
+Punjab,2008.0,general
+Punjab,2008.0,general
+Punjab,2008.0,general
+Punjab,2008.0,general
+Punjab,2008.0,general
+Punjab,2008.0,general
+Punjab,2009.0,general
+Punjab,2009.0,general
+Punjab,2009.0,general
+Punjab,2009.0,general
+Punjab,2009.0,general
+Punjab,2009.0,general
+Punjab,2009.0,general
+Punjab,2009.0,general
+Punjab,2009.0,general
+Punjab,2009.0,general
+Punjab,2009.0,general
+Punjab,2009.0,general
+Punjab,2009.0,general
+Punjab,2009.0,general
+Punjab,2010.0,general
+Punjab,2010.0,general
+Punjab,2010.0,general
+Punjab,2010.0,general
+Punjab,2010.0,general
+Punjab,2010.0,general
+Punjab,2010.0,general
+Punjab,2010.0,general
+Punjab,2010.0,general
+Punjab,2010.0,general
+Punjab,2010.0,general
+Punjab,2010.0,general
+Punjab,2010.0,general
+Punjab,2010.0,general
+Punjab,2011.0,general
+Punjab,2011.0,general
+Punjab,2011.0,general
+Punjab,2011.0,general
+Punjab,2011.0,general
+Punjab,2011.0,general
+Punjab,2011.0,general
+Punjab,2011.0,general
+Punjab,2011.0,general
+Punjab,2011.0,general
+Punjab,2011.0,general
+Punjab,2011.0,general
+Punjab,2011.0,general
+Punjab,2011.0,general
+Punjab,2012.0,general
+Punjab,2012.0,general
+Punjab,2012.0,general
+Punjab,2012.0,general
+Punjab,2012.0,general
+Punjab,2012.0,general
+Punjab,2012.0,general
+Punjab,2012.0,general
+Punjab,2012.0,general
+Punjab,2012.0,general
+Punjab,2012.0,general
+Punjab,2012.0,general
+Punjab,2012.0,general
+Punjab,2012.0,general
+Rajasthan,2001.0,general
+Rajasthan,2001.0,general
+Rajasthan,2001.0,general
+Rajasthan,2001.0,general
+Rajasthan,2001.0,general
+Rajasthan,2001.0,general
+Rajasthan,2001.0,general
+Rajasthan,2001.0,general
+Rajasthan,2001.0,general
+Rajasthan,2001.0,general
+Rajasthan,2001.0,general
+Rajasthan,2001.0,general
+Rajasthan,2001.0,general
+Rajasthan,2001.0,general
+Rajasthan,2002.0,general
+Rajasthan,2002.0,general
+Rajasthan,2002.0,general
+Rajasthan,2002.0,general
+Rajasthan,2002.0,general
+Rajasthan,2002.0,general
+Rajasthan,2002.0,general
+Rajasthan,2002.0,general
+Rajasthan,2002.0,general
+Rajasthan,2002.0,general
+Rajasthan,2002.0,general
+Rajasthan,2002.0,general
+Rajasthan,2002.0,general
+Rajasthan,2002.0,general
+Rajasthan,2003.0,general
+Rajasthan,2003.0,general
+Rajasthan,2003.0,general
+Rajasthan,2003.0,general
+Rajasthan,2003.0,general
+Rajasthan,2003.0,general
+Rajasthan,2003.0,general
+Rajasthan,2003.0,general
+Rajasthan,2003.0,general
+Rajasthan,2003.0,general
+Rajasthan,2003.0,general
+Rajasthan,2003.0,general
+Rajasthan,2003.0,general
+Rajasthan,2003.0,general
+Rajasthan,2004.0,general
+Rajasthan,2004.0,general
+Rajasthan,2004.0,general
+Rajasthan,2004.0,general
+Rajasthan,2004.0,general
+Rajasthan,2004.0,general
+Rajasthan,2004.0,general
+Rajasthan,2004.0,general
+Rajasthan,2004.0,general
+Rajasthan,2004.0,general
+Rajasthan,2004.0,general
+Rajasthan,2004.0,general
+Rajasthan,2004.0,general
+Rajasthan,2004.0,general
+Rajasthan,2005.0,general
+Rajasthan,2005.0,general
+Rajasthan,2005.0,general
+Rajasthan,2005.0,general
+Rajasthan,2005.0,general
+Rajasthan,2005.0,general
+Rajasthan,2005.0,general
+Rajasthan,2005.0,general
+Rajasthan,2005.0,general
+Rajasthan,2005.0,general
+Rajasthan,2005.0,general
+Rajasthan,2005.0,general
+Rajasthan,2005.0,general
+Rajasthan,2005.0,general
+Rajasthan,2006.0,general
+Rajasthan,2006.0,general
+Rajasthan,2006.0,general
+Rajasthan,2006.0,general
+Rajasthan,2006.0,general
+Rajasthan,2006.0,general
+Rajasthan,2006.0,general
+Rajasthan,2006.0,general
+Rajasthan,2006.0,general
+Rajasthan,2006.0,general
+Rajasthan,2006.0,general
+Rajasthan,2006.0,general
+Rajasthan,2006.0,general
+Rajasthan,2006.0,general
+Rajasthan,2007.0,general
+Rajasthan,2007.0,general
+Rajasthan,2007.0,general
+Rajasthan,2007.0,general
+Rajasthan,2007.0,general
+Rajasthan,2007.0,general
+Rajasthan,2007.0,general
+Rajasthan,2007.0,general
+Rajasthan,2007.0,general
+Rajasthan,2007.0,general
+Rajasthan,2007.0,general
+Rajasthan,2007.0,general
+Rajasthan,2007.0,general
+Rajasthan,2007.0,general
+Rajasthan,2008.0,general
+Rajasthan,2008.0,general
+Rajasthan,2008.0,general
+Rajasthan,2008.0,general
+Rajasthan,2008.0,general
+Rajasthan,2008.0,general
+Rajasthan,2008.0,general
+Rajasthan,2008.0,general
+Rajasthan,2008.0,general
+Rajasthan,2008.0,general
+Rajasthan,2008.0,general
+Rajasthan,2008.0,general
+Rajasthan,2008.0,general
+Rajasthan,2008.0,general
+Rajasthan,2009.0,general
+Rajasthan,2009.0,general
+Rajasthan,2009.0,general
+Rajasthan,2009.0,general
+Rajasthan,2009.0,general
+Rajasthan,2009.0,general
+Rajasthan,2009.0,general
+Rajasthan,2009.0,general
+Rajasthan,2009.0,general
+Rajasthan,2009.0,general
+Rajasthan,2009.0,general
+Rajasthan,2009.0,general
+Rajasthan,2009.0,general
+Rajasthan,2009.0,general
+Rajasthan,2010.0,general
+Rajasthan,2010.0,general
+Rajasthan,2010.0,general
+Rajasthan,2010.0,general
+Rajasthan,2010.0,general
+Rajasthan,2010.0,general
+Rajasthan,2010.0,general
+Rajasthan,2010.0,general
+Rajasthan,2010.0,general
+Rajasthan,2010.0,general
+Rajasthan,2010.0,general
+Rajasthan,2010.0,general
+Rajasthan,2010.0,general
+Rajasthan,2010.0,general
+Rajasthan,2011.0,general
+Rajasthan,2011.0,general
+Rajasthan,2011.0,general
+Rajasthan,2011.0,general
+Rajasthan,2011.0,general
+Rajasthan,2011.0,general
+Rajasthan,2011.0,general
+Rajasthan,2011.0,general
+Rajasthan,2011.0,general
+Rajasthan,2011.0,general
+Rajasthan,2011.0,general
+Rajasthan,2011.0,general
+Rajasthan,2011.0,general
+Rajasthan,2011.0,general
+Rajasthan,2012.0,general
+Rajasthan,2012.0,general
+Rajasthan,2012.0,general
+Rajasthan,2012.0,general
+Rajasthan,2012.0,general
+Rajasthan,2012.0,general
+Rajasthan,2012.0,general
+Rajasthan,2012.0,general
+Rajasthan,2012.0,general
+Rajasthan,2012.0,general
+Rajasthan,2012.0,general
+Rajasthan,2012.0,general
+Rajasthan,2012.0,general
+Rajasthan,2012.0,general
+Sikkim,2001.0,general
+Sikkim,2001.0,general
+Sikkim,2001.0,general
+Sikkim,2001.0,general
+Sikkim,2001.0,general
+Sikkim,2001.0,general
+Sikkim,2001.0,general
+Sikkim,2001.0,general
+Sikkim,2001.0,general
+Sikkim,2001.0,general
+Sikkim,2001.0,general
+Sikkim,2001.0,general
+Sikkim,2001.0,general
+Sikkim,2001.0,general
+Sikkim,2002.0,general
+Sikkim,2002.0,general
+Sikkim,2002.0,general
+Sikkim,2002.0,general
+Sikkim,2002.0,general
+Sikkim,2002.0,general
+Sikkim,2002.0,general
+Sikkim,2002.0,general
+Sikkim,2002.0,general
+Sikkim,2002.0,general
+Sikkim,2002.0,general
+Sikkim,2002.0,general
+Sikkim,2002.0,general
+Sikkim,2002.0,general
+Sikkim,2003.0,general
+Sikkim,2003.0,general
+Sikkim,2003.0,general
+Sikkim,2003.0,general
+Sikkim,2003.0,general
+Sikkim,2003.0,general
+Sikkim,2003.0,general
+Sikkim,2003.0,general
+Sikkim,2003.0,general
+Sikkim,2003.0,general
+Sikkim,2003.0,general
+Sikkim,2003.0,general
+Sikkim,2003.0,general
+Sikkim,2003.0,general
+Sikkim,2004.0,general
+Sikkim,2004.0,general
+Sikkim,2004.0,general
+Sikkim,2004.0,general
+Sikkim,2004.0,general
+Sikkim,2004.0,general
+Sikkim,2004.0,general
+Sikkim,2004.0,general
+Sikkim,2004.0,general
+Sikkim,2004.0,general
+Sikkim,2004.0,general
+Sikkim,2004.0,general
+Sikkim,2004.0,general
+Sikkim,2004.0,general
+Sikkim,2005.0,general
+Sikkim,2005.0,general
+Sikkim,2005.0,general
+Sikkim,2005.0,general
+Sikkim,2005.0,general
+Sikkim,2005.0,general
+Sikkim,2005.0,general
+Sikkim,2005.0,general
+Sikkim,2005.0,general
+Sikkim,2005.0,general
+Sikkim,2005.0,general
+Sikkim,2005.0,general
+Sikkim,2005.0,general
+Sikkim,2005.0,general
+Sikkim,2006.0,general
+Sikkim,2006.0,general
+Sikkim,2006.0,general
+Sikkim,2006.0,general
+Sikkim,2006.0,general
+Sikkim,2006.0,general
+Sikkim,2006.0,general
+Sikkim,2006.0,general
+Sikkim,2006.0,general
+Sikkim,2006.0,general
+Sikkim,2006.0,general
+Sikkim,2006.0,general
+Sikkim,2006.0,general
+Sikkim,2006.0,general
+Sikkim,2007.0,general
+Sikkim,2007.0,general
+Sikkim,2007.0,general
+Sikkim,2007.0,general
+Sikkim,2007.0,general
+Sikkim,2007.0,general
+Sikkim,2007.0,general
+Sikkim,2007.0,general
+Sikkim,2007.0,general
+Sikkim,2007.0,general
+Sikkim,2007.0,general
+Sikkim,2007.0,general
+Sikkim,2007.0,general
+Sikkim,2007.0,general
+Sikkim,2008.0,general
+Sikkim,2008.0,general
+Sikkim,2008.0,general
+Sikkim,2008.0,general
+Sikkim,2008.0,general
+Sikkim,2008.0,general
+Sikkim,2008.0,general
+Sikkim,2008.0,general
+Sikkim,2008.0,general
+Sikkim,2008.0,general
+Sikkim,2008.0,general
+Sikkim,2008.0,general
+Sikkim,2008.0,general
+Sikkim,2008.0,general
+Sikkim,2009.0,general
+Sikkim,2009.0,general
+Sikkim,2009.0,general
+Sikkim,2009.0,general
+Sikkim,2009.0,general
+Sikkim,2009.0,general
+Sikkim,2009.0,general
+Sikkim,2009.0,general
+Sikkim,2009.0,general
+Sikkim,2009.0,general
+Sikkim,2009.0,general
+Sikkim,2009.0,general
+Sikkim,2009.0,general
+Sikkim,2009.0,general
+Sikkim,2010.0,general
+Sikkim,2010.0,general
+Sikkim,2010.0,general
+Sikkim,2010.0,general
+Sikkim,2010.0,general
+Sikkim,2010.0,general
+Sikkim,2010.0,general
+Sikkim,2010.0,general
+Sikkim,2010.0,general
+Sikkim,2010.0,general
+Sikkim,2010.0,general
+Sikkim,2010.0,general
+Sikkim,2010.0,general
+Sikkim,2010.0,general
+Sikkim,2011.0,general
+Sikkim,2011.0,general
+Sikkim,2011.0,general
+Sikkim,2011.0,general
+Sikkim,2011.0,general
+Sikkim,2011.0,general
+Sikkim,2011.0,general
+Sikkim,2011.0,general
+Sikkim,2011.0,general
+Sikkim,2011.0,general
+Sikkim,2011.0,general
+Sikkim,2011.0,general
+Sikkim,2011.0,general
+Sikkim,2011.0,general
+Sikkim,2012.0,general
+Sikkim,2012.0,general
+Sikkim,2012.0,general
+Sikkim,2012.0,general
+Sikkim,2012.0,general
+Sikkim,2012.0,general
+Sikkim,2012.0,general
+Sikkim,2012.0,general
+Sikkim,2012.0,general
+Sikkim,2012.0,general
+Sikkim,2012.0,general
+Sikkim,2012.0,general
+Sikkim,2012.0,general
+Sikkim,2012.0,general
+Tamil Nadu,2001.0,general
+Tamil Nadu,2001.0,general
+Tamil Nadu,2001.0,general
+Tamil Nadu,2001.0,general
+Tamil Nadu,2001.0,general
+Tamil Nadu,2001.0,general
+Tamil Nadu,2001.0,general
+Tamil Nadu,2001.0,general
+Tamil Nadu,2001.0,general
+Tamil Nadu,2001.0,general
+Tamil Nadu,2001.0,general
+Tamil Nadu,2001.0,general
+Tamil Nadu,2001.0,general
+Tamil Nadu,2001.0,general
+Tamil Nadu,2002.0,general
+Tamil Nadu,2002.0,general
+Tamil Nadu,2002.0,general
+Tamil Nadu,2002.0,general
+Tamil Nadu,2002.0,general
+Tamil Nadu,2002.0,general
+Tamil Nadu,2002.0,general
+Tamil Nadu,2002.0,general
+Tamil Nadu,2002.0,general
+Tamil Nadu,2002.0,general
+Tamil Nadu,2002.0,general
+Tamil Nadu,2002.0,general
+Tamil Nadu,2002.0,general
+Tamil Nadu,2002.0,general
+Tamil Nadu,2003.0,general
+Tamil Nadu,2003.0,general
+Tamil Nadu,2003.0,general
+Tamil Nadu,2003.0,general
+Tamil Nadu,2003.0,general
+Tamil Nadu,2003.0,general
+Tamil Nadu,2003.0,general
+Tamil Nadu,2003.0,general
+Tamil Nadu,2003.0,general
+Tamil Nadu,2003.0,general
+Tamil Nadu,2003.0,general
+Tamil Nadu,2003.0,general
+Tamil Nadu,2003.0,general
+Tamil Nadu,2003.0,general
+Tamil Nadu,2004.0,general
+Tamil Nadu,2004.0,general
+Tamil Nadu,2004.0,general
+Tamil Nadu,2004.0,general
+Tamil Nadu,2004.0,general
+Tamil Nadu,2004.0,general
+Tamil Nadu,2004.0,general
+Tamil Nadu,2004.0,general
+Tamil Nadu,2004.0,general
+Tamil Nadu,2004.0,general
+Tamil Nadu,2004.0,general
+Tamil Nadu,2004.0,general
+Tamil Nadu,2004.0,general
+Tamil Nadu,2004.0,general
+Tamil Nadu,2005.0,general
+Tamil Nadu,2005.0,general
+Tamil Nadu,2005.0,general
+Tamil Nadu,2005.0,general
+Tamil Nadu,2005.0,general
+Tamil Nadu,2005.0,general
+Tamil Nadu,2005.0,general
+Tamil Nadu,2005.0,general
+Tamil Nadu,2005.0,general
+Tamil Nadu,2005.0,general
+Tamil Nadu,2005.0,general
+Tamil Nadu,2005.0,general
+Tamil Nadu,2005.0,general
+Tamil Nadu,2005.0,general
+Tamil Nadu,2006.0,general
+Tamil Nadu,2006.0,general
+Tamil Nadu,2006.0,general
+Tamil Nadu,2006.0,general
+Tamil Nadu,2006.0,general
+Tamil Nadu,2006.0,general
+Tamil Nadu,2006.0,general
+Tamil Nadu,2006.0,general
+Tamil Nadu,2006.0,general
+Tamil Nadu,2006.0,general
+Tamil Nadu,2006.0,general
+Tamil Nadu,2006.0,general
+Tamil Nadu,2006.0,general
+Tamil Nadu,2006.0,general
+Tamil Nadu,2007.0,general
+Tamil Nadu,2007.0,general
+Tamil Nadu,2007.0,general
+Tamil Nadu,2007.0,general
+Tamil Nadu,2007.0,general
+Tamil Nadu,2007.0,general
+Tamil Nadu,2007.0,general
+Tamil Nadu,2007.0,general
+Tamil Nadu,2007.0,general
+Tamil Nadu,2007.0,general
+Tamil Nadu,2007.0,general
+Tamil Nadu,2007.0,general
+Tamil Nadu,2007.0,general
+Tamil Nadu,2007.0,general
+Tamil Nadu,2008.0,general
+Tamil Nadu,2008.0,general
+Tamil Nadu,2008.0,general
+Tamil Nadu,2008.0,general
+Tamil Nadu,2008.0,general
+Tamil Nadu,2008.0,general
+Tamil Nadu,2008.0,general
+Tamil Nadu,2008.0,general
+Tamil Nadu,2008.0,general
+Tamil Nadu,2008.0,general
+Tamil Nadu,2008.0,general
+Tamil Nadu,2008.0,general
+Tamil Nadu,2008.0,general
+Tamil Nadu,2008.0,general
+Tamil Nadu,2009.0,general
+Tamil Nadu,2009.0,general
+Tamil Nadu,2009.0,general
+Tamil Nadu,2009.0,general
+Tamil Nadu,2009.0,general
+Tamil Nadu,2009.0,general
+Tamil Nadu,2009.0,general
+Tamil Nadu,2009.0,general
+Tamil Nadu,2009.0,general
+Tamil Nadu,2009.0,general
+Tamil Nadu,2009.0,general
+Tamil Nadu,2009.0,general
+Tamil Nadu,2009.0,general
+Tamil Nadu,2009.0,general
+Tamil Nadu,2010.0,general
+Tamil Nadu,2010.0,general
+Tamil Nadu,2010.0,general
+Tamil Nadu,2010.0,general
+Tamil Nadu,2010.0,general
+Tamil Nadu,2010.0,general
+Tamil Nadu,2010.0,general
+Tamil Nadu,2010.0,general
+Tamil Nadu,2010.0,general
+Tamil Nadu,2010.0,general
+Tamil Nadu,2010.0,general
+Tamil Nadu,2010.0,general
+Tamil Nadu,2010.0,general
+Tamil Nadu,2010.0,general
+Tamil Nadu,2011.0,general
+Tamil Nadu,2011.0,general
+Tamil Nadu,2011.0,general
+Tamil Nadu,2011.0,general
+Tamil Nadu,2011.0,general
+Tamil Nadu,2011.0,general
+Tamil Nadu,2011.0,general
+Tamil Nadu,2011.0,general
+Tamil Nadu,2011.0,general
+Tamil Nadu,2011.0,general
+Tamil Nadu,2011.0,general
+Tamil Nadu,2011.0,general
+Tamil Nadu,2011.0,general
+Tamil Nadu,2011.0,general
+Tamil Nadu,2012.0,general
+Tamil Nadu,2012.0,general
+Tamil Nadu,2012.0,general
+Tamil Nadu,2012.0,general
+Tamil Nadu,2012.0,general
+Tamil Nadu,2012.0,general
+Tamil Nadu,2012.0,general
+Tamil Nadu,2012.0,general
+Tamil Nadu,2012.0,general
+Tamil Nadu,2012.0,general
+Tamil Nadu,2012.0,general
+Tamil Nadu,2012.0,general
+Tamil Nadu,2012.0,general
+Tamil Nadu,2012.0,general
+Tripura,2001.0,general
+Tripura,2001.0,general
+Tripura,2001.0,general
+Tripura,2001.0,general
+Tripura,2001.0,general
+Tripura,2001.0,general
+Tripura,2001.0,general
+Tripura,2001.0,general
+Tripura,2001.0,general
+Tripura,2001.0,general
+Tripura,2001.0,general
+Tripura,2001.0,general
+Tripura,2001.0,general
+Tripura,2001.0,general
+Tripura,2002.0,general
+Tripura,2002.0,general
+Tripura,2002.0,general
+Tripura,2002.0,general
+Tripura,2002.0,general
+Tripura,2002.0,general
+Tripura,2002.0,general
+Tripura,2002.0,general
+Tripura,2002.0,general
+Tripura,2002.0,general
+Tripura,2002.0,general
+Tripura,2002.0,general
+Tripura,2002.0,general
+Tripura,2002.0,general
+Tripura,2003.0,general
+Tripura,2003.0,general
+Tripura,2003.0,general
+Tripura,2003.0,general
+Tripura,2003.0,general
+Tripura,2003.0,general
+Tripura,2003.0,general
+Tripura,2003.0,general
+Tripura,2003.0,general
+Tripura,2003.0,general
+Tripura,2003.0,general
+Tripura,2003.0,general
+Tripura,2003.0,general
+Tripura,2003.0,general
+Tripura,2004.0,general
+Tripura,2004.0,general
+Tripura,2004.0,general
+Tripura,2004.0,general
+Tripura,2004.0,general
+Tripura,2004.0,general
+Tripura,2004.0,general
+Tripura,2004.0,general
+Tripura,2004.0,general
+Tripura,2004.0,general
+Tripura,2004.0,general
+Tripura,2004.0,general
+Tripura,2004.0,general
+Tripura,2004.0,general
+Tripura,2005.0,general
+Tripura,2005.0,general
+Tripura,2005.0,general
+Tripura,2005.0,general
+Tripura,2005.0,general
+Tripura,2005.0,general
+Tripura,2005.0,general
+Tripura,2005.0,general
+Tripura,2005.0,general
+Tripura,2005.0,general
+Tripura,2005.0,general
+Tripura,2005.0,general
+Tripura,2005.0,general
+Tripura,2005.0,general
+Tripura,2006.0,general
+Tripura,2006.0,general
+Tripura,2006.0,general
+Tripura,2006.0,general
+Tripura,2006.0,general
+Tripura,2006.0,general
+Tripura,2006.0,general
+Tripura,2006.0,general
+Tripura,2006.0,general
+Tripura,2006.0,general
+Tripura,2006.0,general
+Tripura,2006.0,general
+Tripura,2006.0,general
+Tripura,2006.0,general
+Tripura,2007.0,general
+Tripura,2007.0,general
+Tripura,2007.0,general
+Tripura,2007.0,general
+Tripura,2007.0,general
+Tripura,2007.0,general
+Tripura,2007.0,general
+Tripura,2007.0,general
+Tripura,2007.0,general
+Tripura,2007.0,general
+Tripura,2007.0,general
+Tripura,2007.0,general
+Tripura,2007.0,general
+Tripura,2007.0,general
+Tripura,2008.0,general
+Tripura,2008.0,general
+Tripura,2008.0,general
+Tripura,2008.0,general
+Tripura,2008.0,general
+Tripura,2008.0,general
+Tripura,2008.0,general
+Tripura,2008.0,general
+Tripura,2008.0,general
+Tripura,2008.0,general
+Tripura,2008.0,general
+Tripura,2008.0,general
+Tripura,2008.0,general
+Tripura,2008.0,general
+Tripura,2009.0,general
+Tripura,2009.0,general
+Tripura,2009.0,general
+Tripura,2009.0,general
+Tripura,2009.0,general
+Tripura,2009.0,general
+Tripura,2009.0,general
+Tripura,2009.0,general
+Tripura,2009.0,general
+Tripura,2009.0,general
+Tripura,2009.0,general
+Tripura,2009.0,general
+Tripura,2009.0,general
+Tripura,2009.0,general
+Tripura,2010.0,general
+Tripura,2010.0,general
+Tripura,2010.0,general
+Tripura,2010.0,general
+Tripura,2010.0,general
+Tripura,2010.0,general
+Tripura,2010.0,general
+Tripura,2010.0,general
+Tripura,2010.0,general
+Tripura,2010.0,general
+Tripura,2010.0,general
+Tripura,2010.0,general
+Tripura,2010.0,general
+Tripura,2010.0,general
+Tripura,2011.0,general
+Tripura,2011.0,general
+Tripura,2011.0,general
+Tripura,2011.0,general
+Tripura,2011.0,general
+Tripura,2011.0,general
+Tripura,2011.0,general
+Tripura,2011.0,general
+Tripura,2011.0,general
+Tripura,2011.0,general
+Tripura,2011.0,general
+Tripura,2011.0,general
+Tripura,2011.0,general
+Tripura,2011.0,general
+Tripura,2012.0,general
+Tripura,2012.0,general
+Tripura,2012.0,general
+Tripura,2012.0,general
+Tripura,2012.0,general
+Tripura,2012.0,general
+Tripura,2012.0,general
+Tripura,2012.0,general
+Tripura,2012.0,general
+Tripura,2012.0,general
+Tripura,2012.0,general
+Tripura,2012.0,general
+Tripura,2012.0,general
+Tripura,2012.0,general
+Uttar Pradesh,2001.0,general
+Uttar Pradesh,2001.0,general
+Uttar Pradesh,2001.0,general
+Uttar Pradesh,2001.0,general
+Uttar Pradesh,2001.0,general
+Uttar Pradesh,2001.0,general
+Uttar Pradesh,2001.0,general
+Uttar Pradesh,2001.0,general
+Uttar Pradesh,2001.0,general
+Uttar Pradesh,2001.0,general
+Uttar Pradesh,2001.0,general
+Uttar Pradesh,2001.0,general
+Uttar Pradesh,2001.0,general
+Uttar Pradesh,2001.0,general
+Uttar Pradesh,2002.0,general
+Uttar Pradesh,2002.0,general
+Uttar Pradesh,2002.0,general
+Uttar Pradesh,2002.0,general
+Uttar Pradesh,2002.0,general
+Uttar Pradesh,2002.0,general
+Uttar Pradesh,2002.0,general
+Uttar Pradesh,2002.0,general
+Uttar Pradesh,2002.0,general
+Uttar Pradesh,2002.0,general
+Uttar Pradesh,2002.0,general
+Uttar Pradesh,2002.0,general
+Uttar Pradesh,2002.0,general
+Uttar Pradesh,2002.0,general
+Uttar Pradesh,2003.0,general
+Uttar Pradesh,2003.0,general
+Uttar Pradesh,2003.0,general
+Uttar Pradesh,2003.0,general
+Uttar Pradesh,2003.0,general
+Uttar Pradesh,2003.0,general
+Uttar Pradesh,2003.0,general
+Uttar Pradesh,2003.0,general
+Uttar Pradesh,2003.0,general
+Uttar Pradesh,2003.0,general
+Uttar Pradesh,2003.0,general
+Uttar Pradesh,2003.0,general
+Uttar Pradesh,2003.0,general
+Uttar Pradesh,2003.0,general
+Uttar Pradesh,2004.0,general
+Uttar Pradesh,2004.0,general
+Uttar Pradesh,2004.0,general
+Uttar Pradesh,2004.0,general
+Uttar Pradesh,2004.0,general
+Uttar Pradesh,2004.0,general
+Uttar Pradesh,2004.0,general
+Uttar Pradesh,2004.0,general
+Uttar Pradesh,2004.0,general
+Uttar Pradesh,2004.0,general
+Uttar Pradesh,2004.0,general
+Uttar Pradesh,2004.0,general
+Uttar Pradesh,2004.0,general
+Uttar Pradesh,2004.0,general
+Uttar Pradesh,2005.0,general
+Uttar Pradesh,2005.0,general
+Uttar Pradesh,2005.0,general
+Uttar Pradesh,2005.0,general
+Uttar Pradesh,2005.0,general
+Uttar Pradesh,2005.0,general
+Uttar Pradesh,2005.0,general
+Uttar Pradesh,2005.0,general
+Uttar Pradesh,2005.0,general
+Uttar Pradesh,2005.0,general
+Uttar Pradesh,2005.0,general
+Uttar Pradesh,2005.0,general
+Uttar Pradesh,2005.0,general
+Uttar Pradesh,2005.0,general
+Uttar Pradesh,2006.0,general
+Uttar Pradesh,2006.0,general
+Uttar Pradesh,2006.0,general
+Uttar Pradesh,2006.0,general
+Uttar Pradesh,2006.0,general
+Uttar Pradesh,2006.0,general
+Uttar Pradesh,2006.0,general
+Uttar Pradesh,2006.0,general
+Uttar Pradesh,2006.0,general
+Uttar Pradesh,2006.0,general
+Uttar Pradesh,2006.0,general
+Uttar Pradesh,2006.0,general
+Uttar Pradesh,2006.0,general
+Uttar Pradesh,2006.0,general
+Uttar Pradesh,2007.0,general
+Uttar Pradesh,2007.0,general
+Uttar Pradesh,2007.0,general
+Uttar Pradesh,2007.0,general
+Uttar Pradesh,2007.0,general
+Uttar Pradesh,2007.0,general
+Uttar Pradesh,2007.0,general
+Uttar Pradesh,2007.0,general
+Uttar Pradesh,2007.0,general
+Uttar Pradesh,2007.0,general
+Uttar Pradesh,2007.0,general
+Uttar Pradesh,2007.0,general
+Uttar Pradesh,2007.0,general
+Uttar Pradesh,2007.0,general
+Uttar Pradesh,2008.0,general
+Uttar Pradesh,2008.0,general
+Uttar Pradesh,2008.0,general
+Uttar Pradesh,2008.0,general
+Uttar Pradesh,2008.0,general
+Uttar Pradesh,2008.0,general
+Uttar Pradesh,2008.0,general
+Uttar Pradesh,2008.0,general
+Uttar Pradesh,2008.0,general
+Uttar Pradesh,2008.0,general
+Uttar Pradesh,2008.0,general
+Uttar Pradesh,2008.0,general
+Uttar Pradesh,2008.0,general
+Uttar Pradesh,2008.0,general
+Uttar Pradesh,2009.0,general
+Uttar Pradesh,2009.0,general
+Uttar Pradesh,2009.0,general
+Uttar Pradesh,2009.0,general
+Uttar Pradesh,2009.0,general
+Uttar Pradesh,2009.0,general
+Uttar Pradesh,2009.0,general
+Uttar Pradesh,2009.0,general
+Uttar Pradesh,2009.0,general
+Uttar Pradesh,2009.0,general
+Uttar Pradesh,2009.0,general
+Uttar Pradesh,2009.0,general
+Uttar Pradesh,2009.0,general
+Uttar Pradesh,2009.0,general
+Uttar Pradesh,2010.0,general
+Uttar Pradesh,2010.0,general
+Uttar Pradesh,2010.0,general
+Uttar Pradesh,2010.0,general
+Uttar Pradesh,2010.0,general
+Uttar Pradesh,2010.0,general
+Uttar Pradesh,2010.0,general
+Uttar Pradesh,2010.0,general
+Uttar Pradesh,2010.0,general
+Uttar Pradesh,2010.0,general
+Uttar Pradesh,2010.0,general
+Uttar Pradesh,2010.0,general
+Uttar Pradesh,2010.0,general
+Uttar Pradesh,2010.0,general
+Uttar Pradesh,2011.0,general
+Uttar Pradesh,2011.0,general
+Uttar Pradesh,2011.0,general
+Uttar Pradesh,2011.0,general
+Uttar Pradesh,2011.0,general
+Uttar Pradesh,2011.0,general
+Uttar Pradesh,2011.0,general
+Uttar Pradesh,2011.0,general
+Uttar Pradesh,2011.0,general
+Uttar Pradesh,2011.0,general
+Uttar Pradesh,2011.0,general
+Uttar Pradesh,2011.0,general
+Uttar Pradesh,2011.0,general
+Uttar Pradesh,2011.0,general
+Uttar Pradesh,2012.0,general
+Uttar Pradesh,2012.0,general
+Uttar Pradesh,2012.0,general
+Uttar Pradesh,2012.0,general
+Uttar Pradesh,2012.0,general
+Uttar Pradesh,2012.0,general
+Uttar Pradesh,2012.0,general
+Uttar Pradesh,2012.0,general
+Uttar Pradesh,2012.0,general
+Uttar Pradesh,2012.0,general
+Uttar Pradesh,2012.0,general
+Uttar Pradesh,2012.0,general
+Uttar Pradesh,2012.0,general
+Uttar Pradesh,2012.0,general
+Uttarakhand,2001.0,general
+Uttarakhand,2001.0,general
+Uttarakhand,2001.0,general
+Uttarakhand,2001.0,general
+Uttarakhand,2001.0,general
+Uttarakhand,2001.0,general
+Uttarakhand,2001.0,general
+Uttarakhand,2001.0,general
+Uttarakhand,2001.0,general
+Uttarakhand,2001.0,general
+Uttarakhand,2001.0,general
+Uttarakhand,2001.0,general
+Uttarakhand,2001.0,general
+Uttarakhand,2001.0,general
+Uttarakhand,2002.0,general
+Uttarakhand,2002.0,general
+Uttarakhand,2002.0,general
+Uttarakhand,2002.0,general
+Uttarakhand,2002.0,general
+Uttarakhand,2002.0,general
+Uttarakhand,2002.0,general
+Uttarakhand,2002.0,general
+Uttarakhand,2002.0,general
+Uttarakhand,2002.0,general
+Uttarakhand,2002.0,general
+Uttarakhand,2002.0,general
+Uttarakhand,2002.0,general
+Uttarakhand,2002.0,general
+Uttarakhand,2003.0,general
+Uttarakhand,2003.0,general
+Uttarakhand,2003.0,general
+Uttarakhand,2003.0,general
+Uttarakhand,2003.0,general
+Uttarakhand,2003.0,general
+Uttarakhand,2003.0,general
+Uttarakhand,2003.0,general
+Uttarakhand,2003.0,general
+Uttarakhand,2003.0,general
+Uttarakhand,2003.0,general
+Uttarakhand,2003.0,general
+Uttarakhand,2003.0,general
+Uttarakhand,2003.0,general
+Uttarakhand,2004.0,general
+Uttarakhand,2004.0,general
+Uttarakhand,2004.0,general
+Uttarakhand,2004.0,general
+Uttarakhand,2004.0,general
+Uttarakhand,2004.0,general
+Uttarakhand,2004.0,general
+Uttarakhand,2004.0,general
+Uttarakhand,2004.0,general
+Uttarakhand,2004.0,general
+Uttarakhand,2004.0,general
+Uttarakhand,2004.0,general
+Uttarakhand,2004.0,general
+Uttarakhand,2004.0,general
+Uttarakhand,2005.0,general
+Uttarakhand,2005.0,general
+Uttarakhand,2005.0,general
+Uttarakhand,2005.0,general
+Uttarakhand,2005.0,general
+Uttarakhand,2005.0,general
+Uttarakhand,2005.0,general
+Uttarakhand,2005.0,general
+Uttarakhand,2005.0,general
+Uttarakhand,2005.0,general
+Uttarakhand,2005.0,general
+Uttarakhand,2005.0,general
+Uttarakhand,2005.0,general
+Uttarakhand,2005.0,general
+Uttarakhand,2006.0,general
+Uttarakhand,2006.0,general
+Uttarakhand,2006.0,general
+Uttarakhand,2006.0,general
+Uttarakhand,2006.0,general
+Uttarakhand,2006.0,general
+Uttarakhand,2006.0,general
+Uttarakhand,2006.0,general
+Uttarakhand,2006.0,general
+Uttarakhand,2006.0,general
+Uttarakhand,2006.0,general
+Uttarakhand,2006.0,general
+Uttarakhand,2006.0,general
+Uttarakhand,2006.0,general
+Uttarakhand,2007.0,general
+Uttarakhand,2007.0,general
+Uttarakhand,2007.0,general
+Uttarakhand,2007.0,general
+Uttarakhand,2007.0,general
+Uttarakhand,2007.0,general
+Uttarakhand,2007.0,general
+Uttarakhand,2007.0,general
+Uttarakhand,2007.0,general
+Uttarakhand,2007.0,general
+Uttarakhand,2007.0,general
+Uttarakhand,2007.0,general
+Uttarakhand,2007.0,general
+Uttarakhand,2007.0,general
+Uttarakhand,2008.0,general
+Uttarakhand,2008.0,general
+Uttarakhand,2008.0,general
+Uttarakhand,2008.0,general
+Uttarakhand,2008.0,general
+Uttarakhand,2008.0,general
+Uttarakhand,2008.0,general
+Uttarakhand,2008.0,general
+Uttarakhand,2008.0,general
+Uttarakhand,2008.0,general
+Uttarakhand,2008.0,general
+Uttarakhand,2008.0,general
+Uttarakhand,2008.0,general
+Uttarakhand,2008.0,general
+Uttarakhand,2009.0,general
+Uttarakhand,2009.0,general
+Uttarakhand,2009.0,general
+Uttarakhand,2009.0,general
+Uttarakhand,2009.0,general
+Uttarakhand,2009.0,general
+Uttarakhand,2009.0,general
+Uttarakhand,2009.0,general
+Uttarakhand,2009.0,general
+Uttarakhand,2009.0,general
+Uttarakhand,2009.0,general
+Uttarakhand,2009.0,general
+Uttarakhand,2009.0,general
+Uttarakhand,2009.0,general
+Uttarakhand,2010.0,general
+Uttarakhand,2010.0,general
+Uttarakhand,2010.0,general
+Uttarakhand,2010.0,general
+Uttarakhand,2010.0,general
+Uttarakhand,2010.0,general
+Uttarakhand,2010.0,general
+Uttarakhand,2010.0,general
+Uttarakhand,2010.0,general
+Uttarakhand,2010.0,general
+Uttarakhand,2010.0,general
+Uttarakhand,2010.0,general
+Uttarakhand,2010.0,general
+Uttarakhand,2010.0,general
+Uttarakhand,2011.0,general
+Uttarakhand,2011.0,general
+Uttarakhand,2011.0,general
+Uttarakhand,2011.0,general
+Uttarakhand,2011.0,general
+Uttarakhand,2011.0,general
+Uttarakhand,2011.0,general
+Uttarakhand,2011.0,general
+Uttarakhand,2011.0,general
+Uttarakhand,2011.0,general
+Uttarakhand,2011.0,general
+Uttarakhand,2011.0,general
+Uttarakhand,2011.0,general
+Uttarakhand,2011.0,general
+Uttarakhand,2012.0,general
+Uttarakhand,2012.0,general
+Uttarakhand,2012.0,general
+Uttarakhand,2012.0,general
+Uttarakhand,2012.0,general
+Uttarakhand,2012.0,general
+Uttarakhand,2012.0,general
+Uttarakhand,2012.0,general
+Uttarakhand,2012.0,general
+Uttarakhand,2012.0,general
+Uttarakhand,2012.0,general
+Uttarakhand,2012.0,general
+Uttarakhand,2012.0,general
+Uttarakhand,2012.0,general
+West Bengal,2001.0,general
+West Bengal,2001.0,general
+West Bengal,2001.0,general
+West Bengal,2001.0,general
+West Bengal,2001.0,general
+West Bengal,2001.0,general
+West Bengal,2001.0,general
+West Bengal,2001.0,general
+West Bengal,2001.0,general
+West Bengal,2001.0,general
+West Bengal,2001.0,general
+West Bengal,2001.0,general
+West Bengal,2001.0,general
+West Bengal,2001.0,general
+West Bengal,2002.0,general
+West Bengal,2002.0,general
+West Bengal,2002.0,general
+West Bengal,2002.0,general
+West Bengal,2002.0,general
+West Bengal,2002.0,general
+West Bengal,2002.0,general
+West Bengal,2002.0,general
+West Bengal,2002.0,general
+West Bengal,2002.0,general
+West Bengal,2002.0,general
+West Bengal,2002.0,general
+West Bengal,2002.0,general
+West Bengal,2002.0,general
+West Bengal,2003.0,general
+West Bengal,2003.0,general
+West Bengal,2003.0,general
+West Bengal,2003.0,general
+West Bengal,2003.0,general
+West Bengal,2003.0,general
+West Bengal,2003.0,general
+West Bengal,2003.0,general
+West Bengal,2003.0,general
+West Bengal,2003.0,general
+West Bengal,2003.0,general
+West Bengal,2003.0,general
+West Bengal,2003.0,general
+West Bengal,2003.0,general
+West Bengal,2004.0,general
+West Bengal,2004.0,general
+West Bengal,2004.0,general
+West Bengal,2004.0,general
+West Bengal,2004.0,general
+West Bengal,2004.0,general
+West Bengal,2004.0,general
+West Bengal,2004.0,general
+West Bengal,2004.0,general
+West Bengal,2004.0,general
+West Bengal,2004.0,general
+West Bengal,2004.0,general
+West Bengal,2004.0,general
+West Bengal,2004.0,general
+West Bengal,2005.0,general
+West Bengal,2005.0,general
+West Bengal,2005.0,general
+West Bengal,2005.0,general
+West Bengal,2005.0,general
+West Bengal,2005.0,general
+West Bengal,2005.0,general
+West Bengal,2005.0,general
+West Bengal,2005.0,general
+West Bengal,2005.0,general
+West Bengal,2005.0,general
+West Bengal,2005.0,general
+West Bengal,2005.0,general
+West Bengal,2005.0,general
+West Bengal,2006.0,general
+West Bengal,2006.0,general
+West Bengal,2006.0,general
+West Bengal,2006.0,general
+West Bengal,2006.0,general
+West Bengal,2006.0,general
+West Bengal,2006.0,general
+West Bengal,2006.0,general
+West Bengal,2006.0,general
+West Bengal,2006.0,general
+West Bengal,2006.0,general
+West Bengal,2006.0,general
+West Bengal,2006.0,general
+West Bengal,2006.0,general
+West Bengal,2007.0,general
+West Bengal,2007.0,general
+West Bengal,2007.0,general
+West Bengal,2007.0,general
+West Bengal,2007.0,general
+West Bengal,2007.0,general
+West Bengal,2007.0,general
+West Bengal,2007.0,general
+West Bengal,2007.0,general
+West Bengal,2007.0,general
+West Bengal,2007.0,general
+West Bengal,2007.0,general
+West Bengal,2007.0,general
+West Bengal,2007.0,general
+West Bengal,2008.0,general
+West Bengal,2008.0,general
+West Bengal,2008.0,general
+West Bengal,2008.0,general
+West Bengal,2008.0,general
+West Bengal,2008.0,general
+West Bengal,2008.0,general
+West Bengal,2008.0,general
+West Bengal,2008.0,general
+West Bengal,2008.0,general
+West Bengal,2008.0,general
+West Bengal,2008.0,general
+West Bengal,2008.0,general
+West Bengal,2008.0,general
+West Bengal,2009.0,general
+West Bengal,2009.0,general
+West Bengal,2009.0,general
+West Bengal,2009.0,general
+West Bengal,2009.0,general
+West Bengal,2009.0,general
+West Bengal,2009.0,general
+West Bengal,2009.0,general
+West Bengal,2009.0,general
+West Bengal,2009.0,general
+West Bengal,2009.0,general
+West Bengal,2009.0,general
+West Bengal,2009.0,general
+West Bengal,2009.0,general
+West Bengal,2010.0,general
+West Bengal,2010.0,general
+West Bengal,2010.0,general
+West Bengal,2010.0,general
+West Bengal,2010.0,general
+West Bengal,2010.0,general
+West Bengal,2010.0,general
+West Bengal,2010.0,general
+West Bengal,2010.0,general
+West Bengal,2010.0,general
+West Bengal,2010.0,general
+West Bengal,2010.0,general
+West Bengal,2010.0,general
+West Bengal,2010.0,general
+West Bengal,2011.0,general
+West Bengal,2011.0,general
+West Bengal,2011.0,general
+West Bengal,2011.0,general
+West Bengal,2011.0,general
+West Bengal,2011.0,general
+West Bengal,2011.0,general
+West Bengal,2011.0,general
+West Bengal,2011.0,general
+West Bengal,2011.0,general
+West Bengal,2011.0,general
+West Bengal,2011.0,general
+West Bengal,2011.0,general
+West Bengal,2011.0,general
+West Bengal,2012.0,general
+West Bengal,2012.0,general
+West Bengal,2012.0,general
+West Bengal,2012.0,general
+West Bengal,2012.0,general
+West Bengal,2012.0,general
+West Bengal,2012.0,general
+West Bengal,2012.0,general
+West Bengal,2012.0,general
+West Bengal,2012.0,general
+West Bengal,2012.0,general
+West Bengal,2012.0,general
+West Bengal,2012.0,general
+West Bengal,2012.0,general
+A&N Islands,2001.0,general
+A&N Islands,2001.0,general
+A&N Islands,2001.0,general
+A&N Islands,2001.0,general
+A&N Islands,2001.0,general
+A&N Islands,2001.0,general
+A&N Islands,2001.0,general
+A&N Islands,2001.0,general
+A&N Islands,2001.0,general
+A&N Islands,2001.0,general
+A&N Islands,2001.0,general
+A&N Islands,2001.0,general
+A&N Islands,2001.0,general
+A&N Islands,2001.0,general
+A&N Islands,2002.0,general
+A&N Islands,2002.0,general
+A&N Islands,2002.0,general
+A&N Islands,2002.0,general
+A&N Islands,2002.0,general
+A&N Islands,2002.0,general
+A&N Islands,2002.0,general
+A&N Islands,2002.0,general
+A&N Islands,2002.0,general
+A&N Islands,2002.0,general
+A&N Islands,2002.0,general
+A&N Islands,2002.0,general
+A&N Islands,2002.0,general
+A&N Islands,2002.0,general
+A&N Islands,2003.0,general
+A&N Islands,2003.0,general
+A&N Islands,2003.0,general
+A&N Islands,2003.0,general
+A&N Islands,2003.0,general
+A&N Islands,2003.0,general
+A&N Islands,2003.0,general
+A&N Islands,2003.0,general
+A&N Islands,2003.0,general
+A&N Islands,2003.0,general
+A&N Islands,2003.0,general
+A&N Islands,2003.0,general
+A&N Islands,2003.0,general
+A&N Islands,2003.0,general
+A&N Islands,2004.0,general
+A&N Islands,2004.0,general
+A&N Islands,2004.0,general
+A&N Islands,2004.0,general
+A&N Islands,2004.0,general
+A&N Islands,2004.0,general
+A&N Islands,2004.0,general
+A&N Islands,2004.0,general
+A&N Islands,2004.0,general
+A&N Islands,2004.0,general
+A&N Islands,2004.0,general
+A&N Islands,2004.0,general
+A&N Islands,2004.0,general
+A&N Islands,2004.0,general
+A&N Islands,2005.0,general
+A&N Islands,2005.0,general
+A&N Islands,2005.0,general
+A&N Islands,2005.0,general
+A&N Islands,2005.0,general
+A&N Islands,2005.0,general
+A&N Islands,2005.0,general
+A&N Islands,2005.0,general
+A&N Islands,2005.0,general
+A&N Islands,2005.0,general
+A&N Islands,2005.0,general
+A&N Islands,2005.0,general
+A&N Islands,2005.0,general
+A&N Islands,2005.0,general
+A&N Islands,2006.0,general
+A&N Islands,2006.0,general
+A&N Islands,2006.0,general
+A&N Islands,2006.0,general
+A&N Islands,2006.0,general
+A&N Islands,2006.0,general
+A&N Islands,2006.0,general
+A&N Islands,2006.0,general
+A&N Islands,2006.0,general
+A&N Islands,2006.0,general
+A&N Islands,2006.0,general
+A&N Islands,2006.0,general
+A&N Islands,2006.0,general
+A&N Islands,2006.0,general
+A&N Islands,2007.0,general
+A&N Islands,2007.0,general
+A&N Islands,2007.0,general
+A&N Islands,2007.0,general
+A&N Islands,2007.0,general
+A&N Islands,2007.0,general
+A&N Islands,2007.0,general
+A&N Islands,2007.0,general
+A&N Islands,2007.0,general
+A&N Islands,2007.0,general
+A&N Islands,2007.0,general
+A&N Islands,2007.0,general
+A&N Islands,2007.0,general
+A&N Islands,2007.0,general
+A&N Islands,2008.0,general
+A&N Islands,2008.0,general
+A&N Islands,2008.0,general
+A&N Islands,2008.0,general
+A&N Islands,2008.0,general
+A&N Islands,2008.0,general
+A&N Islands,2008.0,general
+A&N Islands,2008.0,general
+A&N Islands,2008.0,general
+A&N Islands,2008.0,general
+A&N Islands,2008.0,general
+A&N Islands,2008.0,general
+A&N Islands,2008.0,general
+A&N Islands,2008.0,general
+A&N Islands,2009.0,general
+A&N Islands,2009.0,general
+A&N Islands,2009.0,general
+A&N Islands,2009.0,general
+A&N Islands,2009.0,general
+A&N Islands,2009.0,general
+A&N Islands,2009.0,general
+A&N Islands,2009.0,general
+A&N Islands,2009.0,general
+A&N Islands,2009.0,general
+A&N Islands,2009.0,general
+A&N Islands,2009.0,general
+A&N Islands,2009.0,general
+A&N Islands,2009.0,general
+A&N Islands,2010.0,general
+A&N Islands,2010.0,general
+A&N Islands,2010.0,general
+A&N Islands,2010.0,general
+A&N Islands,2010.0,general
+A&N Islands,2010.0,general
+A&N Islands,2010.0,general
+A&N Islands,2010.0,general
+A&N Islands,2010.0,general
+A&N Islands,2010.0,general
+A&N Islands,2010.0,general
+A&N Islands,2010.0,general
+A&N Islands,2010.0,general
+A&N Islands,2010.0,general
+A&N Islands,2011.0,general
+A&N Islands,2011.0,general
+A&N Islands,2011.0,general
+A&N Islands,2011.0,general
+A&N Islands,2011.0,general
+A&N Islands,2011.0,general
+A&N Islands,2011.0,general
+A&N Islands,2011.0,general
+A&N Islands,2011.0,general
+A&N Islands,2011.0,general
+A&N Islands,2011.0,general
+A&N Islands,2011.0,general
+A&N Islands,2011.0,general
+A&N Islands,2011.0,general
+A&N Islands,2012.0,general
+A&N Islands,2012.0,general
+A&N Islands,2012.0,general
+A&N Islands,2012.0,general
+A&N Islands,2012.0,general
+A&N Islands,2012.0,general
+A&N Islands,2012.0,general
+A&N Islands,2012.0,general
+A&N Islands,2012.0,general
+A&N Islands,2012.0,general
+A&N Islands,2012.0,general
+A&N Islands,2012.0,general
+A&N Islands,2012.0,general
+A&N Islands,2012.0,general
+Chandigarh,2001.0,general
+Chandigarh,2001.0,general
+Chandigarh,2001.0,general
+Chandigarh,2001.0,general
+Chandigarh,2001.0,general
+Chandigarh,2001.0,general
+Chandigarh,2001.0,general
+Chandigarh,2001.0,general
+Chandigarh,2001.0,general
+Chandigarh,2001.0,general
+Chandigarh,2001.0,general
+Chandigarh,2001.0,general
+Chandigarh,2001.0,general
+Chandigarh,2001.0,general
+Chandigarh,2002.0,general
+Chandigarh,2002.0,general
+Chandigarh,2002.0,general
+Chandigarh,2002.0,general
+Chandigarh,2002.0,general
+Chandigarh,2002.0,general
+Chandigarh,2002.0,general
+Chandigarh,2002.0,general
+Chandigarh,2002.0,general
+Chandigarh,2002.0,general
+Chandigarh,2002.0,general
+Chandigarh,2002.0,general
+Chandigarh,2002.0,general
+Chandigarh,2002.0,general
+Chandigarh,2003.0,general
+Chandigarh,2003.0,general
+Chandigarh,2003.0,general
+Chandigarh,2003.0,general
+Chandigarh,2003.0,general
+Chandigarh,2003.0,general
+Chandigarh,2003.0,general
+Chandigarh,2003.0,general
+Chandigarh,2003.0,general
+Chandigarh,2003.0,general
+Chandigarh,2003.0,general
+Chandigarh,2003.0,general
+Chandigarh,2003.0,general
+Chandigarh,2003.0,general
+Chandigarh,2004.0,general
+Chandigarh,2004.0,general
+Chandigarh,2004.0,general
+Chandigarh,2004.0,general
+Chandigarh,2004.0,general
+Chandigarh,2004.0,general
+Chandigarh,2004.0,general
+Chandigarh,2004.0,general
+Chandigarh,2004.0,general
+Chandigarh,2004.0,general
+Chandigarh,2004.0,general
+Chandigarh,2004.0,general
+Chandigarh,2004.0,general
+Chandigarh,2004.0,general
+Chandigarh,2005.0,general
+Chandigarh,2005.0,general
+Chandigarh,2005.0,general
+Chandigarh,2005.0,general
+Chandigarh,2005.0,general
+Chandigarh,2005.0,general
+Chandigarh,2005.0,general
+Chandigarh,2005.0,general
+Chandigarh,2005.0,general
+Chandigarh,2005.0,general
+Chandigarh,2005.0,general
+Chandigarh,2005.0,general
+Chandigarh,2005.0,general
+Chandigarh,2005.0,general
+Chandigarh,2006.0,general
+Chandigarh,2006.0,general
+Chandigarh,2006.0,general
+Chandigarh,2006.0,general
+Chandigarh,2006.0,general
+Chandigarh,2006.0,general
+Chandigarh,2006.0,general
+Chandigarh,2006.0,general
+Chandigarh,2006.0,general
+Chandigarh,2006.0,general
+Chandigarh,2006.0,general
+Chandigarh,2006.0,general
+Chandigarh,2006.0,general
+Chandigarh,2006.0,general
+Chandigarh,2007.0,general
+Chandigarh,2007.0,general
+Chandigarh,2007.0,general
+Chandigarh,2007.0,general
+Chandigarh,2007.0,general
+Chandigarh,2007.0,general
+Chandigarh,2007.0,general
+Chandigarh,2007.0,general
+Chandigarh,2007.0,general
+Chandigarh,2007.0,general
+Chandigarh,2007.0,general
+Chandigarh,2007.0,general
+Chandigarh,2007.0,general
+Chandigarh,2007.0,general
+Chandigarh,2008.0,general
+Chandigarh,2008.0,general
+Chandigarh,2008.0,general
+Chandigarh,2008.0,general
+Chandigarh,2008.0,general
+Chandigarh,2008.0,general
+Chandigarh,2008.0,general
+Chandigarh,2008.0,general
+Chandigarh,2008.0,general
+Chandigarh,2008.0,general
+Chandigarh,2008.0,general
+Chandigarh,2008.0,general
+Chandigarh,2008.0,general
+Chandigarh,2008.0,general
+Chandigarh,2009.0,general
+Chandigarh,2009.0,general
+Chandigarh,2009.0,general
+Chandigarh,2009.0,general
+Chandigarh,2009.0,general
+Chandigarh,2009.0,general
+Chandigarh,2009.0,general
+Chandigarh,2009.0,general
+Chandigarh,2009.0,general
+Chandigarh,2009.0,general
+Chandigarh,2009.0,general
+Chandigarh,2009.0,general
+Chandigarh,2009.0,general
+Chandigarh,2009.0,general
+Chandigarh,2010.0,general
+Chandigarh,2010.0,general
+Chandigarh,2010.0,general
+Chandigarh,2010.0,general
+Chandigarh,2010.0,general
+Chandigarh,2010.0,general
+Chandigarh,2010.0,general
+Chandigarh,2010.0,general
+Chandigarh,2010.0,general
+Chandigarh,2010.0,general
+Chandigarh,2010.0,general
+Chandigarh,2010.0,general
+Chandigarh,2010.0,general
+Chandigarh,2010.0,general
+Chandigarh,2011.0,general
+Chandigarh,2011.0,general
+Chandigarh,2011.0,general
+Chandigarh,2011.0,general
+Chandigarh,2011.0,general
+Chandigarh,2011.0,general
+Chandigarh,2011.0,general
+Chandigarh,2011.0,general
+Chandigarh,2011.0,general
+Chandigarh,2011.0,general
+Chandigarh,2011.0,general
+Chandigarh,2011.0,general
+Chandigarh,2011.0,general
+Chandigarh,2011.0,general
+Chandigarh,2012.0,general
+Chandigarh,2012.0,general
+Chandigarh,2012.0,general
+Chandigarh,2012.0,general
+Chandigarh,2012.0,general
+Chandigarh,2012.0,general
+Chandigarh,2012.0,general
+Chandigarh,2012.0,general
+Chandigarh,2012.0,general
+Chandigarh,2012.0,general
+Chandigarh,2012.0,general
+Chandigarh,2012.0,general
+Chandigarh,2012.0,general
+Chandigarh,2012.0,general
+D&N Haveli,2001.0,general
+D&N Haveli,2001.0,general
+D&N Haveli,2001.0,general
+D&N Haveli,2001.0,general
+D&N Haveli,2001.0,general
+D&N Haveli,2001.0,general
+D&N Haveli,2001.0,general
+D&N Haveli,2001.0,general
+D&N Haveli,2001.0,general
+D&N Haveli,2001.0,general
+D&N Haveli,2001.0,general
+D&N Haveli,2001.0,general
+D&N Haveli,2001.0,general
+D&N Haveli,2001.0,general
+D&N Haveli,2002.0,general
+D&N Haveli,2002.0,general
+D&N Haveli,2002.0,general
+D&N Haveli,2002.0,general
+D&N Haveli,2002.0,general
+D&N Haveli,2002.0,general
+D&N Haveli,2002.0,general
+D&N Haveli,2002.0,general
+D&N Haveli,2002.0,general
+D&N Haveli,2002.0,general
+D&N Haveli,2002.0,general
+D&N Haveli,2002.0,general
+D&N Haveli,2002.0,general
+D&N Haveli,2002.0,general
+D&N Haveli,2003.0,general
+D&N Haveli,2003.0,general
+D&N Haveli,2003.0,general
+D&N Haveli,2003.0,general
+D&N Haveli,2003.0,general
+D&N Haveli,2003.0,general
+D&N Haveli,2003.0,general
+D&N Haveli,2003.0,general
+D&N Haveli,2003.0,general
+D&N Haveli,2003.0,general
+D&N Haveli,2003.0,general
+D&N Haveli,2003.0,general
+D&N Haveli,2003.0,general
+D&N Haveli,2003.0,general
+D&N Haveli,2004.0,general
+D&N Haveli,2004.0,general
+D&N Haveli,2004.0,general
+D&N Haveli,2004.0,general
+D&N Haveli,2004.0,general
+D&N Haveli,2004.0,general
+D&N Haveli,2004.0,general
+D&N Haveli,2004.0,general
+D&N Haveli,2004.0,general
+D&N Haveli,2004.0,general
+D&N Haveli,2004.0,general
+D&N Haveli,2004.0,general
+D&N Haveli,2004.0,general
+D&N Haveli,2004.0,general
+D&N Haveli,2005.0,general
+D&N Haveli,2005.0,general
+D&N Haveli,2005.0,general
+D&N Haveli,2005.0,general
+D&N Haveli,2005.0,general
+D&N Haveli,2005.0,general
+D&N Haveli,2005.0,general
+D&N Haveli,2005.0,general
+D&N Haveli,2005.0,general
+D&N Haveli,2005.0,general
+D&N Haveli,2005.0,general
+D&N Haveli,2005.0,general
+D&N Haveli,2005.0,general
+D&N Haveli,2005.0,general
+D&N Haveli,2006.0,general
+D&N Haveli,2006.0,general
+D&N Haveli,2006.0,general
+D&N Haveli,2006.0,general
+D&N Haveli,2006.0,general
+D&N Haveli,2006.0,general
+D&N Haveli,2006.0,general
+D&N Haveli,2006.0,general
+D&N Haveli,2006.0,general
+D&N Haveli,2006.0,general
+D&N Haveli,2006.0,general
+D&N Haveli,2006.0,general
+D&N Haveli,2006.0,general
+D&N Haveli,2006.0,general
+D&N Haveli,2007.0,general
+D&N Haveli,2007.0,general
+D&N Haveli,2007.0,general
+D&N Haveli,2007.0,general
+D&N Haveli,2007.0,general
+D&N Haveli,2007.0,general
+D&N Haveli,2007.0,general
+D&N Haveli,2007.0,general
+D&N Haveli,2007.0,general
+D&N Haveli,2007.0,general
+D&N Haveli,2007.0,general
+D&N Haveli,2007.0,general
+D&N Haveli,2007.0,general
+D&N Haveli,2007.0,general
+D&N Haveli,2008.0,general
+D&N Haveli,2008.0,general
+D&N Haveli,2008.0,general
+D&N Haveli,2008.0,general
+D&N Haveli,2008.0,general
+D&N Haveli,2008.0,general
+D&N Haveli,2008.0,general
+D&N Haveli,2008.0,general
+D&N Haveli,2008.0,general
+D&N Haveli,2008.0,general
+D&N Haveli,2008.0,general
+D&N Haveli,2008.0,general
+D&N Haveli,2008.0,general
+D&N Haveli,2008.0,general
+D&N Haveli,2009.0,general
+D&N Haveli,2009.0,general
+D&N Haveli,2009.0,general
+D&N Haveli,2009.0,general
+D&N Haveli,2009.0,general
+D&N Haveli,2009.0,general
+D&N Haveli,2009.0,general
+D&N Haveli,2009.0,general
+D&N Haveli,2009.0,general
+D&N Haveli,2009.0,general
+D&N Haveli,2009.0,general
+D&N Haveli,2009.0,general
+D&N Haveli,2009.0,general
+D&N Haveli,2009.0,general
+D&N Haveli,2010.0,general
+D&N Haveli,2010.0,general
+D&N Haveli,2010.0,general
+D&N Haveli,2010.0,general
+D&N Haveli,2010.0,general
+D&N Haveli,2010.0,general
+D&N Haveli,2010.0,general
+D&N Haveli,2010.0,general
+D&N Haveli,2010.0,general
+D&N Haveli,2010.0,general
+D&N Haveli,2010.0,general
+D&N Haveli,2010.0,general
+D&N Haveli,2010.0,general
+D&N Haveli,2010.0,general
+D&N Haveli,2011.0,general
+D&N Haveli,2011.0,general
+D&N Haveli,2011.0,general
+D&N Haveli,2011.0,general
+D&N Haveli,2011.0,general
+D&N Haveli,2011.0,general
+D&N Haveli,2011.0,general
+D&N Haveli,2011.0,general
+D&N Haveli,2011.0,general
+D&N Haveli,2011.0,general
+D&N Haveli,2011.0,general
+D&N Haveli,2011.0,general
+D&N Haveli,2011.0,general
+D&N Haveli,2011.0,general
+D&N Haveli,2012.0,general
+D&N Haveli,2012.0,general
+D&N Haveli,2012.0,general
+D&N Haveli,2012.0,general
+D&N Haveli,2012.0,general
+D&N Haveli,2012.0,general
+D&N Haveli,2012.0,general
+D&N Haveli,2012.0,general
+D&N Haveli,2012.0,general
+D&N Haveli,2012.0,general
+D&N Haveli,2012.0,general
+D&N Haveli,2012.0,general
+D&N Haveli,2012.0,general
+D&N Haveli,2012.0,general
+Daman & Diu,2002.0,general
+Daman & Diu,2002.0,general
+Daman & Diu,2002.0,general
+Daman & Diu,2002.0,general
+Daman & Diu,2002.0,general
+Daman & Diu,2002.0,general
+Daman & Diu,2002.0,general
+Daman & Diu,2002.0,general
+Daman & Diu,2002.0,general
+Daman & Diu,2002.0,general
+Daman & Diu,2002.0,general
+Daman & Diu,2002.0,general
+Daman & Diu,2002.0,general
+Daman & Diu,2002.0,general
+Daman & Diu,2003.0,general
+Daman & Diu,2003.0,general
+Daman & Diu,2003.0,general
+Daman & Diu,2003.0,general
+Daman & Diu,2003.0,general
+Daman & Diu,2003.0,general
+Daman & Diu,2003.0,general
+Daman & Diu,2003.0,general
+Daman & Diu,2003.0,general
+Daman & Diu,2003.0,general
+Daman & Diu,2003.0,general
+Daman & Diu,2003.0,general
+Daman & Diu,2003.0,general
+Daman & Diu,2003.0,general
+Daman & Diu,2004.0,general
+Daman & Diu,2004.0,general
+Daman & Diu,2004.0,general
+Daman & Diu,2004.0,general
+Daman & Diu,2004.0,general
+Daman & Diu,2004.0,general
+Daman & Diu,2004.0,general
+Daman & Diu,2004.0,general
+Daman & Diu,2004.0,general
+Daman & Diu,2004.0,general
+Daman & Diu,2004.0,general
+Daman & Diu,2004.0,general
+Daman & Diu,2004.0,general
+Daman & Diu,2004.0,general
+Daman & Diu,2005.0,general
+Daman & Diu,2005.0,general
+Daman & Diu,2005.0,general
+Daman & Diu,2005.0,general
+Daman & Diu,2005.0,general
+Daman & Diu,2005.0,general
+Daman & Diu,2005.0,general
+Daman & Diu,2005.0,general
+Daman & Diu,2005.0,general
+Daman & Diu,2005.0,general
+Daman & Diu,2005.0,general
+Daman & Diu,2005.0,general
+Daman & Diu,2005.0,general
+Daman & Diu,2005.0,general
+Daman & Diu,2006.0,general
+Daman & Diu,2006.0,general
+Daman & Diu,2006.0,general
+Daman & Diu,2006.0,general
+Daman & Diu,2006.0,general
+Daman & Diu,2006.0,general
+Daman & Diu,2006.0,general
+Daman & Diu,2006.0,general
+Daman & Diu,2006.0,general
+Daman & Diu,2006.0,general
+Daman & Diu,2006.0,general
+Daman & Diu,2006.0,general
+Daman & Diu,2006.0,general
+Daman & Diu,2006.0,general
+Daman & Diu,2007.0,general
+Daman & Diu,2007.0,general
+Daman & Diu,2007.0,general
+Daman & Diu,2007.0,general
+Daman & Diu,2007.0,general
+Daman & Diu,2007.0,general
+Daman & Diu,2007.0,general
+Daman & Diu,2007.0,general
+Daman & Diu,2007.0,general
+Daman & Diu,2007.0,general
+Daman & Diu,2007.0,general
+Daman & Diu,2007.0,general
+Daman & Diu,2007.0,general
+Daman & Diu,2007.0,general
+Daman & Diu,2008.0,general
+Daman & Diu,2008.0,general
+Daman & Diu,2008.0,general
+Daman & Diu,2008.0,general
+Daman & Diu,2008.0,general
+Daman & Diu,2008.0,general
+Daman & Diu,2008.0,general
+Daman & Diu,2008.0,general
+Daman & Diu,2008.0,general
+Daman & Diu,2008.0,general
+Daman & Diu,2008.0,general
+Daman & Diu,2008.0,general
+Daman & Diu,2008.0,general
+Daman & Diu,2008.0,general
+Daman & Diu,2009.0,general
+Daman & Diu,2009.0,general
+Daman & Diu,2009.0,general
+Daman & Diu,2009.0,general
+Daman & Diu,2009.0,general
+Daman & Diu,2009.0,general
+Daman & Diu,2009.0,general
+Daman & Diu,2009.0,general
+Daman & Diu,2009.0,general
+Daman & Diu,2009.0,general
+Daman & Diu,2009.0,general
+Daman & Diu,2009.0,general
+Daman & Diu,2009.0,general
+Daman & Diu,2009.0,general
+Daman & Diu,2010.0,general
+Daman & Diu,2010.0,general
+Daman & Diu,2010.0,general
+Daman & Diu,2010.0,general
+Daman & Diu,2010.0,general
+Daman & Diu,2010.0,general
+Daman & Diu,2010.0,general
+Daman & Diu,2010.0,general
+Daman & Diu,2010.0,general
+Daman & Diu,2010.0,general
+Daman & Diu,2010.0,general
+Daman & Diu,2010.0,general
+Daman & Diu,2010.0,general
+Daman & Diu,2010.0,general
+Daman & Diu,2011.0,general
+Daman & Diu,2011.0,general
+Daman & Diu,2011.0,general
+Daman & Diu,2011.0,general
+Daman & Diu,2011.0,general
+Daman & Diu,2011.0,general
+Daman & Diu,2011.0,general
+Daman & Diu,2011.0,general
+Daman & Diu,2011.0,general
+Daman & Diu,2011.0,general
+Daman & Diu,2011.0,general
+Daman & Diu,2011.0,general
+Daman & Diu,2011.0,general
+Daman & Diu,2011.0,general
+Daman & Diu,2012.0,general
+Daman & Diu,2012.0,general
+Daman & Diu,2012.0,general
+Daman & Diu,2012.0,general
+Daman & Diu,2012.0,general
+Daman & Diu,2012.0,general
+Daman & Diu,2012.0,general
+Daman & Diu,2012.0,general
+Daman & Diu,2012.0,general
+Daman & Diu,2012.0,general
+Daman & Diu,2012.0,general
+Daman & Diu,2012.0,general
+Daman & Diu,2012.0,general
+Daman & Diu,2012.0,general
+Delhi UT,2001.0,general
+Delhi UT,2001.0,general
+Delhi UT,2001.0,general
+Delhi UT,2001.0,general
+Delhi UT,2001.0,general
+Delhi UT,2001.0,general
+Delhi UT,2001.0,general
+Delhi UT,2001.0,general
+Delhi UT,2001.0,general
+Delhi UT,2001.0,general
+Delhi UT,2001.0,general
+Delhi UT,2001.0,general
+Delhi UT,2001.0,general
+Delhi UT,2001.0,general
+Delhi UT,2002.0,general
+Delhi UT,2002.0,general
+Delhi UT,2002.0,general
+Delhi UT,2002.0,general
+Delhi UT,2002.0,general
+Delhi UT,2002.0,general
+Delhi UT,2002.0,general
+Delhi UT,2002.0,general
+Delhi UT,2002.0,general
+Delhi UT,2002.0,general
+Delhi UT,2002.0,general
+Delhi UT,2002.0,general
+Delhi UT,2002.0,general
+Delhi UT,2002.0,general
+Delhi UT,2003.0,general
+Delhi UT,2003.0,general
+Delhi UT,2003.0,general
+Delhi UT,2003.0,general
+Delhi UT,2003.0,general
+Delhi UT,2003.0,general
+Delhi UT,2003.0,general
+Delhi UT,2003.0,general
+Delhi UT,2003.0,general
+Delhi UT,2003.0,general
+Delhi UT,2003.0,general
+Delhi UT,2003.0,general
+Delhi UT,2003.0,general
+Delhi UT,2003.0,general
+Delhi UT,2004.0,general
+Delhi UT,2004.0,general
+Delhi UT,2004.0,general
+Delhi UT,2004.0,general
+Delhi UT,2004.0,general
+Delhi UT,2004.0,general
+Delhi UT,2004.0,general
+Delhi UT,2004.0,general
+Delhi UT,2004.0,general
+Delhi UT,2004.0,general
+Delhi UT,2004.0,general
+Delhi UT,2004.0,general
+Delhi UT,2004.0,general
+Delhi UT,2004.0,general
+Delhi UT,2005.0,general
+Delhi UT,2005.0,general
+Delhi UT,2005.0,general
+Delhi UT,2005.0,general
+Delhi UT,2005.0,general
+Delhi UT,2005.0,general
+Delhi UT,2005.0,general
+Delhi UT,2005.0,general
+Delhi UT,2005.0,general
+Delhi UT,2005.0,general
+Delhi UT,2005.0,general
+Delhi UT,2005.0,general
+Delhi UT,2005.0,general
+Delhi UT,2005.0,general
+Delhi UT,2006.0,general
+Delhi UT,2006.0,general
+Delhi UT,2006.0,general
+Delhi UT,2006.0,general
+Delhi UT,2006.0,general
+Delhi UT,2006.0,general
+Delhi UT,2006.0,general
+Delhi UT,2006.0,general
+Delhi UT,2006.0,general
+Delhi UT,2006.0,general
+Delhi UT,2006.0,general
+Delhi UT,2006.0,general
+Delhi UT,2006.0,general
+Delhi UT,2006.0,general
+Delhi UT,2007.0,general
+Delhi UT,2007.0,general
+Delhi UT,2007.0,general
+Delhi UT,2007.0,general
+Delhi UT,2007.0,general
+Delhi UT,2007.0,general
+Delhi UT,2007.0,general
+Delhi UT,2007.0,general
+Delhi UT,2007.0,general
+Delhi UT,2007.0,general
+Delhi UT,2007.0,general
+Delhi UT,2007.0,general
+Delhi UT,2007.0,general
+Delhi UT,2007.0,general
+Delhi UT,2008.0,general
+Delhi UT,2008.0,general
+Delhi UT,2008.0,general
+Delhi UT,2008.0,general
+Delhi UT,2008.0,general
+Delhi UT,2008.0,general
+Delhi UT,2008.0,general
+Delhi UT,2008.0,general
+Delhi UT,2008.0,general
+Delhi UT,2008.0,general
+Delhi UT,2008.0,general
+Delhi UT,2008.0,general
+Delhi UT,2008.0,general
+Delhi UT,2008.0,general
+Delhi UT,2009.0,general
+Delhi UT,2009.0,general
+Delhi UT,2009.0,general
+Delhi UT,2009.0,general
+Delhi UT,2009.0,general
+Delhi UT,2009.0,general
+Delhi UT,2009.0,general
+Delhi UT,2009.0,general
+Delhi UT,2009.0,general
+Delhi UT,2009.0,general
+Delhi UT,2009.0,general
+Delhi UT,2009.0,general
+Delhi UT,2009.0,general
+Delhi UT,2009.0,general
+Delhi UT,2010.0,general
+Delhi UT,2010.0,general
+Delhi UT,2010.0,general
+Delhi UT,2010.0,general
+Delhi UT,2010.0,general
+Delhi UT,2010.0,general
+Delhi UT,2010.0,general
+Delhi UT,2010.0,general
+Delhi UT,2010.0,general
+Delhi UT,2010.0,general
+Delhi UT,2010.0,general
+Delhi UT,2010.0,general
+Delhi UT,2010.0,general
+Delhi UT,2010.0,general
+Delhi UT,2011.0,general
+Delhi UT,2011.0,general
+Delhi UT,2011.0,general
+Delhi UT,2011.0,general
+Delhi UT,2011.0,general
+Delhi UT,2011.0,general
+Delhi UT,2011.0,general
+Delhi UT,2011.0,general
+Delhi UT,2011.0,general
+Delhi UT,2011.0,general
+Delhi UT,2011.0,general
+Delhi UT,2011.0,general
+Delhi UT,2011.0,general
+Delhi UT,2011.0,general
+Delhi UT,2012.0,general
+Delhi UT,2012.0,general
+Delhi UT,2012.0,general
+Delhi UT,2012.0,general
+Delhi UT,2012.0,general
+Delhi UT,2012.0,general
+Delhi UT,2012.0,general
+Delhi UT,2012.0,general
+Delhi UT,2012.0,general
+Delhi UT,2012.0,general
+Delhi UT,2012.0,general
+Delhi UT,2012.0,general
+Delhi UT,2012.0,general
+Delhi UT,2012.0,general
+Lakshadweep,2001.0,general
+Lakshadweep,2001.0,general
+Lakshadweep,2001.0,general
+Lakshadweep,2001.0,general
+Lakshadweep,2001.0,general
+Lakshadweep,2001.0,general
+Lakshadweep,2001.0,general
+Lakshadweep,2001.0,general
+Lakshadweep,2001.0,general
+Lakshadweep,2001.0,general
+Lakshadweep,2001.0,general
+Lakshadweep,2001.0,general
+Lakshadweep,2001.0,general
+Lakshadweep,2001.0,general
+Lakshadweep,2002.0,general
+Lakshadweep,2002.0,general
+Lakshadweep,2002.0,general
+Lakshadweep,2002.0,general
+Lakshadweep,2002.0,general
+Lakshadweep,2002.0,general
+Lakshadweep,2002.0,general
+Lakshadweep,2002.0,general
+Lakshadweep,2002.0,general
+Lakshadweep,2002.0,general
+Lakshadweep,2002.0,general
+Lakshadweep,2002.0,general
+Lakshadweep,2002.0,general
+Lakshadweep,2002.0,general
+Lakshadweep,2003.0,general
+Lakshadweep,2003.0,general
+Lakshadweep,2003.0,general
+Lakshadweep,2003.0,general
+Lakshadweep,2003.0,general
+Lakshadweep,2003.0,general
+Lakshadweep,2003.0,general
+Lakshadweep,2003.0,general
+Lakshadweep,2003.0,general
+Lakshadweep,2003.0,general
+Lakshadweep,2003.0,general
+Lakshadweep,2003.0,general
+Lakshadweep,2003.0,general
+Lakshadweep,2003.0,general
+Lakshadweep,2004.0,general
+Lakshadweep,2004.0,general
+Lakshadweep,2004.0,general
+Lakshadweep,2004.0,general
+Lakshadweep,2004.0,general
+Lakshadweep,2004.0,general
+Lakshadweep,2004.0,general
+Lakshadweep,2004.0,general
+Lakshadweep,2004.0,general
+Lakshadweep,2004.0,general
+Lakshadweep,2004.0,general
+Lakshadweep,2004.0,general
+Lakshadweep,2004.0,general
+Lakshadweep,2004.0,general
+Lakshadweep,2005.0,general
+Lakshadweep,2005.0,general
+Lakshadweep,2005.0,general
+Lakshadweep,2005.0,general
+Lakshadweep,2005.0,general
+Lakshadweep,2005.0,general
+Lakshadweep,2005.0,general
+Lakshadweep,2005.0,general
+Lakshadweep,2005.0,general
+Lakshadweep,2005.0,general
+Lakshadweep,2005.0,general
+Lakshadweep,2005.0,general
+Lakshadweep,2005.0,general
+Lakshadweep,2005.0,general
+Lakshadweep,2006.0,general
+Lakshadweep,2006.0,general
+Lakshadweep,2006.0,general
+Lakshadweep,2006.0,general
+Lakshadweep,2006.0,general
+Lakshadweep,2006.0,general
+Lakshadweep,2006.0,general
+Lakshadweep,2006.0,general
+Lakshadweep,2006.0,general
+Lakshadweep,2006.0,general
+Lakshadweep,2006.0,general
+Lakshadweep,2006.0,general
+Lakshadweep,2006.0,general
+Lakshadweep,2006.0,general
+Lakshadweep,2007.0,general
+Lakshadweep,2007.0,general
+Lakshadweep,2007.0,general
+Lakshadweep,2007.0,general
+Lakshadweep,2007.0,general
+Lakshadweep,2007.0,general
+Lakshadweep,2007.0,general
+Lakshadweep,2007.0,general
+Lakshadweep,2007.0,general
+Lakshadweep,2007.0,general
+Lakshadweep,2007.0,general
+Lakshadweep,2007.0,general
+Lakshadweep,2007.0,general
+Lakshadweep,2007.0,general
+Lakshadweep,2008.0,general
+Lakshadweep,2008.0,general
+Lakshadweep,2008.0,general
+Lakshadweep,2008.0,general
+Lakshadweep,2008.0,general
+Lakshadweep,2008.0,general
+Lakshadweep,2008.0,general
+Lakshadweep,2008.0,general
+Lakshadweep,2008.0,general
+Lakshadweep,2008.0,general
+Lakshadweep,2008.0,general
+Lakshadweep,2008.0,general
+Lakshadweep,2008.0,general
+Lakshadweep,2008.0,general
+Lakshadweep,2009.0,general
+Lakshadweep,2009.0,general
+Lakshadweep,2009.0,general
+Lakshadweep,2009.0,general
+Lakshadweep,2009.0,general
+Lakshadweep,2009.0,general
+Lakshadweep,2009.0,general
+Lakshadweep,2009.0,general
+Lakshadweep,2009.0,general
+Lakshadweep,2009.0,general
+Lakshadweep,2009.0,general
+Lakshadweep,2009.0,general
+Lakshadweep,2009.0,general
+Lakshadweep,2009.0,general
+Lakshadweep,2010.0,general
+Lakshadweep,2010.0,general
+Lakshadweep,2010.0,general
+Lakshadweep,2010.0,general
+Lakshadweep,2010.0,general
+Lakshadweep,2010.0,general
+Lakshadweep,2010.0,general
+Lakshadweep,2010.0,general
+Lakshadweep,2010.0,general
+Lakshadweep,2010.0,general
+Lakshadweep,2010.0,general
+Lakshadweep,2010.0,general
+Lakshadweep,2010.0,general
+Lakshadweep,2010.0,general
+Lakshadweep,2011.0,general
+Lakshadweep,2011.0,general
+Lakshadweep,2011.0,general
+Lakshadweep,2011.0,general
+Lakshadweep,2011.0,general
+Lakshadweep,2011.0,general
+Lakshadweep,2011.0,general
+Lakshadweep,2011.0,general
+Lakshadweep,2011.0,general
+Lakshadweep,2011.0,general
+Lakshadweep,2011.0,general
+Lakshadweep,2011.0,general
+Lakshadweep,2011.0,general
+Lakshadweep,2011.0,general
+Lakshadweep,2012.0,general
+Lakshadweep,2012.0,general
+Lakshadweep,2012.0,general
+Lakshadweep,2012.0,general
+Lakshadweep,2012.0,general
+Lakshadweep,2012.0,general
+Lakshadweep,2012.0,general
+Lakshadweep,2012.0,general
+Lakshadweep,2012.0,general
+Lakshadweep,2012.0,general
+Lakshadweep,2012.0,general
+Lakshadweep,2012.0,general
+Lakshadweep,2012.0,general
+Lakshadweep,2012.0,general
+Puducherry,2001.0,general
+Puducherry,2001.0,general
+Puducherry,2001.0,general
+Puducherry,2001.0,general
+Puducherry,2001.0,general
+Puducherry,2001.0,general
+Puducherry,2001.0,general
+Puducherry,2001.0,general
+Puducherry,2001.0,general
+Puducherry,2001.0,general
+Puducherry,2001.0,general
+Puducherry,2001.0,general
+Puducherry,2001.0,general
+Puducherry,2001.0,general
+Puducherry,2002.0,general
+Puducherry,2002.0,general
+Puducherry,2002.0,general
+Puducherry,2002.0,general
+Puducherry,2002.0,general
+Puducherry,2002.0,general
+Puducherry,2002.0,general
+Puducherry,2002.0,general
+Puducherry,2002.0,general
+Puducherry,2002.0,general
+Puducherry,2002.0,general
+Puducherry,2002.0,general
+Puducherry,2002.0,general
+Puducherry,2002.0,general
+Puducherry,2003.0,general
+Puducherry,2003.0,general
+Puducherry,2003.0,general
+Puducherry,2003.0,general
+Puducherry,2003.0,general
+Puducherry,2003.0,general
+Puducherry,2003.0,general
+Puducherry,2003.0,general
+Puducherry,2003.0,general
+Puducherry,2003.0,general
+Puducherry,2003.0,general
+Puducherry,2003.0,general
+Puducherry,2003.0,general
+Puducherry,2003.0,general
+Puducherry,2004.0,general
+Puducherry,2004.0,general
+Puducherry,2004.0,general
+Puducherry,2004.0,general
+Puducherry,2004.0,general
+Puducherry,2004.0,general
+Puducherry,2004.0,general
+Puducherry,2004.0,general
+Puducherry,2004.0,general
+Puducherry,2004.0,general
+Puducherry,2004.0,general
+Puducherry,2004.0,general
+Puducherry,2004.0,general
+Puducherry,2004.0,general
+Puducherry,2005.0,general
+Puducherry,2005.0,general
+Puducherry,2005.0,general
+Puducherry,2005.0,general
+Puducherry,2005.0,general
+Puducherry,2005.0,general
+Puducherry,2005.0,general
+Puducherry,2005.0,general
+Puducherry,2005.0,general
+Puducherry,2005.0,general
+Puducherry,2005.0,general
+Puducherry,2005.0,general
+Puducherry,2005.0,general
+Puducherry,2005.0,general
+Puducherry,2006.0,general
+Puducherry,2006.0,general
+Puducherry,2006.0,general
+Puducherry,2006.0,general
+Puducherry,2006.0,general
+Puducherry,2006.0,general
+Puducherry,2006.0,general
+Puducherry,2006.0,general
+Puducherry,2006.0,general
+Puducherry,2006.0,general
+Puducherry,2006.0,general
+Puducherry,2006.0,general
+Puducherry,2006.0,general
+Puducherry,2006.0,general
+Puducherry,2007.0,general
+Puducherry,2007.0,general
+Puducherry,2007.0,general
+Puducherry,2007.0,general
+Puducherry,2007.0,general
+Puducherry,2007.0,general
+Puducherry,2007.0,general
+Puducherry,2007.0,general
+Puducherry,2007.0,general
+Puducherry,2007.0,general
+Puducherry,2007.0,general
+Puducherry,2007.0,general
+Puducherry,2007.0,general
+Puducherry,2007.0,general
+Puducherry,2008.0,general
+Puducherry,2008.0,general
+Puducherry,2008.0,general
+Puducherry,2008.0,general
+Puducherry,2008.0,general
+Puducherry,2008.0,general
+Puducherry,2008.0,general
+Puducherry,2008.0,general
+Puducherry,2008.0,general
+Puducherry,2008.0,general
+Puducherry,2008.0,general
+Puducherry,2008.0,general
+Puducherry,2008.0,general
+Puducherry,2008.0,general
+Puducherry,2009.0,general
+Puducherry,2009.0,general
+Puducherry,2009.0,general
+Puducherry,2009.0,general
+Puducherry,2009.0,general
+Puducherry,2009.0,general
+Puducherry,2009.0,general
+Puducherry,2009.0,general
+Puducherry,2009.0,general
+Puducherry,2009.0,general
+Puducherry,2009.0,general
+Puducherry,2009.0,general
+Puducherry,2009.0,general
+Puducherry,2009.0,general
+Puducherry,2010.0,general
+Puducherry,2010.0,general
+Puducherry,2010.0,general
+Puducherry,2010.0,general
+Puducherry,2010.0,general
+Puducherry,2010.0,general
+Puducherry,2010.0,general
+Puducherry,2010.0,general
+Puducherry,2010.0,general
+Puducherry,2010.0,general
+Puducherry,2010.0,general
+Puducherry,2010.0,general
+Puducherry,2010.0,general
+Puducherry,2010.0,general
+Puducherry,2011.0,general
+Puducherry,2011.0,general
+Puducherry,2011.0,general
+Puducherry,2011.0,general
+Puducherry,2011.0,general
+Puducherry,2011.0,general
+Puducherry,2011.0,general
+Puducherry,2011.0,general
+Puducherry,2011.0,general
+Puducherry,2011.0,general
+Puducherry,2011.0,general
+Puducherry,2011.0,general
+Puducherry,2011.0,general
+Puducherry,2011.0,general
+Puducherry,2012.0,general
+Puducherry,2012.0,general
+Puducherry,2012.0,general
+Puducherry,2012.0,general
+Puducherry,2012.0,general
+Puducherry,2012.0,general
+Puducherry,2012.0,general
+Puducherry,2012.0,general
+Puducherry,2012.0,general
+Puducherry,2012.0,general
+Puducherry,2012.0,general
+Puducherry,2012.0,general
+Puducherry,2012.0,general
+Puducherry,2012.0,general
